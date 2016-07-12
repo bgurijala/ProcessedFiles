@@ -1,0 +1,11 @@
+2016-06-23T02:29:40.882-06:00
+name : 3U3..I...'Q4' RKO'
+desc : !l}\}a}&amp;Lf}&gt;m}}qcr:hZrK H#CWwH(}\}J6q:
+end : 08.07.2016
+budget : 56,548
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 3U3..I...'Q4' RKO' is: Compliant
+The parameter: desc :  having value: !l}\}a}&amp;Lf}&gt;m}}qcr:hZrK H#CWwH(}\}J6q: is: Compliant
+The parameter: end :  having value: 08.07.2016 is: Compliant
+The parameter: budget :  having value: 56,548 is: Compliant

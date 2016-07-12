@@ -1,0 +1,11 @@
+2016-06-23T01:46:54.802-06:00
+name : JRW:Y'''6. 2
+desc : }d}zeqt%}pm}nv}}q}T:z
+end : 07.07.2016
+budget : 42,806
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: JRW:Y'''6. 2 is: Compliant
+The parameter: desc :  having value: }d}zeqt%}pm}nv}}q}T:z is: Compliant
+The parameter: end :  having value: 07.07.2016 is: Compliant
+The parameter: budget :  having value: 42,806 is: Compliant

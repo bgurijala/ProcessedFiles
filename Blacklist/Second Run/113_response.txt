@@ -1,0 +1,5 @@
+2016-06-24T06:16:36.489-06:00
+name : NB   '7''' .b C'O''
+desc : <A HREF="http://ha.ckers.org@google">XSS</A>
+The parameter: name :  having value: NB   '7''' .b C'O'' is: Compliant
+The parameter: desc :  having value: <A HREF="http://ha.ckers.org@google">XSS</A> is: Suspicious

@@ -1,0 +1,11 @@
+2016-06-23T02:23:55.664-06:00
+name : PD8:.S3'l wN9w''M 
+desc : aS!}}}2n=r}z@rdtx}}APFggrh7}ovM}%
+end : 24.06.2016
+budget : 22,517
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: PD8:.S3'l wN9w''M is: Compliant
+The parameter: desc :  having value: aS!}}}2n=r}z@rdtx}}APFggrh7}ovM}% is: Compliant
+The parameter: end :  having value: 24.06.2016 is: Compliant
+The parameter: budget :  having value: 22,517 is: Compliant

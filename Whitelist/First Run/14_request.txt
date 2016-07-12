@@ -1,0 +1,11 @@
+2016-06-23T01:59:10.550-06:00
+name : Oj:.9. VdU.''N..3  .Tm I
+desc : p};ttx}#i}}}ncjryriu
+end : 28.06.2016
+budget : 6,597
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Oj:.9. VdU.''N..3  .Tm I is: Compliant
+The parameter: desc :  having value: p};ttx}#i}}}ncjryriu is: Compliant
+The parameter: end :  having value: 28.06.2016 is: Compliant
+The parameter: budget :  having value: 6,597 is: Compliant

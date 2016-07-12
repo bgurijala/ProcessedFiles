@@ -1,0 +1,11 @@
+2016-06-24T03:12:40.408-06:00
+name : 69b''' 5'3'.'L ' ..OK S'. .O
+desc : &lt;STYLE TYPE="text/javascript"&gt;alert('XSS');&lt;/STYLE&gt;
+end : 28.06.2016
+budget : 21,701
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 69b''' 5'3'.'L ' ..OK S'. .O is: Compliant
+The parameter: desc :  having value: &lt;STYLE TYPE="text/javascript"&gt;alert('XSS');&lt;/STYLE&gt; is: Potentially Malicious
+The parameter: end :  having value: 28.06.2016 is: Compliant
+The parameter: budget :  having value: 21,701 is: Compliant

@@ -1,0 +1,11 @@
+2016-06-23T04:09:31.565-06:00
+name : VM:. Qt61:4.F
+desc : T:$6b}e}}qbk[k}iv{3s
+end : 28.06.2016
+budget : 8,314
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: VM:. Qt61:4.F is: Compliant
+The parameter: desc :  having value: T:$6b}e}}qbk[k}iv{3s is: Compliant
+The parameter: end :  having value: 28.06.2016 is: Compliant
+The parameter: budget :  having value: 8,314 is: Compliant

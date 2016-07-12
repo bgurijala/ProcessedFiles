@@ -1,0 +1,11 @@
+2016-06-24T06:34:22.416-06:00
+name : 55w'' 'F'v' . 
+desc : ';alert(0)//\';alert(1)//";alert(2)//\";alert(3)//--&gt;&lt;/SCRIPT&gt;"&gt;'&gt;&lt;SCRIPT&gt;alert(4)&lt;/SCRIPT&gt;=&amp;{}");}alert(6);function xss(){//
+end : 30.06.2016
+budget : 51,775
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 55w'' 'F'v' . is: Compliant
+The parameter: desc :  having value: ';alert(0)//\';alert(1)//";alert(2)//\";alert(3)//--&gt;&lt;/SCRIPT&gt;"&gt;'&gt;&lt;SCRIPT&gt;alert(4)&lt;/SCRIPT&gt;=&amp;{}");}alert(6);function xss(){// is: Potentially Malicious
+The parameter: end :  having value: 30.06.2016 is: Compliant
+The parameter: budget :  having value: 51,775 is: Compliant

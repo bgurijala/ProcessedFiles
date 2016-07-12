@@ -1,0 +1,5 @@
+2016-06-24T05:28:03.675-06:00
+name : vGz'O715.'' 8..'p  .6w'c64.m
+desc : navigatorurl:test" -chrome "javascript:C=Components.classes;I=Components.interfaces;file=C['@mozilla.org/file/local;1'].createInstance(I.nsILocalFile);file.initWithPath('C:' String.fromCharCode(92) String.fromCharCode(92) 'Windows' String.fromCharCode(92) String.fromCharCode(92) 'System32' String.fromCharCode(92) String.fromCharCode(92) 'cmd.exe');process=C['@mozilla.org/process/util;1'].createInstance(I.nsIProcess);process.init(file);process.run(true%2c{}%2c0);alert(process)
+The parameter: name :  having value: vGz'O715.'' 8..'p  .6w'c64.m is: Compliant
+The parameter: desc :  having value: navigatorurl:test" -chrome "javascript:C=Components.classes;I=Components.interfaces;file=C['@mozilla.org/file/local;1'].createInstance(I.nsILocalFile);file.initWithPath('C:' String.fromCharCode(92) String.fromCharCode(92) 'Windows' String.fromCharCode(92) String.fromCharCode(92) 'System32' String.fromCharCode(92) String.fromCharCode(92) 'cmd.exe');process=C['@mozilla.org/process/util;1'].createInstance(I.nsIProcess);process.init(file);process.run(true%2c{}%2c0);alert(process) is: Potentially Malicious

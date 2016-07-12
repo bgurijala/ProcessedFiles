@@ -1,0 +1,11 @@
+2016-06-24T05:08:42.243-06:00
+name : 9Le: 'JJ5 .1 .t ' 0Y  X  3 4
+desc : &amp;#60;IMG SRC&amp;#61;&amp;#39;vbscript&amp;#58;msgbox&amp;#40;&amp;#34;XSS&amp;#34;&amp;#41;&amp;#39;&amp;#62;
+end : 19.07.2016
+budget : 3,136
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 9Le: 'JJ5 .1 .t ' 0Y  X  3 4 is: Compliant
+The parameter: desc :  having value: &amp;#60;IMG SRC&amp;#61;&amp;#39;vbscript&amp;#58;msgbox&amp;#40;&amp;#34;XSS&amp;#34;&amp;#41;&amp;#39;&amp;#62; is: Compliant
+The parameter: end :  having value: 19.07.2016 is: Compliant
+The parameter: budget :  having value: 3,136 is: Compliant

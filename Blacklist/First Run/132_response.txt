@@ -1,0 +1,5 @@
+2016-06-24T06:55:43.662-06:00
+name : HSx..2B2yJ7'5z'8 3::'2wFE'.'
+desc : <DIV STYLE="width: expression(alert('XSS'));">
+The parameter: name :  having value: HSx..2B2yJ7'5z'8 3::'2wFE'.' is: Compliant
+The parameter: desc :  having value: <DIV STYLE="width: expression(alert('XSS'));"> is: Potentially Malicious

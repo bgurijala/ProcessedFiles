@@ -1,0 +1,5 @@
+2016-06-24T05:20:36.358-06:00
+name : 44.4 4 H'
+desc : &#60;XSS STYLE&#61;&#34;xss&#58;expression&#40;alert&#40;&#39;XSS&#39;&#41;&#41;&#34;&#62;
+The parameter: name :  having value: 44.4 4 H' is: Compliant
+The parameter: desc :  having value: &#60;XSS STYLE&#61;&#34;xss&#58;expression&#40;alert&#40;&#39;XSS&#39;&#41;&#41;&#34;&#62; is: Potentially Malicious

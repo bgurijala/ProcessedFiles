@@ -1,0 +1,11 @@
+2016-06-24T04:56:47.055-06:00
+name : 6KTVT.'''    ''6DC. .T.
+desc : &amp;#60;BODY ONLOAD&amp;#61;alert&amp;#40;&amp;#39;XSS&amp;#39;&amp;#41;&amp;#62;
+end : 28.06.2016
+budget : 4,851
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 6KTVT.'''    ''6DC. .T. is: Compliant
+The parameter: desc :  having value: &amp;#60;BODY ONLOAD&amp;#61;alert&amp;#40;&amp;#39;XSS&amp;#39;&amp;#41;&amp;#62; is: Compliant
+The parameter: end :  having value: 28.06.2016 is: Compliant
+The parameter: budget :  having value: 4,851 is: Compliant

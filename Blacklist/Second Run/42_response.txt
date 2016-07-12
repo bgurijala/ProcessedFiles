@@ -1,0 +1,5 @@
+2016-06-24T03:40:18.144-06:00
+name : RX s4M.
+desc : <IMG SRC=`javascript:alert("RSnake says### 'XSS'")`>
+The parameter: name :  having value: RX s4M. is: Compliant
+The parameter: desc :  having value: <IMG SRC=`javascript:alert("RSnake says### 'XSS'")`> is: Potentially Malicious

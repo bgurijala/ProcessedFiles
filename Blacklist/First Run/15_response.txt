@@ -1,0 +1,5 @@
+2016-06-24T02:46:15.640-06:00
+name : 7Z:..Y'
+desc : httP://aa">alert(123)
+The parameter: name :  having value: 7Z:..Y' is: Compliant
+The parameter: desc :  having value: httP://aa">alert(123) is: Malicious

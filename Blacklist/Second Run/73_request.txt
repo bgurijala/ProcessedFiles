@@ -1,0 +1,11 @@
+2016-06-24T04:58:32.646-06:00
+name : Sf:T'G8S'
+desc : &amp;#60;DIV STYLE&amp;#61;&amp;#34;width&amp;#58; expression&amp;#40;alert&amp;#40;&amp;#39;XSS&amp;#39;&amp;#41;&amp;#41;&amp;#59;&amp;#34;&amp;#62;
+end : 28.07.2016
+budget : 2,635
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Sf:T'G8S' is: Compliant
+The parameter: desc :  having value: &amp;#60;DIV STYLE&amp;#61;&amp;#34;width&amp;#58; expression&amp;#40;alert&amp;#40;&amp;#39;XSS&amp;#39;&amp;#41;&amp;#41;&amp;#59;&amp;#34;&amp;#62; is: Potentially Malicious
+The parameter: end :  having value: 28.07.2016 is: Compliant
+The parameter: budget :  having value: 2,635 is: Compliant

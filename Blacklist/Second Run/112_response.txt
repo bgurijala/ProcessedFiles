@@ -1,0 +1,5 @@
+2016-06-24T06:14:59.803-06:00
+name : W2'8LN1
+desc : <A HREF="http://google:ha.ckers.org">XSS</A>
+The parameter: name :  having value: W2'8LN1 is: Compliant
+The parameter: desc :  having value: <A HREF="http://google:ha.ckers.org">XSS</A> is: Suspicious

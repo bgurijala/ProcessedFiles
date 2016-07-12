@@ -1,0 +1,5 @@
+2016-06-23T04:29:27.084-06:00
+name : OX3Ssn.14.
+desc : }rQixF!}}Tog}}r't}}i
+The parameter: name :  having value: OX3Ssn.14. is: Compliant
+The parameter: desc :  having value: }rQixF!}}Tog}}r't}}i is: Compliant

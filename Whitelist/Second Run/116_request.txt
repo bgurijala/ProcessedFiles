@@ -1,0 +1,11 @@
+2016-06-23T03:51:03.769-06:00
+name : Ew0P''f1'v.
+desc : ae:}U2dca}Mt}gxci!frH.&lt;}
+end : 19.07.2016
+budget : 7598
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Ew0P''f1'v. is: Compliant
+The parameter: desc :  having value: ae:}U2dca}Mt}gxci!frH.&lt;} is: Compliant
+The parameter: end :  having value: 19.07.2016 is: Compliant
+The parameter: budget :  having value: 7598 is: Compliant

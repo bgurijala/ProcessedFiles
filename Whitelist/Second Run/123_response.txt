@@ -1,0 +1,5 @@
+2016-06-23T03:59:32.271-06:00
+name : 0D6''Ee....  '
+desc : u}hIkpw3nsdhuEsx}bt}
+The parameter: name :  having value: 0D6''Ee....  ' is: Compliant
+The parameter: desc :  having value: u}hIkpw3nsdhuEsx}bt} is: Compliant

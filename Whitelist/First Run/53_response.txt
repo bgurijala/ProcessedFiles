@@ -1,0 +1,5 @@
+2016-06-23T02:42:40.327-06:00
+name : 8Ys.O..
+desc : _zf{yi}w}J0ps}"}m]}%
+The parameter: name :  having value: 8Ys.O.. is: Compliant
+The parameter: desc :  having value: _zf{yi}w}J0ps}"}m]}% is: Compliant

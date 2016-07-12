@@ -1,0 +1,5 @@
+2016-06-24T05:42:28.624-06:00
+name : CF ''E9i y 7. '   E f''97.'
+desc : '';!--"<XSS>=&{()}
+The parameter: name :  having value: CF ''E9i y 7. '   E f''97.' is: Compliant
+The parameter: desc :  having value: '';!--"<XSS>=&{()} is: Compliant

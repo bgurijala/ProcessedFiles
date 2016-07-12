@@ -1,0 +1,11 @@
+2016-06-23T02:07:43.023-06:00
+name : Lx.K.7'3s
+desc : 2xytbxz}oO}7i@=}z[}v
+end : 14.07.2016
+budget : 699,972
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Lx.K.7'3s is: Compliant
+The parameter: desc :  having value: 2xytbxz}oO}7i@=}z[}v is: Compliant
+The parameter: end :  having value: 14.07.2016 is: Compliant
+The parameter: budget :  having value: 699,972 is: Compliant

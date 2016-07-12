@@ -1,0 +1,5 @@
+2016-06-24T03:36:25.775-06:00
+name : vg4U ''
+desc : <!--[if gte IE 4]>alert('XSS');<![endif]-->
+The parameter: name :  having value: vg4U '' is: Compliant
+The parameter: desc :  having value: <!--[if gte IE 4]>alert('XSS');<![endif]--> is: Potentially Malicious

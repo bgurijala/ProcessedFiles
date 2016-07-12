@@ -1,0 +1,11 @@
+2016-06-24T02:19:14.475-06:00
+name : Q1h:.3w28N'.5
+desc : XSS-STYLE=xss:e/**/xpression(alert('XSS'))&gt;
+end : 24.06.2016
+budget : 4,344
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Q1h:.3w28N'.5 is: Compliant
+The parameter: desc :  having value: XSS-STYLE=xss:e/**/xpression(alert('XSS'))&gt; is: Potentially Malicious
+The parameter: end :  having value: 24.06.2016 is: Compliant
+The parameter: budget :  having value: 4,344 is: Compliant

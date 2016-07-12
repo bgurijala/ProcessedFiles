@@ -1,0 +1,5 @@
+2016-06-24T06:07:39.249-06:00
+name : i1B'.'5T  wB'..7 gv8'S'.7.:.
+desc : document.write("<SCRI");PT SRC="http://ha.ckers.org/xss.js">
+The parameter: name :  having value: i1B'.'5T  wB'..7 gv8'S'.7.:. is: Compliant
+The parameter: desc :  having value: document.write("<SCRI");PT SRC="http://ha.ckers.org/xss.js"> is: Suspicious

@@ -1,0 +1,11 @@
+2016-06-24T03:36:17.182-06:00
+name : vg4U ''
+desc : &lt;!--[if gte IE 4]&gt;&lt;SCRIPT&gt;alert('XSS');&lt;/SCRIPT&gt;&lt;![endif]--&gt;
+end : 28.06.2016
+budget : 71,543
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: vg4U '' is: Compliant
+The parameter: desc :  having value: &lt;!--[if gte IE 4]&gt;&lt;SCRIPT&gt;alert('XSS');&lt;/SCRIPT&gt;&lt;![endif]--&gt; is: Potentially Malicious
+The parameter: end :  having value: 28.06.2016 is: Compliant
+The parameter: budget :  having value: 71,543 is: Compliant

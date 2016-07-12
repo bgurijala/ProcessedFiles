@@ -1,0 +1,5 @@
+2016-06-24T03:07:55.825-06:00
+name : 7o H6'.G72 8':'o ..3 E
+desc : '>" SRC="http://ha.ckers.org/xss.js">
+The parameter: name :  having value: 7o H6'.G72 8':'o ..3 E is: Compliant
+The parameter: desc :  having value: '>" SRC="http://ha.ckers.org/xss.js"> is: Suspicious

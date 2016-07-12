@@ -1,0 +1,5 @@
+2016-06-24T03:00:39.860-06:00
+name : 4O8 .85O.
+desc : <alert("xss");//<
+The parameter: name :  having value: 4O8 .85O. is: Compliant
+The parameter: desc :  having value: <alert("xss");//< is: Potentially Malicious

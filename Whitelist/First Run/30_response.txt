@@ -1,0 +1,5 @@
+2016-06-23T02:17:45.512-06:00
+name : EUD.O5''3XW
+desc : }ui+7}P}{}},}5xh}j/k
+The parameter: name :  having value: EUD.O5''3XW is: Compliant
+The parameter: desc :  having value: }ui+7}P}{}},}5xh}j/k is: Compliant

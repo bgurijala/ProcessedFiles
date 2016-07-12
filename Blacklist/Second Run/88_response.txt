@@ -1,0 +1,5 @@
+2016-06-24T05:26:27.752-06:00
+name : 1v ''eh
+desc : firefoxurl:test|" -new-window javascript:alert('Cross%20Browser%20Scripting!');"
+The parameter: name :  having value: 1v ''eh is: Compliant
+The parameter: desc :  having value: firefoxurl:test|" -new-window javascript:alert('Cross%20Browser%20Scripting!');" is: Potentially Malicious

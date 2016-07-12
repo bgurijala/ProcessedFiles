@@ -1,0 +1,5 @@
+2016-06-24T04:40:08.067-06:00
+name : BQg: DR
+desc : <body onload=;a1={x:document};;;;;;;;;_=a1.x;_.write(1);;;;
+The parameter: name :  having value: BQg: DR is: Compliant
+The parameter: desc :  having value: <body onload=;a1={x:document};;;;;;;;;_=a1.x;_.write(1);;;; is: Potentially Malicious

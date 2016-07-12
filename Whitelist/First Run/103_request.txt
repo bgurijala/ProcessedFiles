@@ -1,0 +1,11 @@
+2016-06-23T03:36:53.011-06:00
+name : rC''.C'P
+desc : Ze}}lr}zm}}}kjn}zTkkioc}M$!}xF}}z
+end : 28.06.2016
+budget : 82,834
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: rC''.C'P is: Compliant
+The parameter: desc :  having value: Ze}}lr}zm}}}kjn}zTkkioc}M$!}xF}}z is: Compliant
+The parameter: end :  having value: 28.06.2016 is: Compliant
+The parameter: budget :  having value: 82,834 is: Compliant

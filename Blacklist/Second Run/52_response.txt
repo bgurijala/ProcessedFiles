@@ -1,0 +1,5 @@
+2016-06-24T04:13:48.986-06:00
+name : N2: j'19'6'
+desc : <STYLE>.XSS{background-image:url("javascript:alert('XSS')");}</STYLE><A CLASS=XSS></A>
+The parameter: name :  having value: N2: j'19'6' is: Compliant
+The parameter: desc :  having value: <STYLE>.XSS{background-image:url("javascript:alert('XSS')");}</STYLE><A CLASS=XSS></A> is: Potentially Malicious

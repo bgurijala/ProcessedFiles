@@ -1,0 +1,11 @@
+2016-06-23T02:58:48.699-06:00
+name : Bi'S.MT 4'  v'AO'...''.T.'2
+desc : rsAkfzF}dxs}}}}}eqrB
+end : 23.06.2016
+budget : 782,348
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Bi'S.MT 4'  v'AO'...''.T.'2 is: Compliant
+The parameter: desc :  having value: rsAkfzF}dxs}}}}}eqrB is: Compliant
+The parameter: end :  having value: 23.06.2016 is: Compliant
+The parameter: budget :  having value: 782,348 is: Compliant

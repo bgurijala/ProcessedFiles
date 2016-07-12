@@ -1,0 +1,11 @@
+2016-06-23T03:02:59.636-06:00
+name : Ar7''.V O7 . .X
+desc : }}qz}s}b@}}}y_-4}}}}
+end : 25.06.2016
+budget : 4,132
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Ar7''.V O7 . .X is: Compliant
+The parameter: desc :  having value: }}qz}s}b@}}}y_-4}}}} is: Compliant
+The parameter: end :  having value: 25.06.2016 is: Compliant
+The parameter: budget :  having value: 4,132 is: Compliant

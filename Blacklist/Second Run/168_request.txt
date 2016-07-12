@@ -1,0 +1,11 @@
+2016-06-24T08:18:17.718-06:00
+name : 2W''JS'95n 
+desc : &lt;xml id=i&gt;&lt;x&gt;&lt;c&gt;&lt;![cdata[&lt;img src="javas]]&gt;&lt;![cdata[cript:alert('xss');"&gt;]]&gt;&lt;/c&gt;&lt;/x&gt;&lt;/xml&gt;&lt;span datasrc=#i datafld=c dataformatas=html&gt;
+end : 01.07.2016
+budget : 1,841
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 2W''JS'95n is: Compliant
+The parameter: desc :  having value: &lt;xml id=i&gt;&lt;x&gt;&lt;c&gt;&lt;![cdata[&lt;img src="javas]]&gt;&lt;![cdata[cript:alert('xss');"&gt;]]&gt;&lt;/c&gt;&lt;/x&gt;&lt;/xml&gt;&lt;span datasrc=#i datafld=c dataformatas=html&gt; is: Potentially Malicious
+The parameter: end :  having value: 01.07.2016 is: Compliant
+The parameter: budget :  having value: 1,841 is: Compliant

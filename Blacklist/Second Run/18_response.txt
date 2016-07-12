@@ -1,0 +1,5 @@
+2016-06-24T02:52:09.506-06:00
+name : S6.BAR'K'3'.u': '. 3B'0PK.'
+desc : '> alert(3)
+The parameter: name :  having value: S6.BAR'K'3'.u': '. 3B'0PK.' is: Compliant
+The parameter: desc :  having value: '> alert(3) is: Potentially Malicious

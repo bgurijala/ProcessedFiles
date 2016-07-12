@@ -1,0 +1,11 @@
+2016-06-23T02:00:25.765-06:00
+name : d48B 1 w3 N'
+desc : }kRnfNrf;$lofuq&amp;}.f}cn
+end : 29.06.2016
+budget : 7,165
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: d48B 1 w3 N' is: Compliant
+The parameter: desc :  having value: }kRnfNrf;$lofuq&amp;}.f}cn is: Compliant
+The parameter: end :  having value: 29.06.2016 is: Compliant
+The parameter: budget :  having value: 7,165 is: Compliant

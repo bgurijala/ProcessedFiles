@@ -1,0 +1,11 @@
+2016-06-24T05:18:42.399-06:00
+name : nX'' '1  .b. . .'J'  'V1.'6
+desc : &amp;#60;IMG STYLE&amp;#61;&amp;#34;xss&amp;#58;expr&amp;#47;&amp;#42;XSS&amp;#42;&amp;#47;ession&amp;#40;alert&amp;#40;&amp;#39;XSS&amp;#39;&amp;#41;&amp;#41;&amp;#34;&amp;#62;
+end : 10.08.2016
+budget : 7,355
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: nX'' '1  .b. . .'J'  'V1.'6 is: Compliant
+The parameter: desc :  having value: &amp;#60;IMG STYLE&amp;#61;&amp;#34;xss&amp;#58;expr&amp;#47;&amp;#42;XSS&amp;#42;&amp;#47;ession&amp;#40;alert&amp;#40;&amp;#39;XSS&amp;#39;&amp;#41;&amp;#41;&amp;#34;&amp;#62; is: Potentially Malicious
+The parameter: end :  having value: 10.08.2016 is: Compliant
+The parameter: budget :  having value: 7,355 is: Compliant

@@ -1,0 +1,5 @@
+2016-06-24T02:44:14.121-06:00
+name : R0'gR'.U :'.'K.'5 97U ':.94
+desc : <!--#exec cmd="/bin/echo '<!--#exec cmd="/bin/echo '=http://ha.ckers.org/xss.js>'"-->
+The parameter: name :  having value: R0'gR'.U :'.'K.'5 97U ':.94 is: Compliant
+The parameter: desc :  having value: <!--#exec cmd="/bin/echo '<!--#exec cmd="/bin/echo '=http://ha.ckers.org/xss.js>'"--> is: Malicious

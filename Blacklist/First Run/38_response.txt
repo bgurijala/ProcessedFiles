@@ -1,0 +1,5 @@
+2016-06-24T03:32:17.649-06:00
+name : 5JK..z8v  '..31''.SRW
+desc : <IMG SRC="jav&#x09;ascript:alert(<WBR>'XSS');">
+The parameter: name :  having value: 5JK..z8v  '..31''.SRW is: Compliant
+The parameter: desc :  having value: <IMG SRC="jav&#x09;ascript:alert(<WBR>'XSS');"> is: Potentially Malicious

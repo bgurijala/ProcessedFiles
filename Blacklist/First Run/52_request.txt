@@ -1,0 +1,11 @@
+2016-06-24T04:13:37.153-06:00
+name : N2: j'19'6'
+desc : &lt;STYLE&gt;.XSS{background-image:url("javascript:alert('XSS')");}&lt;/STYLE&gt;&lt;A CLASS=XSS&gt;&lt;/A&gt;
+end : 30.06.2016
+budget : 6,544
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: N2: j'19'6' is: Compliant
+The parameter: desc :  having value: &lt;STYLE&gt;.XSS{background-image:url("javascript:alert('XSS')");}&lt;/STYLE&gt;&lt;A CLASS=XSS&gt;&lt;/A&gt; is: Potentially Malicious
+The parameter: end :  having value: 30.06.2016 is: Compliant
+The parameter: budget :  having value: 6,544 is: Compliant

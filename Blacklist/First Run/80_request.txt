@@ -1,0 +1,11 @@
+2016-06-24T05:11:58.847-06:00
+name : 21o '.O.. NV.. 1
+desc : &amp;#60;IMG SRC&amp;#61;&amp;#34;livescript&amp;#58;&amp;#91;code&amp;#93;&amp;#34;&amp;#62;
+end : 01.07.2016
+budget : 7362
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 21o '.O.. NV.. 1 is: Compliant
+The parameter: desc :  having value: &amp;#60;IMG SRC&amp;#61;&amp;#34;livescript&amp;#58;&amp;#91;code&amp;#93;&amp;#34;&amp;#62; is: Compliant
+The parameter: end :  having value: 01.07.2016 is: Compliant
+The parameter: budget :  having value: 7362 is: Compliant

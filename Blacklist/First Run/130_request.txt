@@ -1,0 +1,11 @@
+2016-06-24T06:51:23.602-06:00
+name : CH.9p.3.QP.B2V16 2.' 
+desc : vbscript:Execute(MsgBox(chr(88)&amp;chr(83)&amp;chr(83)))&lt;
+end : 28.06.2016
+budget : 57,249
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: CH.9p.3.QP.B2V16 2.' is: Compliant
+The parameter: desc :  having value: vbscript:Execute(MsgBox(chr(88)&amp;chr(83)&amp;chr(83)))&lt; is: Potentially Malicious
+The parameter: end :  having value: 28.06.2016 is: Compliant
+The parameter: budget :  having value: 57,249 is: Compliant

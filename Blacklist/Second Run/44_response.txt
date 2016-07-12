@@ -1,0 +1,5 @@
+2016-06-24T03:45:41.001-06:00
+name : 3i:.. ' m2Ex  u'.2
+desc : <INPUT TYPE="IMAGE" SRC="javascript:alert('XSS');">
+The parameter: name :  having value: 3i:.. ' m2Ex  u'.2 is: Compliant
+The parameter: desc :  having value: <INPUT TYPE="IMAGE" SRC="javascript:alert('XSS');"> is: Potentially Malicious

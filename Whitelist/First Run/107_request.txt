@@ -1,0 +1,11 @@
+2016-06-23T03:41:28.148-06:00
+name : KR'E'.'D'  .. .'.'..9'559J
+desc : Affee}er-}}sOuhyeXs,r
+end : 31.07.2016
+budget : 2,137
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: KR'E'.'D'  .. .'.'..9'559J is: Compliant
+The parameter: desc :  having value: Affee}er-}}sOuhyeXs,r is: Compliant
+The parameter: end :  having value: 31.07.2016 is: Compliant
+The parameter: budget :  having value: 2,137 is: Compliant

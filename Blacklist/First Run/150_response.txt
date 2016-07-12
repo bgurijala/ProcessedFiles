@@ -1,0 +1,5 @@
+2016-06-24T07:37:36.641-06:00
+name : 77T'd.W
+desc : A=alert;A(1)
+The parameter: name :  having value: 77T'd.W is: Compliant
+The parameter: desc :  having value: A=alert;A(1) is: Potentially Malicious

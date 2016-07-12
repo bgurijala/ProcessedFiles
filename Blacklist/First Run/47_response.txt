@@ -1,0 +1,5 @@
+2016-06-24T03:54:35.485-06:00
+name : 4QKoLI.....'
+desc : <IMG SRC=" &#14;  javascript:alert('XSS');">
+The parameter: name :  having value: 4QKoLI.....' is: Compliant
+The parameter: desc :  having value: <IMG SRC=" &#14;  javascript:alert('XSS');"> is: Potentially Malicious

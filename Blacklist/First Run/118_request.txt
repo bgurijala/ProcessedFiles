@@ -1,0 +1,11 @@
+2016-06-24T06:27:42.774-06:00
+name : Hx ' j.' 
+desc : with(document.__parent__)alert(1)
+end : 10.07.2016
+budget : 172,294
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Hx ' j.' is: Compliant
+The parameter: desc :  having value: with(document.__parent__)alert(1) is: Potentially Malicious
+The parameter: end :  having value: 10.07.2016 is: Compliant
+The parameter: budget :  having value: 172,294 is: Compliant

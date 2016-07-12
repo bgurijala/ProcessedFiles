@@ -1,0 +1,11 @@
+2016-06-23T04:11:47.318-06:00
+name : 5D.'''8'.o   M'G.C..
+desc : }pWrl} xssw0}ms2}b}){}})}LHinc-qmRn}"oa
+end : 30.06.2016
+budget : 8,625
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 5D.'''8'.o   M'G.C.. is: Compliant
+The parameter: desc :  having value: }pWrl} xssw0}ms2}b}){}})}LHinc-qmRn}"oa is: Compliant
+The parameter: end :  having value: 30.06.2016 is: Compliant
+The parameter: budget :  having value: 8,625 is: Compliant

@@ -1,0 +1,11 @@
+2016-06-23T02:54:54.463-06:00
+name : VG 'P.6. 6
+desc : r;}N/f,cy=v}vf.&gt;}d,q}mk}n:
+end : 10.07.2016
+budget : 4894
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: VG 'P.6. 6 is: Compliant
+The parameter: desc :  having value: r;}N/f,cy=v}vf.&gt;}d,q}mk}n: is: Compliant
+The parameter: end :  having value: 10.07.2016 is: Compliant
+The parameter: budget :  having value: 4894 is: Compliant

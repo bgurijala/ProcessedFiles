@@ -1,0 +1,11 @@
+2016-06-23T02:22:59.070-06:00
+name : 1R''4Mmm6
+desc : nuqwy}tirbublu}"wu}w$dy1}
+end : 29.06.2016
+budget : 2,615
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 1R''4Mmm6 is: Compliant
+The parameter: desc :  having value: nuqwy}tirbublu}"wu}w$dy1} is: Compliant
+The parameter: end :  having value: 29.06.2016 is: Compliant
+The parameter: budget :  having value: 2,615 is: Compliant

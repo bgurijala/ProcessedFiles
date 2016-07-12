@@ -1,0 +1,11 @@
+2016-06-23T02:35:48.236-06:00
+name : VFUm'.F'.735'  ' 3c
+desc : w#}{n2}/eW'$f&gt;wuAuk9Sy}
+end : 19.07.2016
+budget : 424,413
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: VFUm'.F'.735'  ' 3c is: Compliant
+The parameter: desc :  having value: w#}{n2}/eW'$f&gt;wuAuk9Sy} is: Compliant
+The parameter: end :  having value: 19.07.2016 is: Compliant
+The parameter: budget :  having value: 424,413 is: Compliant

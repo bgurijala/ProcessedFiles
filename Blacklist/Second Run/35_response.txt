@@ -1,0 +1,5 @@
+2016-06-24T03:26:09.444-06:00
+name : 3Ya:831D2''
+desc : <IMG SRC=`javascript:alert("XSS says, 'XSS'")`>
+The parameter: name :  having value: 3Ya:831D2'' is: Compliant
+The parameter: desc :  having value: <IMG SRC=`javascript:alert("XSS says, 'XSS'")`> is: Potentially Malicious

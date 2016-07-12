@@ -1,0 +1,5 @@
+2016-06-24T04:55:25.129-06:00
+name : 5M:X'.z'XK...J
+desc : &#60;BODY BACKGROUND&#61;&#34;javascript&#58;alert&#40;&#39;XSS&#39;&#41;&#59;&#34;&#62;
+The parameter: name :  having value: 5M:X'.z'XK...J is: Compliant
+The parameter: desc :  having value: &#60;BODY BACKGROUND&#61;&#34;javascript&#58;alert&#40;&#39;XSS&#39;&#41;&#59;&#34;&#62; is: Potentially Malicious

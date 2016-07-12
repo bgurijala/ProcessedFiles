@@ -1,0 +1,5 @@
+2016-06-24T05:59:50.012-06:00
+name : Jn.Y'N NX   .' 59H4
+desc : " SRC="http://ha.ckers.org/xss.js">
+The parameter: name :  having value: Jn.Y'N NX   .' 59H4 is: Compliant
+The parameter: desc :  having value: " SRC="http://ha.ckers.org/xss.js"> is: Suspicious

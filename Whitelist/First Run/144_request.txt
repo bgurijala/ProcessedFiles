@@ -1,0 +1,11 @@
+2016-06-23T04:22:42.371-06:00
+name : n8.G'' KE.W.J 1 v. 2
+desc : h'p;}}gd[;HL}n}gLzM}kB}p}B
+end : 19.07.2016
+budget : 5,301
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: n8.G'' KE.W.J 1 v. 2 is: Compliant
+The parameter: desc :  having value: h'p;}}gd[;HL}n}gLzM}kB}p}B is: Compliant
+The parameter: end :  having value: 19.07.2016 is: Compliant
+The parameter: budget :  having value: 5,301 is: Compliant

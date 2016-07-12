@@ -1,0 +1,11 @@
+2016-06-24T06:20:59.345-06:00
+name : Frj'''vWJv
+desc : &lt;IFRAME SRC=http://ha.ckers.org/scriptlet.html &lt;
+end : 01.07.2016
+budget : 716,168
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Frj'''vWJv is: Compliant
+The parameter: desc :  having value: &lt;IFRAME SRC=http://ha.ckers.org/scriptlet.html &lt; is: Suspicious
+The parameter: end :  having value: 01.07.2016 is: Compliant
+The parameter: budget :  having value: 716,168 is: Compliant

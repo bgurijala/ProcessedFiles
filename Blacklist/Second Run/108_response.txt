@@ -1,0 +1,5 @@
+2016-06-24T06:05:36.163-06:00
+name : QG F'.  SR.. '.NQ.9'1 2JH .
+desc : '" SRC="http://ha.ckers.org/xss.js">
+The parameter: name :  having value: QG F'.  SR.. '.NQ.9'1 2JH . is: Compliant
+The parameter: desc :  having value: '" SRC="http://ha.ckers.org/xss.js"> is: Suspicious

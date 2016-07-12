@@ -1,0 +1,11 @@
+2016-06-23T04:15:14.919-06:00
+name : GBY:'0X Z .8' v  e.
+desc : }m}ricnSy5uc}}4u}idZGo}
+end : 27.06.2016
+budget : 45,928
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: GBY:'0X Z .8' v  e. is: Compliant
+The parameter: desc :  having value: }m}ricnSy5uc}}4u}idZGo} is: Compliant
+The parameter: end :  having value: 27.06.2016 is: Compliant
+The parameter: budget :  having value: 45,928 is: Compliant

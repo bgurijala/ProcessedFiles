@@ -1,0 +1,11 @@
+2016-06-24T05:22:36.542-06:00
+name : 8IE.KSb
+desc : &lt;!--#exec cmd=""/usr/X11R6/bin/xterm ?display 127.0.0.1:0 &amp;""--&gt;
+end : 01.07.2016
+budget : 4,519
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 8IE.KSb is: Compliant
+The parameter: desc :  having value: &lt;!--#exec cmd=""/usr/X11R6/bin/xterm ?display 127.0.0.1:0 &amp;""--&gt; is: Compliant
+The parameter: end :  having value: 01.07.2016 is: Compliant
+The parameter: budget :  having value: 4,519 is: Compliant

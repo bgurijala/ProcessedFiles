@@ -1,0 +1,5 @@
+2016-06-23T02:39:00.283-06:00
+name : KXE.T''
+desc : }Mec}}mszwut&amp;O}}c}ab}k
+The parameter: name :  having value: KXE.T'' is: Compliant
+The parameter: desc :  having value: }Mec}}mszwut&amp;O}}c}ab}k is: Compliant

@@ -1,0 +1,5 @@
+2016-06-23T02:18:41.282-06:00
+name : QB.TY.b
+desc : wTcpeg}wxCtZ}x}rdpzy}
+The parameter: name :  having value: QB.TY.b is: Compliant
+The parameter: desc :  having value: wTcpeg}wxCtZ}x}rdpzy} is: Compliant

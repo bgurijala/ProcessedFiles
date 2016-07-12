@@ -1,0 +1,5 @@
+2016-06-24T06:09:15.696-06:00
+name : 4GPd:U..' 9 17''N7 G'  ..9'I.
+desc : <SCRIPT SRC=http://ha.ckers.org/xss.js
+The parameter: name :  having value: 4GPd:U..' 9 17''N7 G'  ..9'I. is: Compliant
+The parameter: desc :  having value: <SCRIPT SRC=http://ha.ckers.org/xss.js is: Malicious

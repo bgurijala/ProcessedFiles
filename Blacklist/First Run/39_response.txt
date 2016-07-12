@@ -1,0 +1,5 @@
+2016-06-24T03:34:18.994-06:00
+name : 1OA.9.m .V
+desc : <IMG SRC="jav&#x0A;ascript:alert(<WBR>'XSS');">
+The parameter: name :  having value: 1OA.9.m .V is: Compliant
+The parameter: desc :  having value: <IMG SRC="jav&#x0A;ascript:alert(<WBR>'XSS');"> is: Potentially Malicious

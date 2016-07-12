@@ -1,0 +1,5 @@
+2016-06-24T03:22:42.694-06:00
+name : 1OK:..8
+desc : <IMG SRC=javascript:alert('XSS')>
+The parameter: name :  having value: 1OK:..8 is: Compliant
+The parameter: desc :  having value: <IMG SRC=javascript:alert('XSS')> is: Potentially Malicious

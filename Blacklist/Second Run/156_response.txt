@@ -1,0 +1,5 @@
+2016-06-24T07:53:50.135-06:00
+name : 7h. .07u.
+desc : '];a=eval;b=alert;a(b(15));//
+The parameter: name :  having value: 7h. .07u. is: Compliant
+The parameter: desc :  having value: '];a=eval;b=alert;a(b(15));// is: Potentially Malicious

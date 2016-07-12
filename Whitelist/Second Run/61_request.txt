@@ -1,0 +1,11 @@
+2016-06-23T02:49:58.930-06:00
+name : P4Im.''   97 K 5
+desc : fkklo}x?cRcodvxcd}}hk2&amp;o
+end : 30.06.2016
+budget : 48791
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: P4Im.''   97 K 5 is: Compliant
+The parameter: desc :  having value: fkklo}x?cRcodvxcd}}hk2&amp;o is: Compliant
+The parameter: end :  having value: 30.06.2016 is: Compliant
+The parameter: budget :  having value: 48791 is: Compliant

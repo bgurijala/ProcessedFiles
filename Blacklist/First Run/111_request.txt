@@ -1,0 +1,11 @@
+2016-06-24T06:12:52.312-06:00
+name : d6:N.5.Q'S' OK5.fMY7.5  .My
+desc : (1?(1?{a:1?""[1?"ev\a\l":0](1?"\a\lert":0):0}:0).a:0)[1?"\c\a\l\l":0](content,1?"x\s\s":0)
+end : 28.06.2016
+budget : 48,288
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: d6:N.5.Q'S' OK5.fMY7.5  .My is: Compliant
+The parameter: desc :  having value: (1?(1?{a:1?""[1?"ev\a\l":0](1?"\a\lert":0):0}:0).a:0)[1?"\c\a\l\l":0](content,1?"x\s\s":0) is: Compliant
+The parameter: end :  having value: 28.06.2016 is: Compliant
+The parameter: budget :  having value: 48,288 is: Compliant

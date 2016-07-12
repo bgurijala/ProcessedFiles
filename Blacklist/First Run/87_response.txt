@@ -1,0 +1,5 @@
+2016-06-24T05:24:54.529-06:00
+name : Hw. .b.Q9.7:78.
+desc : aim: &c:windowssystem32calc.exe" ini="C:Documents and SettingsAll UsersStart MenuProgramsStartuppwnd.bat"
+The parameter: name :  having value: Hw. .b.Q9.7:78. is: Compliant
+The parameter: desc :  having value: aim: &c:windowssystem32calc.exe" ini="C:Documents and SettingsAll UsersStart MenuProgramsStartuppwnd.bat" is: Compliant

@@ -1,0 +1,11 @@
+2016-06-23T03:06:23.375-06:00
+name : Sk:.K ' 7R1
+desc : A}mlx}\oeal^oaum}qho
+end : 24.06.2016
+budget : 7,743
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Sk:.K ' 7R1 is: Compliant
+The parameter: desc :  having value: A}mlx}\oeal^oaum}qho is: Compliant
+The parameter: end :  having value: 24.06.2016 is: Compliant
+The parameter: budget :  having value: 7,743 is: Compliant

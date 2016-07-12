@@ -1,0 +1,5 @@
+2016-06-24T05:57:27.131-06:00
+name : WpGT...' .0.8
+desc : <EMBED SRC="http://ha.ckers.org/xss.swf" AllowScriptAccess="always"></EMBED>
+The parameter: name :  having value: WpGT...' .0.8 is: Compliant
+The parameter: desc :  having value: <EMBED SRC="http://ha.ckers.org/xss.swf" AllowScriptAccess="always"></EMBED> is: Suspicious

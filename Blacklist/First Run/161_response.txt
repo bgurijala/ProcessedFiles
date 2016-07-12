@@ -1,0 +1,5 @@
+2016-06-24T08:03:44.579-06:00
+name : 62.G '2C'. 9'...'I1WE YZ.
+desc : style=-moz-binding:url(http://h4k.in/mozxss.xml#xss);" a="
+The parameter: name :  having value: 62.G '2C'. 9'...'I1WE YZ. is: Compliant
+The parameter: desc :  having value: style=-moz-binding:url(http://h4k.in/mozxss.xml#xss);" a=" is: Suspicious

@@ -1,0 +1,5 @@
+2016-06-24T03:52:27.989-06:00
+name : 7R '46.
+desc : <IMGSRC="javascript:alert('XSS')">
+The parameter: name :  having value: 7R '46. is: Compliant
+The parameter: desc :  having value: <IMGSRC="javascript:alert('XSS')"> is: Potentially Malicious

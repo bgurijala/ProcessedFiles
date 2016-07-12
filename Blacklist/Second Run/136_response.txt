@@ -1,0 +1,5 @@
+2016-06-24T07:03:32.539-06:00
+name : 2zl'  '' 27 2.6.9f.
+desc : <IMG SRC="javascript:alert('XSS')"
+The parameter: name :  having value: 2zl'  '' 27 2.6.9f. is: Compliant
+The parameter: desc :  having value: <IMG SRC="javascript:alert('XSS')" is: Potentially Malicious

@@ -1,0 +1,5 @@
+2016-06-24T03:59:46.542-06:00
+name : k5.23GV. . K U
+desc : <DIV STYLE="background-image: url(&#1;javascript:alert('XSS'))">
+The parameter: name :  having value: k5.23GV. . K U is: Compliant
+The parameter: desc :  having value: <DIV STYLE="background-image: url(&#1;javascript:alert('XSS'))"> is: Potentially Malicious

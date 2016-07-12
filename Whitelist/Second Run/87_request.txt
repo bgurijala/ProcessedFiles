@@ -1,0 +1,11 @@
+2016-06-23T03:17:17.357-06:00
+name : 6I.'y8 2
+desc : &gt;Ysr%pmh%X}nh}}}b}di
+end : 27.06.2016
+budget : 67141
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 6I.'y8 2 is: Compliant
+The parameter: desc :  having value: &gt;Ysr%pmh%X}nh}}}b}di is: Compliant
+The parameter: end :  having value: 27.06.2016 is: Compliant
+The parameter: budget :  having value: 67141 is: Compliant

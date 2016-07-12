@@ -1,0 +1,11 @@
+2016-06-23T02:48:13.041-06:00
+name : tO7.vFX. D.
+desc : edv}}eH}FvE^k}Vukha}&amp;}p
+end : 24.06.2016
+budget : 51,488
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: tO7.vFX. D. is: Compliant
+The parameter: desc :  having value: edv}}eH}FvE^k}Vukha}&amp;}p is: Compliant
+The parameter: end :  having value: 24.06.2016 is: Compliant
+The parameter: budget :  having value: 51,488 is: Compliant

@@ -1,0 +1,11 @@
+2016-06-23T03:45:33.668-06:00
+name : Ax:..'g'' 'xC 
+desc : w}lqD$8 Om}}}}}}}rwst!}dI&amp;}}&lt;}
+end : 17.07.2016
+budget : 4,474
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Ax:..'g'' 'xC is: Compliant
+The parameter: desc :  having value: w}lqD$8 Om}}}}}}}rwst!}dI&amp;}}&lt;} is: Compliant
+The parameter: end :  having value: 17.07.2016 is: Compliant
+The parameter: budget :  having value: 4,474 is: Compliant

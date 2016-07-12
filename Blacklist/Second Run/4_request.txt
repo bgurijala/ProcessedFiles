@@ -1,0 +1,11 @@
+2016-06-24T02:25:16.792-06:00
+name : 53'F7196'm'.''B.7yb:'3'
+desc : &amp;#60;DIV STYLE&amp;#61;&amp;#34;background-image&amp;#58; url&amp;#40;javascript&amp;#58;alert&amp;#40;&amp;#39;XSS&amp;#39;&amp;#41;&amp;#41;&amp;#34;&amp;#62;
+end : 30.06.2016
+budget : 7,388
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 53'F7196'm'.''B.7yb:'3' is: Compliant
+The parameter: desc :  having value: &amp;#60;DIV STYLE&amp;#61;&amp;#34;background-image&amp;#58; url&amp;#40;javascript&amp;#58;alert&amp;#40;&amp;#39;XSS&amp;#39;&amp;#41;&amp;#41;&amp;#34;&amp;#62; is: Potentially Malicious
+The parameter: end :  having value: 30.06.2016 is: Compliant
+The parameter: budget :  having value: 7,388 is: Compliant

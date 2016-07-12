@@ -1,0 +1,11 @@
+2016-06-23T02:02:45.353-06:00
+name : 745R.. Z..RRP
+desc : $}slw}g}}^}'wkjktb}pdz
+end : 30.06.2016
+budget : 3,782
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 745R.. Z..RRP is: Compliant
+The parameter: desc :  having value: $}slw}g}}^}'wkjktb}pdz is: Compliant
+The parameter: end :  having value: 30.06.2016 is: Compliant
+The parameter: budget :  having value: 3,782 is: Compliant

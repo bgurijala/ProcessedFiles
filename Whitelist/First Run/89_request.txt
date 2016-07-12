@@ -1,0 +1,11 @@
+2016-06-23T03:19:30.195-06:00
+name : JF. 4Q.. 7w2XG.' '..'Y''2'1
+desc : h}0c}j}rk3BqeI;qvko}UblUU9S
+end : 25.06.2016
+budget : 2,366
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: JF. 4Q.. 7w2XG.' '..'Y''2'1 is: Compliant
+The parameter: desc :  having value: h}0c}j}rk3BqeI;qvko}UblUU9S is: Compliant
+The parameter: end :  having value: 25.06.2016 is: Compliant
+The parameter: budget :  having value: 2,366 is: Compliant

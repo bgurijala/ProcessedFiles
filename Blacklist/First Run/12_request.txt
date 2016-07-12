@@ -1,0 +1,11 @@
+2016-06-24T02:40:35.834-06:00
+name : 1M88.:O  . .n M :.
+desc : &amp;#60;META HTTP-EQUIV&amp;#61;&amp;#34;refresh&amp;#34; CONTENT&amp;#61;&amp;#34;0&amp;#59; URL&amp;#61;http&amp;#58;&amp;#47;&amp;#47;&amp;#59;URL&amp;#61;javascript&amp;#58;alert&amp;#40;&amp;#39;XSS&amp;#39;&amp;#41;&amp;#59;&amp;#34;&amp;#62;
+end : 14.07.2016
+budget : 54,553
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 1M88.:O  . .n M :. is: Compliant
+The parameter: desc :  having value: &amp;#60;META HTTP-EQUIV&amp;#61;&amp;#34;refresh&amp;#34; CONTENT&amp;#61;&amp;#34;0&amp;#59; URL&amp;#61;http&amp;#58;&amp;#47;&amp;#47;&amp;#59;URL&amp;#61;javascript&amp;#58;alert&amp;#40;&amp;#39;XSS&amp;#39;&amp;#41;&amp;#59;&amp;#34;&amp;#62; is: Suspicious
+The parameter: end :  having value: 14.07.2016 is: Compliant
+The parameter: budget :  having value: 54,553 is: Compliant

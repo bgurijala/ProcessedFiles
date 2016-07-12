@@ -1,0 +1,11 @@
+2016-06-24T03:45:31.574-06:00
+name : 3i:.. ' m2Ex  u'.2
+desc : &lt;INPUT TYPE="IMAGE" SRC="javascript:alert('XSS');"&gt;
+end : 28.06.2016
+budget : 32,213
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 3i:.. ' m2Ex  u'.2 is: Compliant
+The parameter: desc :  having value: &lt;INPUT TYPE="IMAGE" SRC="javascript:alert('XSS');"&gt; is: Potentially Malicious
+The parameter: end :  having value: 28.06.2016 is: Compliant
+The parameter: budget :  having value: 32,213 is: Compliant

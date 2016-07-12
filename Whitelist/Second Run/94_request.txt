@@ -1,0 +1,11 @@
+2016-06-23T03:25:31.072-06:00
+name : Jd:'.'Q'0.S157P18.'6.'Y1 
+desc : j}cqtm}z}xBue:2}j}zfe}
+end : 12.07.2016
+budget : 1,264
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Jd:'.'Q'0.S157P18.'6.'Y1 is: Compliant
+The parameter: desc :  having value: j}cqtm}z}xBue:2}j}zfe} is: Compliant
+The parameter: end :  having value: 12.07.2016 is: Compliant
+The parameter: budget :  having value: 1,264 is: Compliant

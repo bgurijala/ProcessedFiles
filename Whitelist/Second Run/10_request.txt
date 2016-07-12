@@ -1,0 +1,11 @@
+2016-06-23T01:54:09.959-06:00
+name : k4 F.UOQ.z''0E.1:1 '.6
+desc : fdVugN}f}}}8uu} imzS4m
+end : 30.06.2016
+budget : 2,317
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: k4 F.UOQ.z''0E.1:1 '.6 is: Compliant
+The parameter: desc :  having value: fdVugN}f}}}8uu} imzS4m is: Compliant
+The parameter: end :  having value: 30.06.2016 is: Compliant
+The parameter: budget :  having value: 2,317 is: Compliant

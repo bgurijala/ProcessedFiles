@@ -1,0 +1,5 @@
+2016-06-24T07:12:52.758-06:00
+name : nO13.47Xg2'H98Ss 28.'5''' 2.
+desc : <IMG DYNSRC="javascript:alert('XSS');">
+The parameter: name :  having value: nO13.47Xg2'H98Ss 28.'5''' 2. is: Compliant
+The parameter: desc :  having value: <IMG DYNSRC="javascript:alert('XSS');"> is: Potentially Malicious

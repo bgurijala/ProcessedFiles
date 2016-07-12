@@ -1,0 +1,11 @@
+2016-06-24T07:20:58.170-06:00
+name : DNC:..'''' '
+desc : &lt;IMG LOWSRC="javascript:alert('XSS');"&gt;
+end : 01.07.2016
+budget : 4,241
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: DNC:..'''' ' is: Compliant
+The parameter: desc :  having value: &lt;IMG LOWSRC="javascript:alert('XSS');"&gt; is: Potentially Malicious
+The parameter: end :  having value: 01.07.2016 is: Compliant
+The parameter: budget :  having value: 4,241 is: Compliant

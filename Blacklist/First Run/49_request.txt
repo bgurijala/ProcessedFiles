@@ -1,0 +1,11 @@
+2016-06-24T03:59:38.762-06:00
+name : k5.23GV. . K U
+desc : &lt;DIV STYLE="background-image: url(&amp;#1;javascript:alert('XSS'))"&gt;
+end : 28.06.2016
+budget : 76,482
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: k5.23GV. . K U is: Compliant
+The parameter: desc :  having value: &lt;DIV STYLE="background-image: url(&amp;#1;javascript:alert('XSS'))"&gt; is: Potentially Malicious
+The parameter: end :  having value: 28.06.2016 is: Compliant
+The parameter: budget :  having value: 76,482 is: Compliant

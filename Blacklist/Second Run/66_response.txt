@@ -1,0 +1,5 @@
+2016-06-24T04:46:06.924-06:00
+name : hWg4y'QM'.b.i'dMr
+desc : <body/????$/onload=x={doc:parent[document]};x.doc.writeln(1)
+The parameter: name :  having value: hWg4y'QM'.b.i'dMr is: Compliant
+The parameter: desc :  having value: <body/????$/onload=x={doc:parent[document]};x.doc.writeln(1) is: Potentially Malicious

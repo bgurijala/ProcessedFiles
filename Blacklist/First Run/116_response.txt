@@ -1,0 +1,5 @@
+2016-06-24T06:23:59.441-06:00
+name : ffHx280.
+desc : y=<a>alert</a>;content[y](123)
+The parameter: name :  having value: ffHx280. is: Compliant
+The parameter: desc :  having value: y=<a>alert</a>;content[y](123) is: Compliant

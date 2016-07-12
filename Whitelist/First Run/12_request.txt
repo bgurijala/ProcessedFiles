@@ -1,0 +1,11 @@
+2016-06-23T01:56:51.574-06:00
+name : 9d'f8'I3'.'.6f'
+desc : }d3n}"w}r}}tz"Qgq}}am8jw}}5
+end : 29.06.2016
+budget : 2,788
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 9d'f8'I3'.'.6f' is: Compliant
+The parameter: desc :  having value: }d3n}"w}r}}tz"Qgq}}am8jw}}5 is: Compliant
+The parameter: end :  having value: 29.06.2016 is: Compliant
+The parameter: budget :  having value: 2,788 is: Compliant

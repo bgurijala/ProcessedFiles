@@ -1,0 +1,11 @@
+2016-06-24T07:12:40.178-06:00
+name : nO13.47Xg2'H98Ss 28.'5''' 2.
+desc : &lt;IMG DYNSRC="javascript:alert('XSS');"&gt;
+end : 19.07.2016
+budget : 3,371
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: nO13.47Xg2'H98Ss 28.'5''' 2. is: Compliant
+The parameter: desc :  having value: &lt;IMG DYNSRC="javascript:alert('XSS');"&gt; is: Potentially Malicious
+The parameter: end :  having value: 19.07.2016 is: Compliant
+The parameter: budget :  having value: 3,371 is: Compliant

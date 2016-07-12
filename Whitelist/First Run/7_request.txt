@@ -1,0 +1,11 @@
+2016-06-23T01:50:49.809-06:00
+name : G2''J4.7qu' 
+desc : }wv}m}p&gt;l@}y7)eHCR}}r
+end : 14.07.2016
+budget : 9,621
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: G2''J4.7qu' is: Compliant
+The parameter: desc :  having value: }wv}m}p&gt;l@}y7)eHCR}}r is: Compliant
+The parameter: end :  having value: 14.07.2016 is: Compliant
+The parameter: budget :  having value: 9,621 is: Compliant

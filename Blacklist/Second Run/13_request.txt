@@ -1,0 +1,11 @@
+2016-06-24T02:42:19.387-06:00
+name : 4HR6 q..64KCA.I3
+desc : &amp;#60;STYLE TYPE&amp;#61;&amp;#34;text&amp;#47;javascript&amp;#34;&amp;#62;alert&amp;#40;&amp;#39;XSS&amp;#39;&amp;#41;&amp;#59;&amp;#60;&amp;#47;STYLE&amp;#62;
+end : 27.06.2016
+budget : 542,409
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 4HR6 q..64KCA.I3 is: Compliant
+The parameter: desc :  having value: &amp;#60;STYLE TYPE&amp;#61;&amp;#34;text&amp;#47;javascript&amp;#34;&amp;#62;alert&amp;#40;&amp;#39;XSS&amp;#39;&amp;#41;&amp;#59;&amp;#60;&amp;#47;STYLE&amp;#62; is: Potentially Malicious
+The parameter: end :  having value: 27.06.2016 is: Compliant
+The parameter: budget :  having value: 542,409 is: Compliant

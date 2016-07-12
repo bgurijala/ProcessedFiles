@@ -1,0 +1,11 @@
+2016-06-23T04:27:21.280-06:00
+name : ct.j4'.
+desc : }7yD}}s}}tk&amp;kc=a[}Oi
+end : 24.07.2016
+budget : 8,168
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: ct.j4'. is: Compliant
+The parameter: desc :  having value: }7yD}}s}}tk&amp;kc=a[}Oi is: Compliant
+The parameter: end :  having value: 24.07.2016 is: Compliant
+The parameter: budget :  having value: 8,168 is: Compliant

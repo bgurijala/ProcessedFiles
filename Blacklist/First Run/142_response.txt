@@ -1,0 +1,5 @@
+2016-06-24T07:21:11.204-06:00
+name : DNC:..'''' '
+desc : <IMG LOWSRC="javascript:alert('XSS');">
+The parameter: name :  having value: DNC:..'''' ' is: Compliant
+The parameter: desc :  having value: <IMG LOWSRC="javascript:alert('XSS');"> is: Potentially Malicious

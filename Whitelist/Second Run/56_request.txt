@@ -1,0 +1,11 @@
+2016-06-23T02:45:33.032-06:00
+name : 8C31wec'S..7.'.MG.K 
+desc : oh=*reEt[}b"]}lUt/mb}h} 
+end : 25.06.2016
+budget : 630861
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 8C31wec'S..7.'.MG.K is: Compliant
+The parameter: desc :  having value: oh=*reEt[}b"]}lUt/mb}h} is: Compliant
+The parameter: end :  having value: 25.06.2016 is: Compliant
+The parameter: budget :  having value: 630861 is: Compliant

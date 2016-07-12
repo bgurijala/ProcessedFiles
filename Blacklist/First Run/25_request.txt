@@ -1,0 +1,11 @@
+2016-06-24T03:06:01.920-06:00
+name : Bd:1 Yf
+desc : &lt;SCRIPT a=`&gt;` SRC="http://ha.ckers.org/xss.js"&gt;&lt;/SCRIPT&gt;
+end : 19.07.2016
+budget : 6,091
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Bd:1 Yf is: Compliant
+The parameter: desc :  having value: &lt;SCRIPT a=`&gt;` SRC="http://ha.ckers.org/xss.js"&gt;&lt;/SCRIPT&gt; is: Malicious
+The parameter: end :  having value: 19.07.2016 is: Compliant
+The parameter: budget :  having value: 6,091 is: Compliant

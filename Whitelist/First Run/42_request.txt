@@ -1,0 +1,11 @@
+2016-06-23T02:30:42.245-06:00
+name : gfD:.25..'T65'
+desc : u}}}}mfdZ}!Pv9gD}y"Hom}v
+end : 30.06.2016
+budget : 407,671
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: gfD:.25..'T65' is: Compliant
+The parameter: desc :  having value: u}}}}mfdZ}!Pv9gD}y"Hom}v is: Compliant
+The parameter: end :  having value: 30.06.2016 is: Compliant
+The parameter: budget :  having value: 407,671 is: Compliant

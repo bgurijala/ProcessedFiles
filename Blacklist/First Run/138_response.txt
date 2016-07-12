@@ -1,0 +1,5 @@
+2016-06-24T07:07:01.968-06:00
+name : Kr.''se '.7hP5
+desc : <IMG SRC=javascript:alert(&quot;XSS&quot;)>
+The parameter: name :  having value: Kr.''se '.7hP5 is: Compliant
+The parameter: desc :  having value: <IMG SRC=javascript:alert(&quot;XSS&quot;)> is: Potentially Malicious

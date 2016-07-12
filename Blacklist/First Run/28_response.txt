@@ -1,0 +1,5 @@
+2016-06-24T03:12:49.961-06:00
+name : 69b''' 5'3'.'L ' ..OK S'. .O
+desc : <STYLE TYPE="text/javascript">alert('XSS');</STYLE>
+The parameter: name :  having value: 69b''' 5'3'.'L ' ..OK S'. .O is: Compliant
+The parameter: desc :  having value: <STYLE TYPE="text/javascript">alert('XSS');</STYLE> is: Potentially Malicious

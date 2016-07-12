@@ -1,0 +1,11 @@
+2016-06-23T03:55:31.133-06:00
+name : 8S'fq fI.528Q 'k 
+desc : 6rBqdmKCL8yG}h}W{e-fnA^yl}Q}foje
+end : 29.06.2016
+budget : 41,962
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 8S'fq fI.528Q 'k is: Compliant
+The parameter: desc :  having value: 6rBqdmKCL8yG}h}W{e-fnA^yl}Q}foje is: Compliant
+The parameter: end :  having value: 29.06.2016 is: Compliant
+The parameter: budget :  having value: 41,962 is: Compliant

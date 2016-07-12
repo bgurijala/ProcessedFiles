@@ -1,0 +1,5 @@
+2016-06-23T04:25:04.243-06:00
+name : DF'CdHp..1'.
+desc : [9y}d;tqngsc}eaV}w:du}}g}"
+The parameter: name :  having value: DF'CdHp..1'. is: Compliant
+The parameter: desc :  having value: [9y}d;tqngsc}eaV}w:du}}g}" is: Compliant

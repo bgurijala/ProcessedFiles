@@ -1,0 +1,11 @@
+2016-06-23T01:51:50.963-06:00
+name : MI.:DOZ.8zytT
+desc : r0}F}}l}dWgm}@wu7&lt;}}f}?}n]n-
+end : 25.06.2016
+budget : 1,571
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: MI.:DOZ.8zytT is: Compliant
+The parameter: desc :  having value: r0}F}}l}dWgm}@wu7&lt;}}f}?}n]n- is: Compliant
+The parameter: end :  having value: 25.06.2016 is: Compliant
+The parameter: budget :  having value: 1,571 is: Compliant

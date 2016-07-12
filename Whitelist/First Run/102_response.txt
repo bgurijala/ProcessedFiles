@@ -1,0 +1,5 @@
+2016-06-23T03:35:57.980-06:00
+name : 8r'''''. 4
+desc : }%6Spl}}}jsU4n1}f?pH@}k
+The parameter: name :  having value: 8r'''''. 4 is: Compliant
+The parameter: desc :  having value: }%6Spl}}}jsU4n1}f?pH@}k is: Compliant

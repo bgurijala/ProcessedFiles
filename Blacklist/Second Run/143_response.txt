@@ -1,0 +1,5 @@
+2016-06-24T07:23:24.979-06:00
+name : 2FJG'26'O.  R 'FZ2..
+desc : exp/*<XSS STYLE='noxss:noxss("*//*");xss:&#101;x&#x2F;*XSS*//*/*/pression(alert("XSS"))'>
+The parameter: name :  having value: 2FJG'26'O.  R 'FZ2.. is: Compliant
+The parameter: desc :  having value: exp/*<XSS STYLE='noxss:noxss("*//*");xss:&#101;x&#x2F;*XSS*//*/*/pression(alert("XSS"))'> is: Potentially Malicious

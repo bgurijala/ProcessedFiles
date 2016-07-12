@@ -1,0 +1,11 @@
+2016-06-24T04:18:46.294-06:00
+name : ZF'.EV'8'
+desc : &lt;html&gt;&lt;body&gt;&lt;?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"&gt;&lt;?import namespace="t"
+end : 10.08.2016
+budget : 74,498
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: ZF'.EV'8' is: Compliant
+The parameter: desc :  having value: &lt;html&gt;&lt;body&gt;&lt;?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"&gt;&lt;?import namespace="t" is: Compliant
+The parameter: end :  having value: 10.08.2016 is: Compliant
+The parameter: budget :  having value: 74,498 is: Compliant

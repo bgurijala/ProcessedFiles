@@ -1,0 +1,5 @@
+2016-06-23T03:17:18.407-06:00
+name : 6I.'y8 2
+desc : &gt;Ysr%pmh%X}nh}}}b}di
+The parameter: name :  having value: 6I.'y8 2 is: Compliant
+The parameter: desc :  having value: &gt;Ysr%pmh%X}nh}}}b}di is: Compliant

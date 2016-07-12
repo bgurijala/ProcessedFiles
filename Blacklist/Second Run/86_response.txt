@@ -1,0 +1,5 @@
+2016-06-24T05:22:47.997-06:00
+name : 8IE.KSb
+desc : <!--#exec cmd=""/usr/X11R6/bin/xterm ?display 127.0.0.1:0 &""-->
+The parameter: name :  having value: 8IE.KSb is: Compliant
+The parameter: desc :  having value: <!--#exec cmd=""/usr/X11R6/bin/xterm ?display 127.0.0.1:0 &""--> is: Potentially Malicious

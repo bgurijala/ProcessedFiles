@@ -1,0 +1,11 @@
+2016-06-23T04:25:03.191-06:00
+name : DF'CdHp..1'.
+desc : [9y}d;tqngsc}eaV}w:du}}g}"
+end : 28.07.2016
+budget : 488,338
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: DF'CdHp..1'. is: Compliant
+The parameter: desc :  having value: [9y}d;tqngsc}eaV}w:du}}g}" is: Compliant
+The parameter: end :  having value: 28.07.2016 is: Compliant
+The parameter: budget :  having value: 488,338 is: Compliant

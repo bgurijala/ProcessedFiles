@@ -1,0 +1,11 @@
+2016-06-24T03:40:08.247-06:00
+name : RX s4M.
+desc : &lt;IMG SRC=`javascript:alert("RSnake says### 'XSS'")`&gt;
+end : 10.07.2016
+budget : 32,633
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: RX s4M. is: Compliant
+The parameter: desc :  having value: &lt;IMG SRC=`javascript:alert("RSnake says### 'XSS'")`&gt; is: Potentially Malicious
+The parameter: end :  having value: 10.07.2016 is: Compliant
+The parameter: budget :  having value: 32,633 is: Compliant

@@ -1,0 +1,5 @@
+2016-06-24T03:14:31.031-06:00
+name : VJ.F'Tp 2 '
+desc : <SCRIPT SRC=http://ha.ckers.org/xss.js
+The parameter: name :  having value: VJ.F'Tp 2 ' is: Compliant
+The parameter: desc :  having value: <SCRIPT SRC=http://ha.ckers.org/xss.js is: Malicious

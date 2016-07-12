@@ -1,0 +1,5 @@
+2016-06-24T06:38:00.663-06:00
+name : Jx5:etB7
+desc : '';!--"<XSS>=&{()}
+The parameter: name :  having value: Jx5:etB7 is: Compliant
+The parameter: desc :  having value: '';!--"<XSS>=&{()} is: Compliant

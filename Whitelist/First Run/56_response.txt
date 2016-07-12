@@ -1,0 +1,5 @@
+2016-06-23T02:45:34.084-06:00
+name : 8C31wec'S..7.'.MG.K
+desc : oh=*reEt[}b"]}lUt/mb}h}+
+The parameter: name :  having value: 8C31wec'S..7.'.MG.K is: Compliant
+The parameter: desc :  having value: oh=*reEt[}b"]}lUt/mb}h}+ is: Compliant

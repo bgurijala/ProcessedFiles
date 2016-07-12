@@ -1,0 +1,11 @@
+2016-06-24T03:25:58.369-06:00
+name : 3Ya:831D2''
+desc : &lt;IMG SRC=`javascript:alert("XSS says, 'XSS'")`&gt;
+end : 19.07.2016
+budget : 68,876
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 3Ya:831D2'' is: Compliant
+The parameter: desc :  having value: &lt;IMG SRC=`javascript:alert("XSS says, 'XSS'")`&gt; is: Potentially Malicious
+The parameter: end :  having value: 19.07.2016 is: Compliant
+The parameter: budget :  having value: 68,876 is: Compliant

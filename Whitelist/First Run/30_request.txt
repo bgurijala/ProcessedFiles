@@ -1,0 +1,11 @@
+2016-06-23T02:17:44.459-06:00
+name : EUD.O5''3XW
+desc : }ui 7}P}{}},}5xh}j/k
+end : 30.06.2016
+budget : 65,046
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: EUD.O5''3XW is: Compliant
+The parameter: desc :  having value: }ui 7}P}{}},}5xh}j/k is: Compliant
+The parameter: end :  having value: 30.06.2016 is: Compliant
+The parameter: budget :  having value: 65,046 is: Compliant

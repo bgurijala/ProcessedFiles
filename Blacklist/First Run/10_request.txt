@@ -1,0 +1,11 @@
+2016-06-24T02:36:11.623-06:00
+name : fE.q..'JTl.YX' e'. C.'
+desc : &amp;#60;STYLE&amp;#62;li &amp;#123;list-style-image&amp;#58; url&amp;#40;&amp;#34;javascript&amp;#58;alert&amp;#40;&amp;#39;XSS&amp;#39;&amp;#41;&amp;#34;&amp;#41;&amp;#59;&amp;#125;&amp;#60;&amp;#47;STYLE&amp;#62;&amp;#60;UL&amp;#62;&amp;#60;LI&amp;#62;XSS
+end : 28.06.2016
+budget : 86238
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: fE.q..'JTl.YX' e'. C.' is: Compliant
+The parameter: desc :  having value: &amp;#60;STYLE&amp;#62;li &amp;#123;list-style-image&amp;#58; url&amp;#40;&amp;#34;javascript&amp;#58;alert&amp;#40;&amp;#39;XSS&amp;#39;&amp;#41;&amp;#34;&amp;#41;&amp;#59;&amp;#125;&amp;#60;&amp;#47;STYLE&amp;#62;&amp;#60;UL&amp;#62;&amp;#60;LI&amp;#62;XSS is: Compliant
+The parameter: end :  having value: 28.06.2016 is: Compliant
+The parameter: budget :  having value: 86238 is: Compliant

@@ -1,0 +1,5 @@
+2016-06-24T03:56:20.370-06:00
+name : 56:.WmC 7' kCw' ' R5  2'.'.
+desc : <DIV STYLE="background-image: url(javascript:alert('XSS'))">
+The parameter: name :  having value: 56:.WmC 7' kCw' ' R5  2'.'. is: Compliant
+The parameter: desc :  having value: <DIV STYLE="background-image: url(javascript:alert('XSS'))"> is: Potentially Malicious

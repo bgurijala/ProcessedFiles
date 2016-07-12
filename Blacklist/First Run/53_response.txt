@@ -1,0 +1,5 @@
+2016-06-24T04:15:29.336-06:00
+name : 6SP'SM.'.U' .W6.'.:8.rV.
+desc : <STYLE>@import'javascript:alert("XSS")';</STYLE>
+The parameter: name :  having value: 6SP'SM.'.U' .W6.'.:8.rV. is: Compliant
+The parameter: desc :  having value: <STYLE>@import'javascript:alert("XSS")';</STYLE> is: Potentially Malicious

@@ -1,0 +1,11 @@
+2016-06-23T02:50:57.765-06:00
+name : vGl6 R'5 ...K' 8.' .e c.MFd9H
+desc : m}Rl"^lrmeglkjzol}xt&gt;1\&lt;}#
+end : 29.06.2016
+budget : 5,723
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: vGl6 R'5 ...K' 8.' .e c.MFd9H is: Compliant
+The parameter: desc :  having value: m}Rl"^lrmeglkjzol}xt&gt;1\&lt;}# is: Compliant
+The parameter: end :  having value: 29.06.2016 is: Compliant
+The parameter: budget :  having value: 5,723 is: Compliant

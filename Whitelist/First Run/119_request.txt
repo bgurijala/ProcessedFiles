@@ -1,0 +1,11 @@
+2016-06-23T03:54:26.506-06:00
+name : ZK1. .'WC71.4.r.8 3 2'm'''' 
+desc : O}}Q}\j}l}E2o}5r}h8xrw,oM
+end : 30.06.2016
+budget : 9011
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: ZK1. .'WC71.4.r.8 3 2'm'''' is: Compliant
+The parameter: desc :  having value: O}}Q}\j}l}E2o}5r}h8xrw,oM is: Compliant
+The parameter: end :  having value: 30.06.2016 is: Compliant
+The parameter: budget :  having value: 9011 is: Compliant

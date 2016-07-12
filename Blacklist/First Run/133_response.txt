@@ -1,0 +1,5 @@
+2016-06-24T06:57:31.049-06:00
+name : J2:42UV'.V6'
+desc : <IMG SRC="javascript:alert('XSS');">
+The parameter: name :  having value: J2:42UV'.V6' is: Compliant
+The parameter: desc :  having value: <IMG SRC="javascript:alert('XSS');"> is: Potentially Malicious

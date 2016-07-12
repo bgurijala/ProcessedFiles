@@ -1,0 +1,5 @@
+2016-06-24T08:10:59.165-06:00
+name : K5A''4  ' ' 3W8E..4.:H2.'  '
+desc : <STYLE>@import'http://ha.ckers.org/xss.css';</STYLE>
+The parameter: name :  having value: K5A''4  ' ' 3W8E..4.:H2.'  ' is: Compliant
+The parameter: desc :  having value: <STYLE>@import'http://ha.ckers.org/xss.css';</STYLE> is: Suspicious

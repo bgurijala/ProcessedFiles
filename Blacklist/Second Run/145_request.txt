@@ -1,0 +1,11 @@
+2016-06-24T07:26:56.306-06:00
+name : TQ  L4V ' ' 7L3si2u'7'6 S  
+desc : &lt;XSS STYLE="behavior: url(http://ha.ckers.org/xss.htc);"&gt;
+end : 01.07.2016
+budget : 6,686
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: TQ  L4V ' ' 7L3si2u'7'6 S is: Compliant
+The parameter: desc :  having value: &lt;XSS STYLE="behavior: url(http://ha.ckers.org/xss.htc);"&gt; is: Suspicious
+The parameter: end :  having value: 01.07.2016 is: Compliant
+The parameter: budget :  having value: 6,686 is: Compliant

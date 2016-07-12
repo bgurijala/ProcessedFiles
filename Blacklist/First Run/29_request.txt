@@ -1,0 +1,11 @@
+2016-06-24T03:14:17.847-06:00
+name : VJ.F'Tp 2 ' 
+desc : &lt;SCRIPT SRC=http://ha.ckers.org/xss.js
+end : 25.06.2016
+budget : 2,571
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: VJ.F'Tp 2 ' is: Compliant
+The parameter: desc :  having value: &lt;SCRIPT SRC=http://ha.ckers.org/xss.js is: Malicious
+The parameter: end :  having value: 25.06.2016 is: Compliant
+The parameter: budget :  having value: 2,571 is: Compliant

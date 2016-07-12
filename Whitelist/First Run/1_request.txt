@@ -1,0 +1,11 @@
+2016-06-23T01:42:43.744-06:00
+name : 4E.R3fLnS'hRo O .'7.'CZ U.'
+desc : nvK3rS;ht}M}Nf$}I}}}}
+end : 30.06.2016
+budget : 56,285
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 4E.R3fLnS'hRo O .'7.'CZ U.' is: Compliant
+The parameter: desc :  having value: nvK3rS;ht}M}Nf$}I}}}} is: Compliant
+The parameter: end :  having value: 30.06.2016 is: Compliant
+The parameter: budget :  having value: 56,285 is: Compliant

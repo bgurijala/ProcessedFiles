@@ -1,0 +1,5 @@
+2016-06-24T06:54:01.013-06:00
+name : iB. r'''r.61
+desc : width: expression((window.r==document.cookie)?'':alert(r=document.cookie))
+The parameter: name :  having value: iB. r'''r.61 is: Compliant
+The parameter: desc :  having value: width: expression((window.r==document.cookie)?'':alert(r=document.cookie)) is: Potentially Malicious

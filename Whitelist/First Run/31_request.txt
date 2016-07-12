@@ -1,0 +1,11 @@
+2016-06-23T02:18:40.240-06:00
+name : QB.TY.b  
+desc : wTcpeg}wxCtZ}x}rdpzy}
+end : 07.07.2016
+budget : 45,228
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: QB.TY.b is: Compliant
+The parameter: desc :  having value: wTcpeg}wxCtZ}x}rdpzy} is: Compliant
+The parameter: end :  having value: 07.07.2016 is: Compliant
+The parameter: budget :  having value: 45,228 is: Compliant

@@ -1,0 +1,5 @@
+2016-06-23T01:53:07.104-06:00
+name : nJ9::.'
+desc : xEo}bp}F}}[Ew}ux}c}}}&amp;}pF}k{}
+The parameter: name :  having value: nJ9::.' is: Compliant
+The parameter: desc :  having value: xEo}bp}F}}[Ew}ux}c}}}&amp;}pF}k{} is: Compliant

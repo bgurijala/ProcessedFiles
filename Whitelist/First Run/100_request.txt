@@ -1,0 +1,11 @@
+2016-06-23T03:33:53.158-06:00
+name : FU1.''   ..e''  4:'n.'Xh. 'R
+desc :  Ezv8_}tooA}}RzgeoiQW
+end : 29.07.2016
+budget : 871,727
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: FU1.''   ..e''  4:'n.'Xh. 'R is: Compliant
+The parameter: desc :  having value: Ezv8_}tooA}}RzgeoiQW is: Compliant
+The parameter: end :  having value: 29.07.2016 is: Compliant
+The parameter: budget :  having value: 871,727 is: Compliant

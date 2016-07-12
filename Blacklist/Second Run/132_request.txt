@@ -1,0 +1,11 @@
+2016-06-24T06:55:31.193-06:00
+name : HSx..2B2yJ7'5z'8 3::'2wFE'.'
+desc : &lt;DIV STYLE="width: expression(alert('XSS'));"&gt;
+end : 01.07.2016
+budget : 288,228
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: HSx..2B2yJ7'5z'8 3::'2wFE'.' is: Compliant
+The parameter: desc :  having value: &lt;DIV STYLE="width: expression(alert('XSS'));"&gt; is: Potentially Malicious
+The parameter: end :  having value: 01.07.2016 is: Compliant
+The parameter: budget :  having value: 288,228 is: Compliant

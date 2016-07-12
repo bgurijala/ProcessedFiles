@@ -1,0 +1,11 @@
+2016-06-23T03:08:21.302-06:00
+name : WV6 87' d'F' 'e
+desc : Xjs}cp(md}fh}m}uk"}w?;
+end : 28.06.2016
+budget : 23,773
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: WV6 87' d'F' 'e is: Compliant
+The parameter: desc :  having value: Xjs}cp(md}fh}m}uk"}w?; is: Compliant
+The parameter: end :  having value: 28.06.2016 is: Compliant
+The parameter: budget :  having value: 23,773 is: Compliant

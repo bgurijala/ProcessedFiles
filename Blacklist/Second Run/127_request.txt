@@ -1,0 +1,11 @@
+2016-06-24T06:45:34.829-06:00
+name : U7GyT'.'.  ''
+desc : &lt;img src=`x` onrerror= ` ;; alert(1) ` /&gt;
+end : 28.07.2016
+budget : 458,276
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: U7GyT'.'.  '' is: Compliant
+The parameter: desc :  having value: &lt;img src=`x` onrerror= ` ;; alert(1) ` /&gt; is: Potentially Malicious
+The parameter: end :  having value: 28.07.2016 is: Compliant
+The parameter: budget :  having value: 458,276 is: Compliant

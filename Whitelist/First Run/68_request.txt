@@ -1,0 +1,11 @@
+2016-06-23T02:56:58.379-06:00
+name : Ei6D..4 Z1IUG'..k9Z'..2'.'
+desc : }}r}k}h(a}Hjq}mrTy}$fkg
+end : 19.07.2016
+budget : 73,460
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Ei6D..4 Z1IUG'..k9Z'..2'.' is: Compliant
+The parameter: desc :  having value: }}r}k}h(a}Hjq}mrTy}$fkg is: Compliant
+The parameter: end :  having value: 19.07.2016 is: Compliant
+The parameter: budget :  having value: 73,460 is: Compliant

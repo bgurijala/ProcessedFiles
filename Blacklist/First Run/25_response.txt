@@ -1,0 +1,5 @@
+2016-06-24T03:06:13.334-06:00
+name : Bd:1 Yf
+desc : ` SRC="http://ha.ckers.org/xss.js">
+The parameter: name :  having value: Bd:1 Yf is: Compliant
+The parameter: desc :  having value: ` SRC="http://ha.ckers.org/xss.js"> is: Suspicious

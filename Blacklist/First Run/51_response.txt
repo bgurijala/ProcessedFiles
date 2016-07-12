@@ -1,0 +1,5 @@
+2016-06-24T04:11:44.300-06:00
+name : 2X:..' '''L A .1J7 F 'dv1.
+desc : <STYLE TYPE="text/javascript">alert('XSS');</STYLE>
+The parameter: name :  having value: 2X:..' '''L A .1J7 F 'dv1. is: Compliant
+The parameter: desc :  having value: <STYLE TYPE="text/javascript">alert('XSS');</STYLE> is: Potentially Malicious

@@ -1,0 +1,11 @@
+2016-06-23T04:14:01.075-06:00
+name : JB12.'US
+desc : };"zYiyqd!p}gxvf&amp;KrUk5}I}*z}]}}}H}}}}#uM
+end : 26.06.2016
+budget : 7,680
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: JB12.'US is: Compliant
+The parameter: desc :  having value: };"zYiyqd!p}gxvf&amp;KrUk5}I}*z}]}}}H}}}}#uM is: Compliant
+The parameter: end :  having value: 26.06.2016 is: Compliant
+The parameter: budget :  having value: 7,680 is: Compliant

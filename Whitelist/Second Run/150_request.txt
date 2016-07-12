@@ -1,0 +1,11 @@
+2016-06-23T04:29:26.016-06:00
+name : OX3Ssn.14.
+desc : }rQixF!}}Tog}}r't}}i
+end : 28.06.2016
+budget : 1,176
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: OX3Ssn.14. is: Compliant
+The parameter: desc :  having value: }rQixF!}}Tog}}r't}}i is: Compliant
+The parameter: end :  having value: 28.06.2016 is: Compliant
+The parameter: budget :  having value: 1,176 is: Compliant

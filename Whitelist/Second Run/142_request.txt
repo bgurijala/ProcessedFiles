@@ -1,0 +1,11 @@
+2016-06-23T04:20:33.682-06:00
+name : BN66f ' 5. 14
+desc : qq%}rV%ryrM})kskw}ccc}3,}0z}}S
+end : 10.08.2016
+budget : 636474
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: BN66f ' 5. 14 is: Compliant
+The parameter: desc :  having value: qq%}rV%ryrM})kskw}ccc}3,}0z}}S is: Compliant
+The parameter: end :  having value: 10.08.2016 is: Compliant
+The parameter: budget :  having value: 636474 is: Compliant

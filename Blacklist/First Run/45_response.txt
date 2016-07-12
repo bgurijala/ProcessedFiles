@@ -1,0 +1,5 @@
+2016-06-24T03:49:42.329-06:00
+name : SD'7' w0'. Q
+desc : <STYLE>li {list-style-image: url("javascript:alert('XSS')");}</STYLE><UL><LI>XSS
+The parameter: name :  having value: SD'7' w0'. Q is: Compliant
+The parameter: desc :  having value: <STYLE>li {list-style-image: url("javascript:alert('XSS')");}</STYLE><UL><LI>XSS is: Potentially Malicious

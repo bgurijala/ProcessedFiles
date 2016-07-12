@@ -1,0 +1,11 @@
+2016-06-23T03:29:53.710-06:00
+name : O5.r'.m2x0.2 O.. yNk7k
+desc : }l}}D}=z}}wx}{b}@dX},
+end : 20.07.2016
+budget : 3,782
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: O5.r'.m2x0.2 O.. yNk7k is: Compliant
+The parameter: desc :  having value: }l}}D}=z}}wx}{b}@dX}, is: Compliant
+The parameter: end :  having value: 20.07.2016 is: Compliant
+The parameter: budget :  having value: 3,782 is: Compliant

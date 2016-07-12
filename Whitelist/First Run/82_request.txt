@@ -1,0 +1,11 @@
+2016-06-23T03:11:55.557-06:00
+name : YhN.'C4 U'gn  6'DW'M  
+desc : ys}kh{z}}})r}lJpm}x[}}}{v}#riM$}c
+end : 27.06.2016
+budget : 491270
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: YhN.'C4 U'gn  6'DW'M is: Compliant
+The parameter: desc :  having value: ys}kh{z}}})r}lJpm}x[}}}{v}#riM$}c is: Compliant
+The parameter: end :  having value: 27.06.2016 is: Compliant
+The parameter: budget :  having value: 491270 is: Compliant

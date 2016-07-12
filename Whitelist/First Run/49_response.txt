@@ -1,0 +1,5 @@
+2016-06-23T02:37:55.415-06:00
+name : kfd...C919y1
+desc : q}}Tu}}+pkb/dp}lfz}Jse
+The parameter: name :  having value: kfd...C919y1 is: Compliant
+The parameter: desc :  having value: q}}Tu}}+pkb/dp}lfz}Jse is: Compliant

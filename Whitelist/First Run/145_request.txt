@@ -1,0 +1,11 @@
+2016-06-23T04:23:47.734-06:00
+name : PK:''S 9XF1. 9 '.J .'' 8'4
+desc : \vx6}yto}kq}j}}l$x}h$}m}h }q}}y}lam@%tbML}g
+end : 30.06.2016
+budget : 1,606
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: PK:''S 9XF1. 9 '.J .'' 8'4 is: Compliant
+The parameter: desc :  having value: \vx6}yto}kq}j}}l$x}h$}m}h }q}}y}lam@%tbML}g is: Compliant
+The parameter: end :  having value: 30.06.2016 is: Compliant
+The parameter: budget :  having value: 1,606 is: Compliant

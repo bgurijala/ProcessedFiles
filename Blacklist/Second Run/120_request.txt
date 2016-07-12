@@ -1,0 +1,11 @@
+2016-06-24T06:32:36.016-06:00
+name : s1P. 6pR1 DX7' h''.5VW    F'
+desc : &lt;s&gt;000&lt;s&gt;%3cs%3e111%3c/s%3e%3c%73%3e%32%32%32%3c%2f%73%3e&amp;#60&amp;#115&amp;#62&amp;#51&amp;#51&amp;#51&amp;#60&amp;#47&amp;#115&amp;#62&amp;#x3c&amp;#x73&amp;#x3e&amp;#x34&amp;#x34&amp;#x34&amp;#x3c&amp;#x2f&amp;#x73&amp;#x3e
+end : 28.06.2016
+budget : 97,665
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: s1P. 6pR1 DX7' h''.5VW    F' is: Compliant
+The parameter: desc :  having value: &lt;s&gt;000&lt;s&gt;%3cs%3e111%3c/s%3e%3c%73%3e%32%32%32%3c%2f%73%3e&amp;#60&amp;#115&amp;#62&amp;#51&amp;#51&amp;#51&amp;#60&amp;#47&amp;#115&amp;#62&amp;#x3c&amp;#x73&amp;#x3e&amp;#x34&amp;#x34&amp;#x34&amp;#x3c&amp;#x2f&amp;#x73&amp;#x3e is: Potentially Malicious
+The parameter: end :  having value: 28.06.2016 is: Compliant
+The parameter: budget :  having value: 97,665 is: Compliant

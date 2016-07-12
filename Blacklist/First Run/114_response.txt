@@ -1,0 +1,5 @@
+2016-06-24T06:18:11.639-06:00
+name : G17:L.65'.T.9 35
+desc : <A HREF="//google">XSS</A>
+The parameter: name :  having value: G17:L.65'.T.9 35 is: Compliant
+The parameter: desc :  having value: <A HREF="//google">XSS</A> is: Compliant

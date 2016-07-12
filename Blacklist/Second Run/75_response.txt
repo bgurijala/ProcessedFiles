@@ -1,0 +1,5 @@
+2016-06-24T05:01:52.173-06:00
+name : 6U4 '1'
+desc : &#60;INPUT TYPE&#61;&#34;IMAGE&#34; SRC&#61;&#34;javascript&#58;alert&#40;&#39;XSS&#39;&#41;&#59;&#34;&#62;
+The parameter: name :  having value: 6U4 '1' is: Compliant
+The parameter: desc :  having value: &#60;INPUT TYPE&#61;&#34;IMAGE&#34; SRC&#61;&#34;javascript&#58;alert&#40;&#39;XSS&#39;&#41;&#59;&#34;&#62; is: Potentially Malicious

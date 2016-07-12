@@ -1,0 +1,11 @@
+2016-06-24T05:40:19.881-06:00
+name : 7DkT 4 .6.FTBN3:    HJ .0m 'j
+desc : &gt;"'
+end : 01.08.2016
+budget : 8,512
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 7DkT 4 .6.FTBN3:    HJ .0m 'j is: Compliant
+The parameter: desc :  having value: &gt;"' is: Compliant
+The parameter: end :  having value: 01.08.2016 is: Compliant
+The parameter: budget :  having value: 8,512 is: Compliant

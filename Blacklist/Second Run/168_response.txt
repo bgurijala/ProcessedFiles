@@ -1,0 +1,5 @@
+2016-06-24T08:18:27.807-06:00
+name : 2W''JS'95n
+desc : <xml id=i><x><c><![cdata[<img src="javas]]><![cdata[cript:alert('xss');">]]></c></x></xml><span datasrc=#i datafld=c dataformatas=html>
+The parameter: name :  having value: 2W''JS'95n is: Compliant
+The parameter: desc :  having value: <xml id=i><x><c><![cdata[<img src="javas]]><![cdata[cript:alert('xss');">]]></c></x></xml><span datasrc=#i datafld=c dataformatas=html> is: Potentially Malicious

