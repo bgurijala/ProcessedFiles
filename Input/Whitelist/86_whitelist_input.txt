@@ -1,0 +1,10 @@
+name : 22...h'
+desc : NenAh]c/7xp}kgP}nWqq0f
+end : 29.6.2016
+budget : 80,725
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 22...h' is: Compliant
+The parameter: desc :  having value: NenAh]c/7xp}kgP}nWqq0f is: Compliant
+The parameter: end :  having value: 29.6.2016 is: Compliant
+The parameter: budget :  having value: 80,725 is: Compliant

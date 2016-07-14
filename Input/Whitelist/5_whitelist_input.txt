@@ -1,0 +1,10 @@
+name : k3:'8Y'2U16 F'fg..4 Z O 65 
+desc : > }EdmzZ{Haeo?fmh%}}{aaOow3cz{6yoyj
+end : 25.6.2016
+budget : 2604
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: k3:'8Y'2U16 F'fg..4 Z O 65 is: Compliant
+The parameter: desc :  having value: > }EdmzZ{Haeo?fmh%}}{aaOow3cz{6yoyj is: Compliant
+The parameter: end :  having value: 25.6.2016 is: Compliant
+The parameter: budget :  having value: 2604 is: Compliant

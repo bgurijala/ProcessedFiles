@@ -1,0 +1,10 @@
+name : KbH.it'qLV.6M.''..a.. O'
+desc : 5}}{x}{\eJhk}}jjncenp
+end : 30.6.2016
+budget : 3,646
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: KbH.it'qLV.6M.''..a.. O' is: Compliant
+The parameter: desc :  having value: 5}}{x}{\eJhk}}jjncenp is: Compliant
+The parameter: end :  having value: 30.6.2016 is: Compliant
+The parameter: budget :  having value: 3,646 is: Compliant

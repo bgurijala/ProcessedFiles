@@ -1,0 +1,10 @@
+name : 1J C.UeKpbR1
+desc : x9.}yqpL}c8k}Wzp/V}IiO!g@xT}O
+end : 11.7.2016
+budget : 435,567
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 1J C.UeKpbR1 is: Compliant
+The parameter: desc :  having value: x9.}yqpL}c8k}Wzp/V}IiO!g@xT}O is: Compliant
+The parameter: end :  having value: 11.7.2016 is: Compliant
+The parameter: budget :  having value: 435,567 is: Compliant

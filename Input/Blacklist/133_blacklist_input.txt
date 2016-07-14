@@ -1,0 +1,10 @@
+name : 2zl'  '' 27 2.6.9f.
+desc : <IMG SRC="javascript:alert('XSS')"
+end : 10.7.2016
+budget : 71,063
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 2zl'  '' 27 2.6.9f. is: Compliant
+The parameter: desc :  having value: <IMG SRC="javascript:alert('XSS')" is: Potentially Malicious
+The parameter: end :  having value: 10.7.2016 is: Compliant
+The parameter: budget :  having value: 71,063 is: Compliant

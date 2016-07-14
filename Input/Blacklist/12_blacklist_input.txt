@@ -1,0 +1,10 @@
+name : 1M88.:O  . .n M :.
+desc : &#60;META HTTP-EQUIV&#61;&#34;refresh&#34; CONTENT&#61;&#34;0&#59; URL&#61;http&#58;&#47;&#47;&#59;URL&#61;javascript&#58;alert&#40;&#39;XSS&#39;&#41;&#59;&#34;&#62;
+end : 14.7.2016
+budget : 54,553
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 1M88.:O  . .n M :. is: Compliant
+The parameter: desc :  having value: &#60;META HTTP-EQUIV&#61;&#34;refresh&#34; CONTENT&#61;&#34;0&#59; URL&#61;http&#58;&#47;&#47;&#59;URL&#61;javascript&#58;alert&#40;&#39;XSS&#39;&#41;&#59;&#34;&#62; is: Malicious
+The parameter: end :  having value: 14.7.2016 is: Compliant
+The parameter: budget :  having value: 54,553 is: Compliant

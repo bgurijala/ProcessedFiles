@@ -1,0 +1,10 @@
+name : F5b2''.Z   o.'29M..
+desc : t}g}}xz}uk}p(7}z}qt>{y}..}
+end : 27.6.2016
+budget : 31,586
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: F5b2''.Z   o.'29M.. is: Compliant
+The parameter: desc :  having value: t}g}}xz}uk}p(7}z}qt>{y}..} is: Compliant
+The parameter: end :  having value: 27.6.2016 is: Compliant
+The parameter: budget :  having value: 31,586 is: Compliant

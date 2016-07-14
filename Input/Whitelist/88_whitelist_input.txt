@@ -1,0 +1,10 @@
+name : 4W:.5J'914'cX862GB8IW'9r1
+desc : j_c}qHkX3;)}F}}u"f7jz
+end : 3.7.2016
+budget : 7,226
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 4W:.5J'914'cX862GB8IW'9r1 is: Compliant
+The parameter: desc :  having value: j_c}qHkX3;)}F}}u"f7jz is: Compliant
+The parameter: end :  having value: 3.7.2016 is: Compliant
+The parameter: budget :  having value: 7,226 is: Compliant

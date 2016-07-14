@@ -1,0 +1,10 @@
+name : fE.q..'JTl.YX' e'. C.'
+desc : &#60;STYLE&#62;li &#123;list-style-image&#58; url&#40;&#34;javascript&#58;alert&#40;&#39;XSS&#39;&#41;&#34;&#41;&#59;&#125;&#60;&#47;STYLE&#62;&#60;UL&#62;&#60;LI&#62;XSS
+end : 28.6.2016
+budget : 86238
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: fE.q..'JTl.YX' e'. C.' is: Compliant
+The parameter: desc :  having value: &#60;STYLE&#62;li &#123;list-style-image&#58; url&#40;&#34;javascript&#58;alert&#40;&#39;XSS&#39;&#41;&#34;&#41;&#59;&#125;&#60;&#47;STYLE&#62;&#60;UL&#62;&#60;LI&#62;XSS is: Potentially Malicious
+The parameter: end :  having value: 28.6.2016 is: Compliant
+The parameter: budget :  having value: 86238 is: Compliant

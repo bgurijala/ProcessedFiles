@@ -1,0 +1,10 @@
+name : be17'q.'
+desc : _H}% u}ehe}Kenw}_tjwgih
+end : 25.6.2016
+budget : 664,085
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: be17'q.' is: Compliant
+The parameter: desc :  having value: _H}% u}ehe}Kenw}_tjwgih is: Compliant
+The parameter: end :  having value: 25.6.2016 is: Compliant
+The parameter: budget :  having value: 664,085 is: Compliant

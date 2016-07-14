@@ -1,0 +1,10 @@
+name : y72.T03.  .5.''Q ' M3.'5my  
+desc : yjS>}-J'}cdgeA{}_}hh
+end : 26.6.2016
+budget : 7,251
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: y72.T03.  .5.''Q ' M3.'5my is: Compliant
+The parameter: desc :  having value: yjS>}-J'}cdgeA{}_}hh is: Compliant
+The parameter: end :  having value: 26.6.2016 is: Compliant
+The parameter: budget :  having value: 7,251 is: Compliant

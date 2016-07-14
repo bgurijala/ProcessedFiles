@@ -1,0 +1,10 @@
+name : UT1q 7.4o'6  ''F iP'.EJ
+desc : ^D}xj*hnfet}Hi5aenq.
+end : 28.6.2016
+budget : 3,216
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: UT1q 7.4o'6  ''F iP'.EJ is: Compliant
+The parameter: desc :  having value: ^D}xj*hnfet}Hi5aenq. is: Compliant
+The parameter: end :  having value: 28.6.2016 is: Compliant
+The parameter: budget :  having value: 3,216 is: Compliant

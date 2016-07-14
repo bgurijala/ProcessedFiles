@@ -1,0 +1,10 @@
+name : GIEH5'''.. n7X'q R0 k.5OxU    
+desc : @KO1k}}}i0Nss}j}fltvr
+end : 23.6.2016
+budget : 7,032
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: GIEH5'''.. n7X'q R0 k.5OxU is: Compliant
+The parameter: desc :  having value: @KO1k}}}i0Nss}j}fltvr is: Compliant
+The parameter: end :  having value: 23.6.2016 is: Compliant
+The parameter: budget :  having value: 7,032 is: Compliant

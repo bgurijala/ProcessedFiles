@@ -1,0 +1,10 @@
+name : QW'M'''' Q't x' 8Xj'Yo''9
+desc : yeerPjsMiyzc}fSb}}tjml0 g
+end : 25.6.2016
+budget : 845,486
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: QW'M'''' Q't x' 8Xj'Yo''9 is: Compliant
+The parameter: desc :  having value: yeerPjsMiyzc}fSb}}tjml0 g is: Compliant
+The parameter: end :  having value: 25.6.2016 is: Compliant
+The parameter: budget :  having value: 845,486 is: Compliant

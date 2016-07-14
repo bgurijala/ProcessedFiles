@@ -1,0 +1,10 @@
+name : 4J:KD1.3 8
+desc : nu}fypDjk}joiYahe+gyspHTt(
+end : 2.7.2016
+budget : 987,808
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 4J:KD1.3 8 is: Compliant
+The parameter: desc :  having value: nu}fypDjk}joiYahe+gyspHTt( is: Compliant
+The parameter: end :  having value: 2.7.2016 is: Compliant
+The parameter: budget :  having value: 987,808 is: Compliant

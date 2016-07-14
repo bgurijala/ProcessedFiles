@@ -1,0 +1,10 @@
+name : 2EB m.C..4'J'.'7 
+desc : }n&2,}n}fGVM}vin]}}}jB
+end : 26.6.2016
+budget : 7,804
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 2EB m.C..4'J'.'7 is: Compliant
+The parameter: desc :  having value: }n&2,}n}fGVM}vin]}}}jB is: Compliant
+The parameter: end :  having value: 26.6.2016 is: Compliant
+The parameter: budget :  having value: 7,804 is: Compliant

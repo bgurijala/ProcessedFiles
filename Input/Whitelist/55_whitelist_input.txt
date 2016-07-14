@@ -1,0 +1,10 @@
+name : 4IM 9.'
+desc : ke}pe}o@vzgqpk}y}}}s}}hhh
+end : 30.6.2016
+budget : 85,852
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 4IM 9.' is: Compliant
+The parameter: desc :  having value: ke}pe}o@vzgqpk}y}}}s}}hhh is: Compliant
+The parameter: end :  having value: 30.6.2016 is: Compliant
+The parameter: budget :  having value: 85,852 is: Compliant

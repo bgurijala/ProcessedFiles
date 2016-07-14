@@ -1,0 +1,10 @@
+name : DNC:..'''' '
+desc : <IMG LOWSRC="javascript:alert('XSS');">
+end : 1.7.2016
+budget : 4,241
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: DNC:..'''' ' is: Compliant
+The parameter: desc :  having value: <IMG LOWSRC="javascript:alert('XSS');"> is: Potentially Malicious
+The parameter: end :  having value: 1.7.2016 is: Compliant
+The parameter: budget :  having value: 4,241 is: Compliant

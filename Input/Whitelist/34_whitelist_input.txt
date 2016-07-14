@@ -1,0 +1,10 @@
+name : J5f' .5FEJC2
+desc : kJkgab}s}P;FfTY}mHyeH}
+end : 11.7.2016
+budget : 3,644
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: J5f' .5FEJC2 is: Compliant
+The parameter: desc :  having value: kJkgab}s}P;FfTY}mHyeH} is: Compliant
+The parameter: end :  having value: 11.7.2016 is: Compliant
+The parameter: budget :  having value: 3,644 is: Compliant

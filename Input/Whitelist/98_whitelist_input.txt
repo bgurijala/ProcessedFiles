@@ -1,0 +1,10 @@
+name : KbKBKN' N'mK.
+desc : d}}}tz}F}khe}}}bvA?vx
+end : 30.6.2016
+budget : 4,567
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: KbKBKN' N'mK. is: Compliant
+The parameter: desc :  having value: d}}}tz}F}khe}}}bvA?vx is: Compliant
+The parameter: end :  having value: 30.6.2016 is: Compliant
+The parameter: budget :  having value: 4,567 is: Compliant

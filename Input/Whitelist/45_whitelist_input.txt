@@ -1,0 +1,10 @@
+name : Sv2 ..''v   1m..'w'
+desc : ic}(NbdD}hBv}L}}.rhi#SZX4jqD
+end : 24.6.2016
+budget : 53,376
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Sv2 ..''v   1m..'w' is: Compliant
+The parameter: desc :  having value: ic}(NbdD}hBv}L}}.rhi#SZX4jqD is: Compliant
+The parameter: end :  having value: 24.6.2016 is: Compliant
+The parameter: budget :  having value: 53,376 is: Compliant

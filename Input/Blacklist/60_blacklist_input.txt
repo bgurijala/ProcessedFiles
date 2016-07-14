@@ -1,0 +1,10 @@
+name : WP '''i bb 'WoD
+desc : XSS/*-*/STYLE=xss:e/**/xpression(alert('XSS'))>
+end : 10.8.2016
+budget : 7,137
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: WP '''i bb 'WoD is: Compliant
+The parameter: desc :  having value: XSS/*-*/STYLE=xss:e/**/xpression(alert('XSS'))> is: Potentially Malicious
+The parameter: end :  having value: 10.8.2016 is: Compliant
+The parameter: budget :  having value: 7,137 is: Compliant

@@ -1,0 +1,10 @@
+name : QU:HT49'A.1. m.
+desc : Cez}}o@m}}uf}pq}(v}}}v
+end : 29.6.2016
+budget : 58867
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: QU:HT49'A.1. m. is: Compliant
+The parameter: desc :  having value: Cez}}o@m}}uf}pq}(v}}}v is: Compliant
+The parameter: end :  having value: 29.6.2016 is: Compliant
+The parameter: budget :  having value: 58867 is: Compliant

@@ -1,0 +1,10 @@
+name : Kr.''se '.7hP5
+desc : <IMG SRC=javascript:alert(&quot;XSS&quot;)>
+end : 19.8.2016
+budget : 3,343
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Kr.''se '.7hP5 is: Compliant
+The parameter: desc :  having value: <IMG SRC=javascript:alert(&quot;XSS&quot;)> is: Potentially Malicious
+The parameter: end :  having value: 19.8.2016 is: Compliant
+The parameter: budget :  having value: 3,343 is: Compliant

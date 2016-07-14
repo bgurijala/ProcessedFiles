@@ -1,0 +1,10 @@
+name : 63N'. :'. .'..8JF2. p'
+desc : &#60;META HTTP-EQUIV&#61;&#34;refresh&#34; CONTENT&#61;&#34;0&#59;url&#61;data&#58;text&#47;html&#59;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K&#34;&#62;
+end : 28.6.2016
+budget : 19,047
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 63N'. :'. .'..8JF2. p' is: Compliant
+The parameter: desc :  having value: &#60;META HTTP-EQUIV&#61;&#34;refresh&#34; CONTENT&#61;&#34;0&#59;url&#61;data&#58;text&#47;html&#59;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K&#34;&#62; is: Suspicious
+The parameter: end :  having value: 28.6.2016 is: Compliant
+The parameter: budget :  having value: 19,047 is: Compliant

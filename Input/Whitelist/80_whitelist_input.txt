@@ -1,0 +1,10 @@
+name : xv:B9Ky8 .b.'b.K:.. Z.'
+desc : dTM&mk}>w}k}wmgrm}\fM7re
+end : 25.6.2016
+budget : 3,973
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: xv:B9Ky8 .b.'b.K:.. Z.' is: Compliant
+The parameter: desc :  having value: dTM&mk}>w}k}wmgrm}\fM7re is: Compliant
+The parameter: end :  having value: 25.6.2016 is: Compliant
+The parameter: budget :  having value: 3,973 is: Compliant

@@ -1,0 +1,10 @@
+name : MP:449L.zD3r S''. 2.g's
+desc : c}}}3}1x{DqQg}@;'ydl}T!Eu
+end : 17.7.2016
+budget : 5,153
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: MP:449L.zD3r S''. 2.g's is: Compliant
+The parameter: desc :  having value: c}}}3}1x{DqQg}@;'ydl}T!Eu is: Compliant
+The parameter: end :  having value: 17.7.2016 is: Compliant
+The parameter: budget :  having value: 5,153 is: Compliant

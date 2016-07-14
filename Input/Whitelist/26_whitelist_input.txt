@@ -1,0 +1,10 @@
+name : Te..'.Q 1 M
+desc : sLt/s}k}uwjtg*wr}}x}}Y
+end : 27.6.2016
+budget : 6,134
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Te..'.Q 1 M is: Compliant
+The parameter: desc :  having value: sLt/s}k}uwjtg*wr}}x}}Y is: Compliant
+The parameter: end :  having value: 27.6.2016 is: Compliant
+The parameter: budget :  having value: 6,134 is: Compliant

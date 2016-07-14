@@ -1,0 +1,10 @@
+name : kfd...C919y1 
+desc : q}}Tu}}+pkb/dp}lfz}Jse
+end : 30.6.2016
+budget : 352,426
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: kfd...C919y1 is: Compliant
+The parameter: desc :  having value: q}}Tu}}+pkb/dp}lfz}Jse is: Compliant
+The parameter: end :  having value: 30.6.2016 is: Compliant
+The parameter: budget :  having value: 352,426 is: Compliant

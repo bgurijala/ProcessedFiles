@@ -1,0 +1,10 @@
+name : Qb:3..P:WZD.t 4'N'.. '.8J73
+desc : v6C,5jXxh})}gCdw}}=}}\6}}7}}ql8i
+end : 25.6.2016
+budget : 1,572
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Qb:3..P:WZD.t 4'N'.. '.8J73 is: Compliant
+The parameter: desc :  having value: v6C,5jXxh})}gCdw}}=}}\6}}7}}ql8i is: Compliant
+The parameter: end :  having value: 25.6.2016 is: Compliant
+The parameter: budget :  having value: 1,572 is: Compliant

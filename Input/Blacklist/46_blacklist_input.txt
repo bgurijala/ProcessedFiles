@@ -1,0 +1,10 @@
+name : SD'7' w0'. Q
+desc : <STYLE>li {list-style-image: url("javascript:alert('XSS')");}</STYLE><UL><LI>XSS
+end : 28.7.2016
+budget : 63,285
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: SD'7' w0'. Q is: Compliant
+The parameter: desc :  having value: <STYLE>li {list-style-image: url("javascript:alert('XSS')");}</STYLE><UL><LI>XSS is: Potentially Malicious
+The parameter: end :  having value: 28.7.2016 is: Compliant
+The parameter: budget :  having value: 63,285 is: Compliant

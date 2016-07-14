@@ -1,0 +1,10 @@
+name : 3h:4. 0 'PU
+desc : Xaxovhoyh}SYiAOr}}qs)t}p}=)3{c
+end : 28.6.2016
+budget : 12,961
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 3h:4. 0 'PU is: Compliant
+The parameter: desc :  having value: Xaxovhoyh}SYiAOr}}qs)t}p}=)3{c is: Compliant
+The parameter: end :  having value: 28.6.2016 is: Compliant
+The parameter: budget :  having value: 12,961 is: Compliant

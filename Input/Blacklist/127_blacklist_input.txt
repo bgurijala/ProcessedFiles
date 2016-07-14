@@ -1,0 +1,10 @@
+name : QH:xI.SC
+desc : style=color: expression(alert(0));" a="
+end : 19.7.2016
+budget : 12,126
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: QH:xI.SC is: Compliant
+The parameter: desc :  having value: style=color: expression(alert(0));" a=" is: Potentially Malicious
+The parameter: end :  having value: 19.7.2016 is: Compliant
+The parameter: budget :  having value: 12,126 is: Compliant

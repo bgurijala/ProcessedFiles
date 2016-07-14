@@ -1,0 +1,10 @@
+name : 8IE.KSb
+desc : <!--#exec cmd=""/usr/X11R6/bin/xterm ?display 127.0.0.1:0 &""-->
+end : 1.7.2016
+budget : 4,519
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 8IE.KSb is: Compliant
+The parameter: desc :  having value: <!--#exec cmd=""/usr/X11R6/bin/xterm ?display 127.0.0.1:0 &""--> is: Potentially Malicious
+The parameter: end :  having value: 1.7.2016 is: Compliant
+The parameter: budget :  having value: 4,519 is: Compliant

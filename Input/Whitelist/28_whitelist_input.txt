@@ -1,0 +1,10 @@
+name : BT S2.8l
+desc : }rHawv}}bZ}(}Zr4}c8c}
+end : 29.6.2016
+budget : 4,290
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: BT S2.8l is: Compliant
+The parameter: desc :  having value: }rHawv}}bZ}(}Zr4}c8c} is: Compliant
+The parameter: end :  having value: 29.6.2016 is: Compliant
+The parameter: budget :  having value: 4,290 is: Compliant

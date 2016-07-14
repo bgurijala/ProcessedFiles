@@ -1,0 +1,10 @@
+name : qCt ..'65.B :I.K0  Hd.R ..
+desc : }}zjk 7}ueii0wem}nK:kdclm$h
+end : 21.7.2016
+budget : 9,853
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: qCt ..'65.B :I.K0  Hd.R .. is: Compliant
+The parameter: desc :  having value: }}zjk 7}ueii0wem}nK:kdclm$h is: Compliant
+The parameter: end :  having value: 21.7.2016 is: Compliant
+The parameter: budget :  having value: 9,853 is: Compliant

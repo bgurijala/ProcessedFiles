@@ -1,0 +1,10 @@
+name : wv . e1
+desc : <script>alert('xss')</script>
+end : 28.6.2016
+budget : 7,357
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: wv . e1 is: Compliant
+The parameter: desc :  having value: <script>alert('xss')</script> is: Potentially Malicious
+The parameter: end :  having value: 28.6.2016 is: Compliant
+The parameter: budget :  having value: 7,357 is: Compliant

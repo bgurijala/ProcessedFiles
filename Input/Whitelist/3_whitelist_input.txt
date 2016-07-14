@@ -1,0 +1,10 @@
+name : 2HS..4v. K2h.IU.B2g . 90o
+desc : }ar)]}}n}/}ruy_}}nb4r
+end : 5.7.2016
+budget : 8,458
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 2HS..4v. K2h.IU.B2g . 90o is: Compliant
+The parameter: desc :  having value: }ar)]}}n}/}ruy_}}nb4r is: Compliant
+The parameter: end :  having value: 5.7.2016 is: Compliant
+The parameter: budget :  having value: 8,458 is: Compliant

@@ -1,0 +1,10 @@
+name : fHUGoD.x.i6'Mx mIU  '.  ..'  .
+desc : }}r}cs}}}m}ras}'Pr}5
+end : 29.6.2016
+budget : 65,365
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: fHUGoD.x.i6'Mx mIU  '.  ..'  . is: Compliant
+The parameter: desc :  having value: }}r}cs}}}m}ras}'Pr}5 is: Compliant
+The parameter: end :  having value: 29.6.2016 is: Compliant
+The parameter: budget :  having value: 65,365 is: Compliant

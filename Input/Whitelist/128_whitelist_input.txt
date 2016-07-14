@@ -1,0 +1,10 @@
+name : J5o''nHtN w. 5
+desc : }P1}uuddz}i*C}j}vl}mBqm}L}
+end : 28.6.2016
+budget : 716,368
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: J5o''nHtN w. 5 is: Compliant
+The parameter: desc :  having value: }P1}uuddz}i*C}j}vl}mBqm}L} is: Compliant
+The parameter: end :  having value: 28.6.2016 is: Compliant
+The parameter: budget :  having value: 716,368 is: Compliant

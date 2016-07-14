@@ -1,0 +1,10 @@
+name : RA2G. 21  '.
+desc : }x}}0x1}C0[yfh*w}f@}
+end : 28.8.2016
+budget : 6,718
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: RA2G. 21  '. is: Compliant
+The parameter: desc :  having value: }x}}0x1}C0[yfh*w}f@} is: Compliant
+The parameter: end :  having value: 28.8.2016 is: Compliant
+The parameter: budget :  having value: 6,718 is: Compliant

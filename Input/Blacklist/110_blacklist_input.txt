@@ -1,0 +1,10 @@
+name : W2'8LN1
+desc : <A HREF="http://google:ha.ckers.org">XSS</A>
+end : 30.6.2016
+budget : 622,702
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: W2'8LN1 is: Compliant
+The parameter: desc :  having value: <A HREF="http://google:ha.ckers.org">XSS</A> is: Suspicious
+The parameter: end :  having value: 30.6.2016 is: Compliant
+The parameter: budget :  having value: 622,702 is: Compliant

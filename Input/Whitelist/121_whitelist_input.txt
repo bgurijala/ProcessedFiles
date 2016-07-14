@@ -1,0 +1,10 @@
+name : XYGMR.v3 Y'n
+desc : }xfx{xr*<!hlkeh}+(};<t'}S
+end : 10.8.2016
+budget : 2,858
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: XYGMR.v3 Y'n is: Compliant
+The parameter: desc :  having value: }xfx{xr*<!hlkeh}+(};<t'}S is: Compliant
+The parameter: end :  having value: 10.8.2016 is: Compliant
+The parameter: budget :  having value: 2,858 is: Compliant

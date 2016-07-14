@@ -1,0 +1,10 @@
+name : mb.w'B. 7W'. .B
+desc : &#60;META HTTP-EQUIV&#61;&#34;refresh&#34; CONTENT&#61;&#34;0&#59;url&#61;javascript&#58;alert&#40;&#39;XSS&#39;&#41;&#59;&#34;&#62;
+end : 30.6.2016
+budget : 589,723
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: mb.w'B. 7W'. .B is: Compliant
+The parameter: desc :  having value: &#60;META HTTP-EQUIV&#61;&#34;refresh&#34; CONTENT&#61;&#34;0&#59;url&#61;javascript&#58;alert&#40;&#39;XSS&#39;&#41;&#59;&#34;&#62; is: Malicious
+The parameter: end :  having value: 30.6.2016 is: Compliant
+The parameter: budget :  having value: 589,723 is: Compliant

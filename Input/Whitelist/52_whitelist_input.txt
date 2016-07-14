@@ -1,0 +1,10 @@
+name : vjO.Z1H 
+desc : kbAq{k}yPV:cm<Ve}mp wez;dOn}Bh}r{,
+end : 29.6.2016
+budget : 78,611
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: vjO.Z1H is: Compliant
+The parameter: desc :  having value: kbAq{k}yPV:cm<Ve}mp wez;dOn}Bh}r{, is: Compliant
+The parameter: end :  having value: 29.6.2016 is: Compliant
+The parameter: budget :  having value: 78,611 is: Compliant

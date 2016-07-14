@@ -1,0 +1,10 @@
+name : Ti'..q'.2K'   D.W.' .
+desc : i}0[wcTjeg(h}gtu}}}}jZ[Bmbke}f}^
+end : 14.7.2016
+budget : 87913
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Ti'..q'.2K'   D.W.' . is: Compliant
+The parameter: desc :  having value: i}0[wcTjeg(h}gtu}}}}jZ[Bmbke}f}^ is: Compliant
+The parameter: end :  having value: 14.7.2016 is: Compliant
+The parameter: budget :  having value: 87913 is: Compliant

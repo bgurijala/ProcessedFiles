@@ -1,0 +1,10 @@
+name : 2d4'''I..3'1.' '1.h30. 43'.9
+desc : j}}$:Towvzty}rwB}bgo?oOU
+end : 30.6.2016
+budget : 3,374
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 2d4'''I..3'1.' '1.h30. 43'.9 is: Compliant
+The parameter: desc :  having value: j}}$:Towvzty}rwB}bgo?oOU is: Compliant
+The parameter: end :  having value: 30.6.2016 is: Compliant
+The parameter: budget :  having value: 3,374 is: Compliant

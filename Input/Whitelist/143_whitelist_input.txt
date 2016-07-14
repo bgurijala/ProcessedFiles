@@ -1,0 +1,10 @@
+name : 4L6:Fgru
+desc : iE}pqv}R}pB}c}W!=P5}]p.Ok.*
+end : 28.6.2016
+budget : 244939
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 4L6:Fgru is: Compliant
+The parameter: desc :  having value: iE}pqv}R}pB}c}W!=P5}]p.Ok.* is: Compliant
+The parameter: end :  having value: 28.6.2016 is: Compliant
+The parameter: budget :  having value: 244939 is: Compliant

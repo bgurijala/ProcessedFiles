@@ -1,0 +1,10 @@
+name : R45..'. I.
+desc : LjdEgmsYp}w}xj}y}l,ww
+end : 27.6.2016
+budget : 3,818
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: R45..'. I. is: Compliant
+The parameter: desc :  having value: LjdEgmsYp}w}xj}y}l,ww is: Compliant
+The parameter: end :  having value: 27.6.2016 is: Compliant
+The parameter: budget :  having value: 3,818 is: Compliant

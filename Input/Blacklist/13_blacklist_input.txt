@@ -1,0 +1,10 @@
+name : 4HR6 q..64KCA.I3
+desc : &#60;STYLE TYPE&#61;&#34;text&#47;javascript&#34;&#62;alert&#40;&#39;XSS&#39;&#41;&#59;&#60;&#47;STYLE&#62;
+end : 27.6.2016
+budget : 542,409
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 4HR6 q..64KCA.I3 is: Compliant
+The parameter: desc :  having value: &#60;STYLE TYPE&#61;&#34;text&#47;javascript&#34;&#62;alert&#40;&#39;XSS&#39;&#41;&#59;&#60;&#47;STYLE&#62; is: Potentially Malicious
+The parameter: end :  having value: 27.6.2016 is: Compliant
+The parameter: budget :  having value: 542,409 is: Compliant

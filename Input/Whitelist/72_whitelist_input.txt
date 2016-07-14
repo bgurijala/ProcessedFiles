@@ -1,0 +1,10 @@
+name : e6 .... ''1
+desc : }}kXxxngskq-;}}}j}Ud}+
+end : 4.7.2016
+budget : 85,359
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: e6 .... ''1 is: Compliant
+The parameter: desc :  having value: }}kXxxngskq-;}}}j}Ud}+ is: Compliant
+The parameter: end :  having value: 4.7.2016 is: Compliant
+The parameter: budget :  having value: 85,359 is: Compliant

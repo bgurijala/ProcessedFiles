@@ -1,0 +1,10 @@
+name : 6GS8 'se 
+desc : </XSS STYLE=xss:expression(alert('XSS'))>
+end : 28.7.2016
+budget : 3,161
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 6GS8 'se is: Compliant
+The parameter: desc :  having value: </XSS STYLE=xss:expression(alert('XSS'))> is: Potentially Malicious
+The parameter: end :  having value: 28.7.2016 is: Compliant
+The parameter: budget :  having value: 3,161 is: Compliant

@@ -1,0 +1,10 @@
+name : 71Y.0'8X.9. .h
+desc : hc>s*y}{fg<ooc}fnrEg}ko'}ruq}}
+end : 29.6.2016
+budget : 273,352
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 71Y.0'8X.9. .h is: Compliant
+The parameter: desc :  having value: hc>s*y}{fg<ooc}fnrEg}ko'}ruq}} is: Compliant
+The parameter: end :  having value: 29.6.2016 is: Compliant
+The parameter: budget :  having value: 273,352 is: Compliant

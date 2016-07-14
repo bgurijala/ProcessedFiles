@@ -1,0 +1,10 @@
+name : lYN....
+desc : <IMG """><SCRIPT>alert("XSS")</SCRIPT>">",
+end : 30.6.2016
+budget : 314,300
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: lYN.... is: Compliant
+The parameter: desc :  having value: <IMG """><SCRIPT>alert("XSS")</SCRIPT>">", is: Potentially Malicious
+The parameter: end :  having value: 30.6.2016 is: Compliant
+The parameter: budget :  having value: 314,300 is: Compliant

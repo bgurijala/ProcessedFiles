@@ -1,0 +1,10 @@
+name : VJ'RIHf'GT.xU'8.3'Mi''1 ..N
+desc : /[m}hn}puhd}bjj#k}kfyv
+end : 21.7.2016
+budget : 57,826
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: VJ'RIHf'GT.xU'8.3'Mi''1 ..N is: Compliant
+The parameter: desc :  having value: /[m}hn}puhd}bjj#k}kfyv is: Compliant
+The parameter: end :  having value: 21.7.2016 is: Compliant
+The parameter: budget :  having value: 57,826 is: Compliant

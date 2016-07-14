@@ -1,0 +1,10 @@
+name : 4QKoLI.....'
+desc : <IMG SRC=" &#14;  javascript:alert('XSS');">
+end : 19.7.2016
+budget : 3,504
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 4QKoLI.....' is: Compliant
+The parameter: desc :  having value: <IMG SRC=" &#14;  javascript:alert('XSS');"> is: Potentially Malicious
+The parameter: end :  having value: 19.7.2016 is: Compliant
+The parameter: budget :  having value: 3,504 is: Compliant

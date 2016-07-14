@@ -1,0 +1,10 @@
+name : Hw. .b.Q9.7:78.
+desc : aim: &c:\windows\system32\calc.exe" ini="C:\Documents and Settings\All Users\Start Menu\Programs\Startup\pwnd.bat"
+end : 30.6.2016
+budget : 10,995
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Hw. .b.Q9.7:78. is: Compliant
+The parameter: desc :  having value: aim: &c:\windows\system32\calc.exe" ini="C:\Documents and Settings\All Users\Start Menu\Programs\Startup\pwnd.bat" is: Suspicious
+The parameter: end :  having value: 30.6.2016 is: Compliant
+The parameter: budget :  having value: 10,995 is: Compliant

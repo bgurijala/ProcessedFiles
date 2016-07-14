@@ -1,0 +1,10 @@
+name : 8WW8xV7 ''592..'c9K . RE. 'n 
+desc : [e*}}nA}p}l}vqn0}}Mz}a-^&O
+end : 22.7.2016
+budget : 4,433
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 8WW8xV7 ''592..'c9K . RE. 'n is: Compliant
+The parameter: desc :  having value: [e*}}nA}p}l}vqn0}}Mz}a-^&O is: Compliant
+The parameter: end :  having value: 22.7.2016 is: Compliant
+The parameter: budget :  having value: 4,433 is: Compliant

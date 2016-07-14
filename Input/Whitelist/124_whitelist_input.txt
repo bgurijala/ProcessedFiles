@@ -1,0 +1,10 @@
+name : CkLe6'g'. KX
+desc : }}r}sgZ<@pv3m}WblDZe
+end : 28.7.2016
+budget : 8,880
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: CkLe6'g'. KX is: Compliant
+The parameter: desc :  having value: }}r}sgZ<@pv3m}WblDZe is: Compliant
+The parameter: end :  having value: 28.7.2016 is: Compliant
+The parameter: budget :  having value: 8,880 is: Compliant

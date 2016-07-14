@@ -1,0 +1,10 @@
+name : EX  p.fS'T Y  p:e85 LPJ.''.
+desc : }Sd}Bvj}vyrz}yo0di}}i6NLhb
+end : 26.6.2016
+budget : 573,124
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: EX  p.fS'T Y  p:e85 LPJ.''. is: Compliant
+The parameter: desc :  having value: }Sd}Bvj}vyrz}yo0di}}i6NLhb is: Compliant
+The parameter: end :  having value: 26.6.2016 is: Compliant
+The parameter: budget :  having value: 573,124 is: Compliant

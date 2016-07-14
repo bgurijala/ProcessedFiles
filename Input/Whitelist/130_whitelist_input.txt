@@ -1,0 +1,10 @@
+name : Js:.1'.
+desc : }em}}1*k{(}vwtgdx&}g
+end : 19.8.2016
+budget : 76,103
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Js:.1'. is: Compliant
+The parameter: desc :  having value: }em}}1*k{(}vwtgdx&}g is: Compliant
+The parameter: end :  having value: 19.8.2016 is: Compliant
+The parameter: budget :  having value: 76,103 is: Compliant

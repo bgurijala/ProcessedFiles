@@ -1,0 +1,10 @@
+name : Db: O3 .9e.'X g'e''..'.
+desc : <SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
+end : 28.6.2016
+budget : 76,164
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Db: O3 .9e.'X g'e''..'. is: Compliant
+The parameter: desc :  having value: <SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT> is: Malicious
+The parameter: end :  having value: 28.6.2016 is: Compliant
+The parameter: budget :  having value: 76,164 is: Compliant

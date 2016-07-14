@@ -1,0 +1,10 @@
+name : OOV:...' X
+desc : <IMG STYLE="xss:expr/*XSS*/ession(alert('XSS'))">
+end : 30.6.2016
+budget : 7,000
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: OOV:...' X is: Compliant
+The parameter: desc :  having value: <IMG STYLE="xss:expr/*XSS*/ession(alert('XSS'))"> is: Potentially Malicious
+The parameter: end :  having value: 30.6.2016 is: Compliant
+The parameter: budget :  having value: 7,000 is: Compliant

@@ -1,0 +1,10 @@
+name : P0B:D sd''I   'SUTI.wg'..4''
+desc : nf bly}mK[kgp4u!}>yPhL
+end : 21.7.2016
+budget : 367,212
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: P0B:D sd''I   'SUTI.wg'..4'' is: Compliant
+The parameter: desc :  having value: nf bly}mK[kgp4u!}>yPhL is: Compliant
+The parameter: end :  having value: 21.7.2016 is: Compliant
+The parameter: budget :  having value: 367,212 is: Compliant

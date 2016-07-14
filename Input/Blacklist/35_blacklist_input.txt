@@ -1,0 +1,10 @@
+name : 3Ya:831D2''
+desc : <IMG SRC=`javascript:alert("XSS says, 'XSS'")`>
+end : 19.7.2016
+budget : 68,876
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 3Ya:831D2'' is: Compliant
+The parameter: desc :  having value: <IMG SRC=`javascript:alert("XSS says, 'XSS'")`> is: Potentially Malicious
+The parameter: end :  having value: 19.7.2016 is: Compliant
+The parameter: budget :  having value: 68,876 is: Compliant

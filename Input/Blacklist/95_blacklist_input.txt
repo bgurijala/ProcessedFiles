@@ -1,0 +1,10 @@
+name : Bl..3.'.C
+desc : */a=eval;b=alert;a(b(/e/.source));/*
+end : 28.6.2016
+budget : 4,541
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Bl..3.'.C is: Compliant
+The parameter: desc :  having value: */a=eval;b=alert;a(b(/e/.source));/* is: Potentially Malicious
+The parameter: end :  having value: 28.6.2016 is: Compliant
+The parameter: budget :  having value: 4,541 is: Compliant

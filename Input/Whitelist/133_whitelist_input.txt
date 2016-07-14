@@ -1,0 +1,10 @@
+name : qB'.. 3z
+desc : gA:h(7Hzw}}t&stc}}sdE
+end : 28.6.2016
+budget : 4,241
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: qB'.. 3z is: Compliant
+The parameter: desc :  having value: gA:h(7Hzw}}t&stc}}sdE is: Compliant
+The parameter: end :  having value: 28.6.2016 is: Compliant
+The parameter: budget :  having value: 4,241 is: Compliant

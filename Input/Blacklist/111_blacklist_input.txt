@@ -1,0 +1,10 @@
+name : NB   '7''' .b C'O''  
+desc : <A HREF="http://ha.ckers.org@google">XSS</A>
+end : 1.7.2016
+budget : 77194
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: NB   '7''' .b C'O'' is: Compliant
+The parameter: desc :  having value: <A HREF="http://ha.ckers.org@google">XSS</A> is: Suspicious
+The parameter: end :  having value: 1.7.2016 is: Compliant
+The parameter: budget :  having value: 77194 is: Compliant

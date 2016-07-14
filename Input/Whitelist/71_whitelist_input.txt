@@ -1,0 +1,10 @@
+name : XqL6 '..
+desc : }w1{jpfc}}l_g2jzcj<,w
+end : 22.7.2016
+budget : 1,440
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: XqL6 '.. is: Compliant
+The parameter: desc :  having value: }w1{jpfc}}l_g2jzcj<,w is: Compliant
+The parameter: end :  having value: 22.7.2016 is: Compliant
+The parameter: budget :  having value: 1,440 is: Compliant

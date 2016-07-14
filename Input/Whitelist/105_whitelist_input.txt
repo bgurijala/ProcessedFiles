@@ -1,0 +1,10 @@
+name : 3E: 6.'''7H473'
+desc : wmMrnj}jle1}Fl}zl}}$
+end : 24.7.2016
+budget : 4,939
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 3E: 6.'''7H473' is: Compliant
+The parameter: desc :  having value: wmMrnj}jle1}Fl}zl}}$ is: Compliant
+The parameter: end :  having value: 24.7.2016 is: Compliant
+The parameter: budget :  having value: 4,939 is: Compliant

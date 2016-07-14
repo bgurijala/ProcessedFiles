@@ -1,0 +1,10 @@
+name : KX' 88PW .'
+desc : &#37;BCscript&#37;BEalert&#40;&#37;A2XSS&#37;A2&#41;&#37;BC&#47;script&#37;BE
+end : 1.8.2016
+budget : 5596
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: KX' 88PW .' is: Compliant
+The parameter: desc :  having value: &#37;BCscript&#37;BEalert&#40;&#37;A2XSS&#37;A2&#41;&#37;BC&#47;script&#37;BE is: Potentially Malicious
+The parameter: end :  having value: 1.8.2016 is: Compliant
+The parameter: budget :  having value: 5596 is: Compliant

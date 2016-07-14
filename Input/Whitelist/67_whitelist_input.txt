@@ -1,0 +1,10 @@
+name : tL:'D2.i6 2J2 MO R'T
+desc : 6anjgmsy}a&eGr}H_}y}w#i<$TTt}
+end : 16.7.2016
+budget : 7,572
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: tL:'D2.i6 2J2 MO R'T is: Compliant
+The parameter: desc :  having value: 6anjgmsy}a&eGr}H_}y}w#i<$TTt} is: Compliant
+The parameter: end :  having value: 16.7.2016 is: Compliant
+The parameter: budget :  having value: 7,572 is: Compliant

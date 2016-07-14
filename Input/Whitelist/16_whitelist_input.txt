@@ -1,0 +1,10 @@
+name : kKS.'N'G.h
+desc : KPupjB}m9}znmec0_Z}sm4t
+end : 30.6.2016
+budget : 4,015
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: kKS.'N'G.h is: Compliant
+The parameter: desc :  having value: KPupjB}m9}znmec0_Z}sm4t is: Compliant
+The parameter: end :  having value: 30.6.2016 is: Compliant
+The parameter: budget :  having value: 4,015 is: Compliant

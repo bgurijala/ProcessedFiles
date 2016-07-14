@@ -1,0 +1,10 @@
+name : PuEJJ FJ'6  ' 
+desc : {}hn}oq}}g}}{}uon}4IX}}G
+end : 29.6.2016
+budget : 7,426
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: PuEJJ FJ'6  ' is: Compliant
+The parameter: desc :  having value: {}hn}oq}}g}}{}uon}4IX}}G is: Compliant
+The parameter: end :  having value: 29.6.2016 is: Compliant
+The parameter: budget :  having value: 7,426 is: Compliant

@@ -1,0 +1,10 @@
+name : KXE.T''
+desc : }Mec}}mszwut&O}}c}ab}k
+end : 27.6.2016
+budget : 12,143
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: KXE.T'' is: Compliant
+The parameter: desc :  having value: }Mec}}mszwut&O}}c}ab}k is: Compliant
+The parameter: end :  having value: 27.6.2016 is: Compliant
+The parameter: budget :  having value: 12,143 is: Compliant

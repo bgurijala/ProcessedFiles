@@ -1,0 +1,10 @@
+name : ZF'.EV'8'
+desc : <html><body><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"><?import namespace="t" implementation="#default#time2"><t:set attributename="innerhtml" to="xss<script defer>alert('xss')</script>"> </body></html>
+end : 10.8.2016
+budget : 74,498
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: ZF'.EV'8' is: Compliant
+The parameter: desc :  having value: <html><body><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"><?import namespace="t" implementation="#default#time2"><t:set attributename="innerhtml" to="xss<script defer>alert('xss')</script>"> </body></html> is: Potentially Malicious
+The parameter: end :  having value: 10.8.2016 is: Compliant
+The parameter: budget :  having value: 74,498 is: Compliant

@@ -1,0 +1,10 @@
+name : LR.n.91  '.Ks.. 
+desc : tht}}mk}i}p}zxd}yr}dtwwR^Fu}\62z2[Nqs
+end : 23.7.2016
+budget : 8,355
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: LR.n.91  '.Ks.. is: Compliant
+The parameter: desc :  having value: tht}}mk}i}p}zxd}yr}dtwwR^Fu}\62z2[Nqs is: Compliant
+The parameter: end :  having value: 23.7.2016 is: Compliant
+The parameter: budget :  having value: 8,355 is: Compliant

@@ -1,0 +1,10 @@
+name : GY''' T7
+desc : 4p@brhzdns}9w{}}dKgj}/
+end : 10.7.2016
+budget : 1,523
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: GY''' T7 is: Compliant
+The parameter: desc :  having value: 4p@brhzdns}9w{}}dKgj}/ is: Compliant
+The parameter: end :  having value: 10.7.2016 is: Compliant
+The parameter: budget :  having value: 1,523 is: Compliant

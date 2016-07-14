@@ -1,0 +1,10 @@
+name : kLC''s.c J
+desc : 8}Qykx^isv}&:jx}P}E}>Snxjqp&"q
+end : 30.6.2016
+budget : 5,052
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: kLC''s.c J is: Compliant
+The parameter: desc :  having value: 8}Qykx^isv}&:jx}P}E}>Snxjqp&"q is: Compliant
+The parameter: end :  having value: 30.6.2016 is: Compliant
+The parameter: budget :  having value: 5,052 is: Compliant

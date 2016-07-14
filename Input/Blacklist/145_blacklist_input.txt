@@ -1,0 +1,10 @@
+name : Z1tS.5'.B7.3. 8v 'B9'.CR.' 4h
+desc : <XSS STYLE="xss:expression(alert('XSS'))">
+end : 28.7.2015
+budget : 8,582
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Z1tS.5'.B7.3. 8v 'B9'.CR.' 4h is: Compliant
+The parameter: desc :  having value: <XSS STYLE="xss:expression(alert('XSS'))"> is: Potentially Malicious
+The parameter: end :  having value: 28.7.2015 is: Compliant
+The parameter: budget :  having value: 8,582 is: Compliant

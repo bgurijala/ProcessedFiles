@@ -1,0 +1,10 @@
+name : 2W''JS'95n 
+desc : <xml id=i><x><c><![cdata[<img src="javas]]><![cdata[cript:alert('xss');">]]></c></x></xml><span datasrc=#i datafld=c dataformatas=html>
+end : 1.7.2016
+budget : 1,841
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 2W''JS'95n is: Compliant
+The parameter: desc :  having value: <xml id=i><x><c><![cdata[<img src="javas]]><![cdata[cript:alert('xss');">]]></c></x></xml><span datasrc=#i datafld=c dataformatas=html> is: Potentially Malicious
+The parameter: end :  having value: 1.7.2016 is: Compliant
+The parameter: budget :  having value: 1,841 is: Compliant

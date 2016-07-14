@@ -1,0 +1,10 @@
+name : pX'5KA.0'6 
+desc : v}}T#}d:^}>{"}}}}}pycc
+end : 15.7.2016
+budget : 24,632
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: pX'5KA.0'6 is: Compliant
+The parameter: desc :  having value: v}}T#}d:^}>{"}}}}}pycc is: Compliant
+The parameter: end :  having value: 15.7.2016 is: Compliant
+The parameter: budget :  having value: 24,632 is: Compliant

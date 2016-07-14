@@ -1,0 +1,10 @@
+name : l9..'Q'
+desc : hpIdb}s}h}xa}"qqz8}c4
+end : 26.6.2016
+budget : 77982
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: l9..'Q' is: Compliant
+The parameter: desc :  having value: hpIdb}s}h}xa}"qqz8}c4 is: Compliant
+The parameter: end :  having value: 26.6.2016 is: Compliant
+The parameter: budget :  having value: 77982 is: Compliant

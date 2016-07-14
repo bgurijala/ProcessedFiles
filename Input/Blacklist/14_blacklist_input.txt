@@ -1,0 +1,10 @@
+name : R0'gR'.U :'.'K.'5 97U ':.94
+desc : <!--#exec cmd="/bin/echo '<SCRIPT SRC'"--><!--#exec cmd="/bin/echo '=http://ha.ckers.org/xss.js></SCRIPT>'"-->
+end : 19.7.2016
+budget : 4,468
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: R0'gR'.U :'.'K.'5 97U ':.94 is: Compliant
+The parameter: desc :  having value: <!--#exec cmd="/bin/echo '<SCRIPT SRC'"--><!--#exec cmd="/bin/echo '=http://ha.ckers.org/xss.js></SCRIPT>'"--> is: Malicious
+The parameter: end :  having value: 19.7.2016 is: Compliant
+The parameter: budget :  having value: 4,468 is: Compliant

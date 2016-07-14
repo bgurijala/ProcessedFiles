@@ -1,0 +1,10 @@
+name : Vj 6...
+desc : <IMG SRC=javascript:alert(String.fromCharCode(88###83###83))>
+end : 28.6.2016
+budget : 65,085
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Vj 6... is: Compliant
+The parameter: desc :  having value: <IMG SRC=javascript:alert(String.fromCharCode(88###83###83))> is: Potentially Malicious
+The parameter: end :  having value: 28.6.2016 is: Compliant
+The parameter: budget :  having value: 65,085 is: Compliant

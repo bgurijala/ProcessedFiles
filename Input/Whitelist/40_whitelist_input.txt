@@ -1,0 +1,10 @@
+name : HD.I15M.S6 .5v88
+desc : vMbHxB}Oe}}E}}o}oo}}};R
+end : 28.6.2016
+budget : 6,894
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: HD.I15M.S6 .5v88 is: Compliant
+The parameter: desc :  having value: vMbHxB}Oe}}E}}o}oo}}};R is: Compliant
+The parameter: end :  having value: 28.6.2016 is: Compliant
+The parameter: budget :  having value: 6,894 is: Compliant

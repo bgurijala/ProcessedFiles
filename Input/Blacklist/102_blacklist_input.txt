@@ -1,0 +1,10 @@
+name : WpGT...' .0.8
+desc : <EMBED SRC="http://ha.ckers.org/xss.swf" AllowScriptAccess="always"></EMBED>
+end : 10.7.2016
+budget : 433,250
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: WpGT...' .0.8 is: Compliant
+The parameter: desc :  having value: <EMBED SRC="http://ha.ckers.org/xss.swf" AllowScriptAccess="always"></EMBED> is: Suspicious
+The parameter: end :  having value: 10.7.2016 is: Compliant
+The parameter: budget :  having value: 433,250 is: Compliant

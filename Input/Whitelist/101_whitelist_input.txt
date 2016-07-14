@@ -1,0 +1,10 @@
+name : 8MbD'x.
+desc : 'e/Adlbt}{prgqo}}?yt
+end : 25.6.2016
+budget : 5,103
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 8MbD'x. is: Compliant
+The parameter: desc :  having value: 'e/Adlbt}{prgqo}}?yt is: Compliant
+The parameter: end :  having value: 25.6.2016 is: Compliant
+The parameter: budget :  having value: 5,103 is: Compliant

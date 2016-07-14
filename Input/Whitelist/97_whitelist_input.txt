@@ -1,0 +1,10 @@
+name : dUJ'CS. N1.
+desc : mys{zhf%b}})Xr}}gwls&tExbl}}b}
+end : 21.7.2016
+budget : 8,171
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: dUJ'CS. N1. is: Compliant
+The parameter: desc :  having value: mys{zhf%b}})Xr}}gwls&tExbl}}b} is: Compliant
+The parameter: end :  having value: 21.7.2016 is: Compliant
+The parameter: budget :  having value: 8,171 is: Compliant

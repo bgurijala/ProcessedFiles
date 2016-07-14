@@ -1,0 +1,10 @@
+name : 9Y  ..''.'g t .' 6 ' 
+desc : perl -e 'print "<SCR\0IPT>alert("XSS")</SCR\0IPT>";' > out
+end : 1.8.2016
+budget : 2,381
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 9Y  ..''.'g t .' 6 ' is: Compliant
+The parameter: desc :  having value: perl -e 'print "<SCR\0IPT>alert("XSS")</SCR\0IPT>";' > out is: Potentially Malicious
+The parameter: end :  having value: 1.8.2016 is: Compliant
+The parameter: budget :  having value: 2,381 is: Compliant

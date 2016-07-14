@@ -1,0 +1,10 @@
+name : LU3MJ.nIx'D
+desc : 5vAukw^Dl}smJwS}rv}m94i
+end : 1.9.2016
+budget : 314,331
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: LU3MJ.nIx'D is: Compliant
+The parameter: desc :  having value: 5vAukw^Dl}smJwS}rv}m94i is: Compliant
+The parameter: end :  having value: 1.9.2016 is: Compliant
+The parameter: budget :  having value: 314,331 is: Compliant

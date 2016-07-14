@@ -1,0 +1,10 @@
+name : GI.'.51KI.1:'k56..'FfJ7m 0 
+desc : s1g}7!ti}}\}x}}3}rqtU}jsr}<
+end : 19.7.2016
+budget : 2,454
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: GI.'.51KI.1:'k56..'FfJ7m 0 is: Compliant
+The parameter: desc :  having value: s1g}7!ti}}\}x}}3}rqtU}jsr}< is: Compliant
+The parameter: end :  having value: 19.7.2016 is: Compliant
+The parameter: budget :  having value: 2,454 is: Compliant

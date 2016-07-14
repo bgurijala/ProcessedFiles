@@ -1,0 +1,10 @@
+name : BF45'f1Vp5L. 8 ''73H .MD
+desc : sstyle=foobar"tstyle="foobar"ystyle="foobar"lstyle="foobar"estyle="foobar"=-moz-binding:url(http://h4k.in/mozxss.xml#xss)>foobar</b>#xss)" a="
+end : 25.6.2016
+budget : 673
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: BF45'f1Vp5L. 8 ''73H .MD is: Compliant
+The parameter: desc :  having value: sstyle=foobar"tstyle="foobar"ystyle="foobar"lstyle="foobar"estyle="foobar"=-moz-binding:url(http://h4k.in/mozxss.xml#xss)>foobar</b>#xss)" a=" is: Suspicious
+The parameter: end :  having value: 25.6.2016 is: Compliant
+The parameter: budget :  having value: 673 is: Suspicious

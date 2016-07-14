@@ -1,0 +1,10 @@
+name : 6I.'y8 2
+desc : >Ysr%pmh%X}nh}}}b}di
+end : 27.6.2016
+budget : 67141
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 6I.'y8 2 is: Compliant
+The parameter: desc :  having value: >Ysr%pmh%X}nh}}}b}di is: Compliant
+The parameter: end :  having value: 27.6.2016 is: Compliant
+The parameter: budget :  having value: 67141 is: Compliant

@@ -1,0 +1,10 @@
+name : rL3:. F .3 D'H 8G 08 ..  TX9
+desc : }}2}K3hn}#xh]}b}f}ekE}
+end : 29.6.2016
+budget : 34444
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: rL3:. F .3 D'H 8G 08 ..  TX9 is: Compliant
+The parameter: desc :  having value: }}2}K3hn}#xh]}b}f}ekE} is: Compliant
+The parameter: end :  having value: 29.6.2016 is: Compliant
+The parameter: budget :  having value: 34444 is: Compliant

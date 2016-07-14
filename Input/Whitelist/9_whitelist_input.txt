@@ -1,0 +1,10 @@
+name : nJ9::.'
+desc : xEo}bp}F}}[Ew}ux}c}}}&}pF}k{}
+end : 20.8.2016
+budget : 41,661
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: nJ9::.' is: Compliant
+The parameter: desc :  having value: xEo}bp}F}}[Ew}ux}c}}}&}pF}k{} is: Compliant
+The parameter: end :  having value: 20.8.2016 is: Compliant
+The parameter: budget :  having value: 41,661 is: Compliant

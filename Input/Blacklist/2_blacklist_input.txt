@@ -1,0 +1,10 @@
+name : 7U''..k
+desc : "><script>alert('XSS')</script>
+end : 25.6.2016
+budget : 538,141
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 7U''..k is: Compliant
+The parameter: desc :  having value: "><script>alert('XSS')</script> is: Potentially Malicious
+The parameter: end :  having value: 25.6.2016 is: Compliant
+The parameter: budget :  having value: 538,141 is: Compliant

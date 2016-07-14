@@ -1,0 +1,10 @@
+name : 5JK..z8v  '..31''.SRW
+desc : <IMG SRC="jav&#x09;ascript:alert(<WBR>'XSS');">
+end : 28.6.2016
+budget : 5279
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 5JK..z8v  '..31''.SRW is: Compliant
+The parameter: desc :  having value: <IMG SRC="jav&#x09;ascript:alert(<WBR>'XSS');"> is: Potentially Malicious
+The parameter: end :  having value: 28.6.2016 is: Compliant
+The parameter: budget :  having value: 5279 is: Compliant

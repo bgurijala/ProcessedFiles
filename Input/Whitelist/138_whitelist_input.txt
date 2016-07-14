@@ -1,0 +1,10 @@
+name : DK..  Q :3' .W .'.
+desc : mr\Mw&%rwnmB}}}}8f^<
+end : 25.6.2016
+budget : 1,424
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: DK..  Q :3' .W .'. is: Compliant
+The parameter: desc :  having value: mr\Mw&%rwnmB}}}}8f^< is: Compliant
+The parameter: end :  having value: 25.6.2016 is: Compliant
+The parameter: budget :  having value: 1,424 is: Compliant

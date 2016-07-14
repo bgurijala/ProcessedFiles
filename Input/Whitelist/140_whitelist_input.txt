@@ -1,0 +1,10 @@
+name : nk.hEp'
+desc : b}iWtbV}j}}}q}}}}dtO3$
+end : 24.6.2016
+budget : 77,354
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: nk.hEp' is: Compliant
+The parameter: desc :  having value: b}iWtbV}j}}}q}}}}dtO3$ is: Compliant
+The parameter: end :  having value: 24.6.2016 is: Compliant
+The parameter: budget :  having value: 77,354 is: Compliant

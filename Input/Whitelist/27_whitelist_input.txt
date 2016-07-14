@@ -1,0 +1,10 @@
+name : gI:hQ2G7 g'j79n5
+desc : }$}}z}y6h}m}2.xkVi0m
+end : 5.7.2016
+budget : 81,284
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: gI:hQ2G7 g'j79n5 is: Compliant
+The parameter: desc :  having value: }$}}z}y6h}m}2.xkVi0m is: Compliant
+The parameter: end :  having value: 5.7.2016 is: Compliant
+The parameter: budget :  having value: 81,284 is: Compliant

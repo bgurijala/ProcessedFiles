@@ -1,0 +1,10 @@
+name : 1O17''Z.5.S'GD0 9 'G
+desc : *{gpi}eo.u}clhN}Neeple}Jq}
+end : 7.7.2016
+budget : 62,522
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 1O17''Z.5.S'GD0 9 'G is: Compliant
+The parameter: desc :  having value: *{gpi}eo.u}clhN}Neeple}Jq} is: Compliant
+The parameter: end :  having value: 7.7.2016 is: Compliant
+The parameter: budget :  having value: 62,522 is: Compliant

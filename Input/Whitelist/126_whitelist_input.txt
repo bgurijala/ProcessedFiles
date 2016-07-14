@@ -1,0 +1,10 @@
+name : 1rAOhP..B
+desc : agSh}np}}}X}ky9}V}}}&}tc1r
+end : 30.6.2016
+budget : 9,627
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 1rAOhP..B is: Compliant
+The parameter: desc :  having value: agSh}np}}}X}ky9}V}}}&}tc1r is: Compliant
+The parameter: end :  having value: 30.6.2016 is: Compliant
+The parameter: budget :  having value: 9,627 is: Compliant

@@ -1,0 +1,10 @@
+name : MP4. .K
+desc : XSS STYLE=xss:e/**/xpression(alert('XSS'))>
+end : 10.7.2016
+budget : 4,088
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: MP4. .K is: Compliant
+The parameter: desc :  having value: XSS STYLE=xss:e/**/xpression(alert('XSS'))> is: Potentially Malicious
+The parameter: end :  having value: 10.7.2016 is: Compliant
+The parameter: budget :  having value: 4,088 is: Compliant

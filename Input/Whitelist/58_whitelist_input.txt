@@ -1,0 +1,10 @@
+name : sF'3MZ4m.f
+desc : Hi}gUqz}]5}}Q}rgpy7s}ye
+end : 25.6.2016
+budget : 6,837
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: sF'3MZ4m.f is: Compliant
+The parameter: desc :  having value: Hi}gUqz}]5}}Q}rgpy7s}ye is: Compliant
+The parameter: end :  having value: 25.6.2016 is: Compliant
+The parameter: budget :  having value: 6,837 is: Compliant
