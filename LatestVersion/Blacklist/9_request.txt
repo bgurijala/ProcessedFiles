@@ -1,0 +1,12 @@
+2016-07-17T01:56:21.349-06:00
+name : MkT...A
+desc : &amp;#60;IMG LOWSRC&amp;#61;&amp;#34;javascript&amp;#58;alert&amp;#40;&amp;#39;XSS&amp;#39;&amp;#41;&amp;#59;&amp;#34;&amp;#62;
+end : 05.07.2016
+budget : 97043
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: MkT...A is: Compliant
+The parameter: desc :  having value: &amp;#60;IMG LOWSRC&amp;#61;&amp;#34;javascript&amp;#58;alert&amp;#40;&amp;#39;XSS&amp;#39;&amp;#41;&amp;#59;&amp;#34;&amp;#62; is: Potentially Malicious
+The parameter: end :  having value: 05.07.2016 is: Compliant
+The parameter: budget :  having value: 97043 is: Compliant

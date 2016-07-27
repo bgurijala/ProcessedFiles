@@ -1,0 +1,5 @@
+2016-07-17T09:28:18.436-06:00
+name : W2'8LN1
+desc : <a href="http://google">XSS</a>
+The parameter: name :  having value: W2'8LN1 is: Compliant
+The parameter: desc :  having value: <a href="http://google">XSS</a> is: Suspicious

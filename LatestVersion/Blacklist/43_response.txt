@@ -1,0 +1,5 @@
+2016-07-17T02:44:11.127-06:00
+name : 6x:'.4' ''c
+desc : 
+The parameter: name :  having value: 6x:'.4' ''c is: Compliant
+The parameter: desc :  having value:  is: Compliant

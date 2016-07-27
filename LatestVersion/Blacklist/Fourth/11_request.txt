@@ -1,0 +1,12 @@
+2016-07-17T18:24:16.993-06:00
+name : F1.. V..CsxD.9. '6'. 8X
+desc : &lt;DIV STYLE="width: expression(alert('XSS'));"&gt;
+end : 28.06.2016
+budget : 7,265
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: F1.. V..CsxD.9. '6'. 8X is: Compliant
+The parameter: desc :  having value: &lt;DIV STYLE="width: expression(alert('XSS'));"&gt; is: Potentially Malicious
+The parameter: end :  having value: 28.06.2016 is: Compliant
+The parameter: budget :  having value: 7,265 is: Compliant

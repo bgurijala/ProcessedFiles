@@ -1,0 +1,5 @@
+2016-07-17T09:23:33.507-06:00
+name : i1B'.'5T  wB'..7 gv8'S'.7.:.
+desc : PT SRC="http://ha.ckers.org/xss.js"&gt;
+The parameter: name :  having value: i1B'.'5T  wB'..7 gv8'S'.7.:. is: Compliant
+The parameter: desc :  having value: PT SRC="http://ha.ckers.org/xss.js"&gt; is: Suspicious

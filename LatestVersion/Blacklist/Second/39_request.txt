@@ -1,0 +1,12 @@
+2016-07-17T13:29:23.287-06:00
+name : 2FJG'26'O.  R 'FZ2..
+desc : exp/*&lt;XSS STYLE='no\xss:noxss("*//*");xss:&amp;#101;x&amp;#x2F;*XSS*//*/*/pression(alert("XSS"))'&gt;
+end : 28.07.2016
+budget : 44845
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 2FJG'26'O.  R 'FZ2.. is: Compliant
+The parameter: desc :  having value: exp/*&lt;XSS STYLE='no\xss:noxss("*//*");xss:&amp;#101;x&amp;#x2F;*XSS*//*/*/pression(alert("XSS"))'&gt; is: Potentially Malicious
+The parameter: end :  having value: 28.07.2016 is: Compliant
+The parameter: budget :  having value: 44845 is: Compliant

@@ -1,0 +1,12 @@
+2016-07-17T14:29:09.953-06:00
+name : Z1tS.5'.B7.3. 8v 'B9'.CR.' 4h
+desc : &lt;XSS STYLE="xss:expression(alert('XSS'))"&gt;
+end : 28.07.2016
+budget : 8,582
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Z1tS.5'.B7.3. 8v 'B9'.CR.' 4h is: Compliant
+The parameter: desc :  having value: &lt;XSS STYLE="xss:expression(alert('XSS'))"&gt; is: Potentially Malicious
+The parameter: end :  having value: 28.07.2016 is: Compliant
+The parameter: budget :  having value: 8,582 is: Compliant

@@ -1,0 +1,12 @@
+2016-07-17T09:19:51.480-06:00
+name : 1UM:T'Q.9HH 
+desc : &lt;SCRIPT a="blah" '' SRC="http://ha.ckers.org/xss.js"&gt;&lt;/SCRIPT&gt;
+end : 11.07.2016
+budget : 97,225
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 1UM:T'Q.9HH is: Compliant
+The parameter: desc :  having value: &lt;SCRIPT a="blah" '' SRC="http://ha.ckers.org/xss.js"&gt;&lt;/SCRIPT&gt; is: Malicious
+The parameter: end :  having value: 11.07.2016 is: Compliant
+The parameter: budget :  having value: 97,225 is: Compliant

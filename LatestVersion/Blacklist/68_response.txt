@@ -1,0 +1,5 @@
+2016-07-17T03:35:54.978-06:00
+name : 64:. 3T  '.9
+desc : &lt;SCRIPT&gt;alert(String.fromCharCode(88,83,83))&lt;/SCRIPT&gt;
+The parameter: name :  having value: 64:. 3T  '.9 is: Compliant
+The parameter: desc :  having value: &lt;SCRIPT&gt;alert(String.fromCharCode(88,83,83))&lt;/SCRIPT&gt; is: Potentially Malicious

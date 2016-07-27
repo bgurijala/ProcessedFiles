@@ -1,0 +1,5 @@
+2016-07-17T02:37:57.527-06:00
+name : 1OA.9.m .V
+desc : <img src="jav%20ascript%3Aalert(" alt="jav ascript:alert(&lt;WBR&gt;'XSS');" />
+The parameter: name :  having value: 1OA.9.m .V is: Compliant
+The parameter: desc :  having value: <img src="jav%20ascript%3Aalert(" alt="jav ascript:alert(&lt;WBR&gt;'XSS');" /> is: Potentially Malicious

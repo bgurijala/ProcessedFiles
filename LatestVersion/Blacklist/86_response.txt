@@ -1,0 +1,5 @@
+2016-07-17T04:38:17.869-06:00
+name : Hw. .b.Q9.7:78.
+desc : aim: &amp;c:\windows\system32\calc.exe" ini="C:\Documents and Settings\All Users\Start Menu\Programs\Startup\pwnd.bat"
+The parameter: name :  having value: Hw. .b.Q9.7:78. is: Compliant
+The parameter: desc :  having value: aim: &amp;c:\windows\system32\calc.exe" ini="C:\Documents and Settings\All Users\Start Menu\Programs\Startup\pwnd.bat" is: Suspicious

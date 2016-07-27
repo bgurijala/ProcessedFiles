@@ -1,0 +1,5 @@
+2016-07-17T04:32:57.311-06:00
+name : nX'' '1  .b. . .'J'  'V1.'6
+desc : &lt;IMG STYLE="xss:expr/*XSS*/ession(alert('XSS'))"&gt;
+The parameter: name :  having value: nX'' '1  .b. . .'J'  'V1.'6 is: Compliant
+The parameter: desc :  having value: &lt;IMG STYLE="xss:expr/*XSS*/ession(alert('XSS'))"&gt; is: Potentially Malicious

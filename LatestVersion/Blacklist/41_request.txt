@@ -1,0 +1,12 @@
+2016-07-17T02:40:59.225-06:00
+name : Z7 '. s. 'Sa 7Y  C.
+desc : &lt;IMG SRC="jav&amp;#x0A;ascript:alert('XSS');"&gt;
+end : 19.07.2016
+budget : 57,323
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Z7 '. s. 'Sa 7Y  C. is: Compliant
+The parameter: desc :  having value: &lt;IMG SRC="jav&amp;#x0A;ascript:alert('XSS');"&gt; is: Potentially Malicious
+The parameter: end :  having value: 19.07.2016 is: Compliant
+The parameter: budget :  having value: 57,323 is: Compliant

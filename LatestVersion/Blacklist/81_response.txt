@@ -1,0 +1,5 @@
+2016-07-17T04:29:22.222-06:00
+name : 63N'. :'. .'..8JF2. p'
+desc : &lt;META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K"&gt;
+The parameter: name :  having value: 63N'. :'. .'..8JF2. p' is: Compliant
+The parameter: desc :  having value: &lt;META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K"&gt; is: Suspicious

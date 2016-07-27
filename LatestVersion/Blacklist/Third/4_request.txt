@@ -1,0 +1,12 @@
+2016-07-17T14:27:43.394-06:00
+name : 5sC5:'9'.
+desc : &lt;OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389&gt;&lt;param name=url value=javascript:alert('XSS')&gt;&lt;/OBJECT&gt;
+end : 10.07.2016
+budget : 23,321
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 5sC5:'9'. is: Compliant
+The parameter: desc :  having value: &lt;OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389&gt;&lt;param name=url value=javascript:alert('XSS')&gt;&lt;/OBJECT&gt; is: Potentially Malicious
+The parameter: end :  having value: 10.07.2016 is: Compliant
+The parameter: budget :  having value: 23,321 is: Compliant

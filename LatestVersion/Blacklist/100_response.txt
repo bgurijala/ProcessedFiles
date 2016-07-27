@@ -1,0 +1,5 @@
+2016-07-17T06:33:32.496-06:00
+name : 9Y  ..''.'g t .' 6 '
+desc : perl -e 'print "alert("XSS")\0IPT&gt;";' &gt; out
+The parameter: name :  having value: 9Y  ..''.'g t .' 6 ' is: Compliant
+The parameter: desc :  having value: perl -e 'print "alert("XSS")\0IPT&gt;";' &gt; out is: Potentially Malicious

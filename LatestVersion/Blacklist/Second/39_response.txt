@@ -1,0 +1,5 @@
+2016-07-17T13:29:53.628-06:00
+name : 2FJG'26'O.  R 'FZ2..
+desc : exp/*
+The parameter: name :  having value: 2FJG'26'O.  R 'FZ2.. is: Compliant
+The parameter: desc :  having value: exp/* is: Compliant

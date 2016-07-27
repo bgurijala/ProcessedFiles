@@ -1,0 +1,12 @@
+2016-07-17T18:27:49.638-06:00
+name : OOV:...' X
+desc : &lt;IMG STYLE="xss:expr/*XSS*/ession(alert('XSS'))"&gt;
+end : 30.06.2016
+budget : 7,000
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: OOV:...' X is: Compliant
+The parameter: desc :  having value: &lt;IMG STYLE="xss:expr/*XSS*/ession(alert('XSS'))"&gt; is: Potentially Malicious
+The parameter: end :  having value: 30.06.2016 is: Compliant
+The parameter: budget :  having value: 7,000 is: Compliant

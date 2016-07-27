@@ -1,0 +1,12 @@
+2016-07-17T02:34:35.392-06:00
+name : XE5 5Y o.' 6V
+desc : &lt;IMG SRC="jav&amp;#x0D;ascript:alert('XSS');"&gt;
+end : 28.07.2016
+budget : 2,436
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: XE5 5Y o.' 6V is: Compliant
+The parameter: desc :  having value: &lt;IMG SRC="jav&amp;#x0D;ascript:alert('XSS');"&gt; is: Potentially Malicious
+The parameter: end :  having value: 28.07.2016 is: Compliant
+The parameter: budget :  having value: 2,436 is: Compliant

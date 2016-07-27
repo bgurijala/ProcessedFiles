@@ -1,0 +1,5 @@
+2016-07-17T18:19:34.197-06:00
+name : oLl oe. B'.mU136
+desc : style=color: expression(alert(0));" a="
+The parameter: name :  having value: oLl oe. B'.mU136 is: Compliant
+The parameter: desc :  having value: style=color: expression(alert(0));" a=" is: Potentially Malicious

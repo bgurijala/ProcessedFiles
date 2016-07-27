@@ -1,0 +1,5 @@
+2016-07-17T02:32:14.922-06:00
+name : 3Ya:831D2''
+desc : <img src="%60javascript%3Aalert(" alt="`javascript:alert(&quot;XSS" />
+The parameter: name :  having value: 3Ya:831D2'' is: Compliant
+The parameter: desc :  having value: <img src="%60javascript%3Aalert(" alt="`javascript:alert(&quot;XSS" /> is: Potentially Malicious

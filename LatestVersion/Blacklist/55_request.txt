@@ -1,0 +1,12 @@
+2016-07-17T03:01:28.158-06:00
+name : ih'L' '66. N
+desc : &lt;xml id="xss"&gt;&lt;i&gt;&lt;b&gt;&lt;img src="javas&lt;!-- --&gt;cript:alert('xss')"&gt;&lt;/b&gt;&lt;/i&gt;&lt;/xml&gt;&lt;span datasrc="#xss" datafld="b" dataformatas="html"&gt;&lt;/span&gt;
+end : 10.07.2016
+budget : 2,967
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: ih'L' '66. N is: Compliant
+The parameter: desc :  having value: &lt;xml id="xss"&gt;&lt;i&gt;&lt;b&gt;&lt;img src="javas&lt;!-- --&gt;cript:alert('xss')"&gt;&lt;/b&gt;&lt;/i&gt;&lt;/xml&gt;&lt;span datasrc="#xss" datafld="b" dataformatas="html"&gt;&lt;/span&gt; is: Potentially Malicious
+The parameter: end :  having value: 10.07.2016 is: Compliant
+The parameter: budget :  having value: 2,967 is: Compliant

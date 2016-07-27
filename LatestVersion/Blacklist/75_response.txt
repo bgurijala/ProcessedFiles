@@ -1,0 +1,5 @@
+2016-07-17T03:57:34.999-06:00
+name : t579g2..d'.X.
+desc : &lt;IMG SRC="javascript:alert('XSS');"&gt;
+The parameter: name :  having value: t579g2..d'.X. is: Compliant
+The parameter: desc :  having value: &lt;IMG SRC="javascript:alert('XSS');"&gt; is: Potentially Malicious

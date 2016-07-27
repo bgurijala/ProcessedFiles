@@ -1,0 +1,12 @@
+2016-07-17T09:27:56.767-06:00
+name : W2'8LN1
+desc : &lt;A HREF="http://google:ha.ckers.org"&gt;XSS&lt;/A&gt;
+end : 30.06.2016
+budget : 622,702
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: W2'8LN1 is: Compliant
+The parameter: desc :  having value: &lt;A HREF="http://google:ha.ckers.org"&gt;XSS&lt;/A&gt; is: Suspicious
+The parameter: end :  having value: 30.06.2016 is: Compliant
+The parameter: budget :  having value: 622,702 is: Compliant

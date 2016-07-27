@@ -1,0 +1,5 @@
+2016-07-17T02:25:32.372-06:00
+name : aJ '3' ..''.Q 6 .H.4
+desc : ';alert(0)//\';alert(1)//";alert(2)//\";alert(3)//--&gt;"&gt;'&gt;=&amp;{}");}
+The parameter: name :  having value: aJ '3' ..''.Q 6 .H.4 is: Compliant
+The parameter: desc :  having value: ';alert(0)//\';alert(1)//";alert(2)//\";alert(3)//--&gt;"&gt;'&gt;=&amp;{}");} is: Potentially Malicious

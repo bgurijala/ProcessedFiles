@@ -1,0 +1,5 @@
+2016-07-17T04:00:26.045-06:00
+name : 9Le: 'JJ5 .1 .t ' 0Y  X  3 4
+desc : &lt;IMG SRC='vbscript:msgbox("XSS")'&gt;
+The parameter: name :  having value: 9Le: 'JJ5 .1 .t ' 0Y  X  3 4 is: Compliant
+The parameter: desc :  having value: &lt;IMG SRC='vbscript:msgbox("XSS")'&gt; is: Potentially Malicious

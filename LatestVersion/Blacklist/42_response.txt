@@ -1,0 +1,5 @@
+2016-07-17T02:42:52.545-06:00
+name : RX s4M.
+desc : <img src="%60javascript%3Aalert(" alt="`javascript:alert(&quot;RSnake" />
+The parameter: name :  having value: RX s4M. is: Compliant
+The parameter: desc :  having value: <img src="%60javascript%3Aalert(" alt="`javascript:alert(&quot;RSnake" /> is: Potentially Malicious

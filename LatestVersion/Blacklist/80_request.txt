@@ -1,0 +1,12 @@
+2016-07-17T04:04:32.572-06:00
+name : KX' 88PW .'
+desc : &amp;#37;BCscript&amp;#37;BEalert&amp;#40;&amp;#37;A2XSS&amp;#37;A2&amp;#41;&amp;#37;BC&amp;#47;script&amp;#37;BE
+end : 01.08.2016
+budget : 5596
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: KX' 88PW .' is: Compliant
+The parameter: desc :  having value: &amp;#37;BCscript&amp;#37;BEalert&amp;#40;&amp;#37;A2XSS&amp;#37;A2&amp;#41;&amp;#37;BC&amp;#47;script&amp;#37;BE is: Potentially Malicious
+The parameter: end :  having value: 01.08.2016 is: Compliant
+The parameter: budget :  having value: 5596 is: Compliant

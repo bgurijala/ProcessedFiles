@@ -1,0 +1,12 @@
+2016-07-17T06:31:39.113-06:00
+name : 9DD Yy'10'5'8HFj 1
+desc : &lt;BODY onload!#$%&amp;()*~ -_.,:;?@[/|\\]^`=alert("XSS")&gt;
+end : 28.07.2016
+budget : 1,774
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 9DD Yy'10'5'8HFj 1 is: Compliant
+The parameter: desc :  having value: &lt;BODY onload!#$%&amp;()*~ -_.,:;?@[/|\\]^`=alert("XSS")&gt; is: Potentially Malicious
+The parameter: end :  having value: 28.07.2016 is: Compliant
+The parameter: budget :  having value: 1,774 is: Compliant

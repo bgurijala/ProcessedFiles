@@ -1,0 +1,12 @@
+2016-07-17T01:55:00.940-06:00
+name : Xb'B.M. J'T 455
+desc : &amp;#60;IMG DYNSRC&amp;#61;&amp;#34;javascript&amp;#58;alert&amp;#40;&amp;#39;XSS&amp;#39;&amp;#41;&amp;#59;&amp;#34;&amp;#62;
+end : 14.07.2016
+budget : 547866
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Xb'B.M. J'T 455 is: Compliant
+The parameter: desc :  having value: &amp;#60;IMG DYNSRC&amp;#61;&amp;#34;javascript&amp;#58;alert&amp;#40;&amp;#39;XSS&amp;#39;&amp;#41;&amp;#59;&amp;#34;&amp;#62; is: Potentially Malicious
+The parameter: end :  having value: 14.07.2016 is: Compliant
+The parameter: budget :  having value: 547866 is: Compliant

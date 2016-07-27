@@ -1,0 +1,5 @@
+2016-07-17T02:41:24.133-06:00
+name : Z7 '. s. 'Sa 7Y  C.
+desc : <img src="jav%20ascript%3Aalert('XSS');" alt="jav ascript:alert('XSS');" />
+The parameter: name :  having value: Z7 '. s. 'Sa 7Y  C. is: Compliant
+The parameter: desc :  having value: <img src="jav%20ascript%3Aalert('XSS');" alt="jav ascript:alert('XSS');" /> is: Potentially Malicious

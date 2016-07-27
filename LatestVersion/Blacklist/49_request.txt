@@ -1,0 +1,12 @@
+2016-07-17T02:51:48.724-06:00
+name : 56:.WmC 7' kCw' ' R5  2'.'.
+desc : &lt;DIV STYLE="background-image: url(javascript:alert('XSS'))"&gt;
+end : 30.06.2016
+budget : 9,846
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 56:.WmC 7' kCw' ' R5  2'.'. is: Compliant
+The parameter: desc :  having value: &lt;DIV STYLE="background-image: url(javascript:alert('XSS'))"&gt; is: Potentially Malicious
+The parameter: end :  having value: 30.06.2016 is: Compliant
+The parameter: budget :  having value: 9,846 is: Compliant

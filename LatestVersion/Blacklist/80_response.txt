@@ -1,0 +1,5 @@
+2016-07-17T04:04:52.073-06:00
+name : KX' 88PW .'
+desc : %BCscript%BEalert(%A2XSS%A2)%BC/script%BE
+The parameter: name :  having value: KX' 88PW .' is: Compliant
+The parameter: desc :  having value: %BCscript%BEalert(%A2XSS%A2)%BC/script%BE is: Potentially Malicious

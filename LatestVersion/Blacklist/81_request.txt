@@ -1,0 +1,12 @@
+2016-07-17T04:28:57.577-06:00
+name : 63N'. :'. .'..8JF2. p'
+desc : &amp;#60;META HTTP-EQUIV&amp;#61;&amp;#34;refresh&amp;#34; CONTENT&amp;#61;&amp;#34;0&amp;#59;url&amp;#61;data&amp;#58;text&amp;#47;html&amp;#59;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K&amp;#34;&amp;#62;
+end : 28.06.2016
+budget : 19,047
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 63N'. :'. .'..8JF2. p' is: Compliant
+The parameter: desc :  having value: &amp;#60;META HTTP-EQUIV&amp;#61;&amp;#34;refresh&amp;#34; CONTENT&amp;#61;&amp;#34;0&amp;#59;url&amp;#61;data&amp;#58;text&amp;#47;html&amp;#59;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K&amp;#34;&amp;#62; is: Suspicious
+The parameter: end :  having value: 28.06.2016 is: Compliant
+The parameter: budget :  having value: 19,047 is: Compliant

@@ -1,0 +1,5 @@
+2016-07-17T04:01:42.761-06:00
+name : WB''''7  85..S ''9.
+desc : &lt;LAYER SRC="http://testsite.com/scriptlet.html"&gt;&lt;/LAYER&gt;
+The parameter: name :  having value: WB''''7  85..S ''9. is: Compliant
+The parameter: desc :  having value: &lt;LAYER SRC="http://testsite.com/scriptlet.html"&gt;&lt;/LAYER&gt; is: Suspicious

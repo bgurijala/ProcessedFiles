@@ -1,0 +1,5 @@
+2016-07-17T02:03:05.028-06:00
+name : 4HR6 q..64KCA.I3
+desc : &lt;STYLE TYPE="text/javascript"&gt;alert('XSS');&lt;/STYLE&gt;
+The parameter: name :  having value: 4HR6 q..64KCA.I3 is: Compliant
+The parameter: desc :  having value: &lt;STYLE TYPE="text/javascript"&gt;alert('XSS');&lt;/STYLE&gt; is: Potentially Malicious

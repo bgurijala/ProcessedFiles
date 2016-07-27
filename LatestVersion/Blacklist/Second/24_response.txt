@@ -1,0 +1,5 @@
+2016-07-17T10:29:04.672-06:00
+name : U7GyT'.'.  ''
+desc : <img src="%60x%60" alt="`x` " />
+The parameter: name :  having value: U7GyT'.'.  '' is: Compliant
+The parameter: desc :  having value: <img src="%60x%60" alt="`x` " /> is: Compliant

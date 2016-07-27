@@ -1,0 +1,12 @@
+2016-07-17T02:43:51.006-06:00
+name : 6x:'.4' ''c
+desc : &lt;IMG SRC=javascript:alert('XSS')&gt;
+end : 28.06.2016
+budget : 9,634
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 6x:'.4' ''c is: Compliant
+The parameter: desc :  having value: &lt;IMG SRC=javascript:alert('XSS')&gt; is: Potentially Malicious
+The parameter: end :  having value: 28.06.2016 is: Compliant
+The parameter: budget :  having value: 9,634 is: Compliant

@@ -1,0 +1,5 @@
+2016-07-17T01:49:35.457-06:00
+name : Z16'DZ2 'T1 ..' 17.'4 '''.
+desc : &lt;DIV STYLE="background-image: url(&amp;#1;javascript:alert('XSS'))"&gt;
+The parameter: name :  having value: Z16'DZ2 'T1 ..' 17.'4 '''. is: Compliant
+The parameter: desc :  having value: &lt;DIV STYLE="background-image: url(&amp;#1;javascript:alert('XSS'))"&gt; is: Potentially Malicious

@@ -1,0 +1,5 @@
+2016-07-17T03:32:56.094-06:00
+name : QSh'.'T1v8  0J2. . 1u.'
+desc : &lt;SCRIPT&gt;alert('XSS')&lt;/SCRIPT&gt;
+The parameter: name :  having value: QSh'.'T1v8  0J2. . 1u.' is: Compliant
+The parameter: desc :  having value: &lt;SCRIPT&gt;alert('XSS')&lt;/SCRIPT&gt; is: Potentially Malicious

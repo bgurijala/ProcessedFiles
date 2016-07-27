@@ -1,0 +1,5 @@
+2016-07-17T02:09:26.353-06:00
+name : S6.BAR'K'3'.u': '. 3B'0PK.'
+desc : '&gt;
+The parameter: name :  having value: S6.BAR'K'3'.u': '. 3B'0PK.' is: Compliant
+The parameter: desc :  having value: '&gt; is: Compliant

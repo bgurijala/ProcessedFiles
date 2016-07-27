@@ -1,0 +1,12 @@
+2016-07-17T09:24:35.709-06:00
+name : 4GPd:U..' 9 17''N7 G'  ..9'I.
+desc : &lt;SCRIPT SRC=http://ha.ckers.org/xss.js
+end : 30.06.2016
+budget : 25,820
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 4GPd:U..' 9 17''N7 G'  ..9'I. is: Compliant
+The parameter: desc :  having value: &lt;SCRIPT SRC=http://ha.ckers.org/xss.js is: Malicious
+The parameter: end :  having value: 30.06.2016 is: Compliant
+The parameter: budget :  having value: 25,820 is: Compliant

@@ -1,0 +1,5 @@
+2016-07-17T03:08:17.568-06:00
+name : MP4. .K
+desc : XSS STYLE=xss:e/**/xpression(alert('XSS'))&gt;
+The parameter: name :  having value: MP4. .K is: Compliant
+The parameter: desc :  having value: XSS STYLE=xss:e/**/xpression(alert('XSS'))&gt; is: Potentially Malicious

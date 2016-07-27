@@ -1,0 +1,12 @@
+2016-07-17T14:32:26.267-06:00
+name : 77T'd.W
+desc : A=alert;A(1)
+end : 19.07.2016
+budget : 5,375
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 77T'd.W is: Compliant
+The parameter: desc :  having value: A=alert;A(1) is: Potentially Malicious
+The parameter: end :  having value: 19.07.2016 is: Compliant
+The parameter: budget :  having value: 5,375 is: Compliant

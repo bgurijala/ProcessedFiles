@@ -1,0 +1,5 @@
+2016-07-17T02:31:02.893-06:00
+name : EmLQ3 H'.
+desc : 
+The parameter: name :  having value: EmLQ3 H'. is: Compliant
+The parameter: desc :  having value:  is: Compliant

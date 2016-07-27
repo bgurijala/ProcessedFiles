@@ -1,0 +1,5 @@
+2016-07-17T02:48:02.355-06:00
+name : SD'7' w0'. Q
+desc : <ul><li>XSS</li></ul>
+The parameter: name :  having value: SD'7' w0'. Q is: Compliant
+The parameter: desc :  having value: <ul><li>XSS</li></ul> is: Compliant

@@ -1,0 +1,5 @@
+2016-07-17T02:59:09.323-06:00
+name : N2: j'19'6'
+desc : <a class="XSS"></a>
+The parameter: name :  having value: N2: j'19'6' is: Compliant
+The parameter: desc :  having value: <a class="XSS"></a> is: Compliant

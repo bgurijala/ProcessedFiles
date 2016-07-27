@@ -1,0 +1,5 @@
+2016-07-17T10:32:18.889-06:00
+name : QH:xI.SC
+desc : style=color: expression(alert(0));" a="
+The parameter: name :  having value: QH:xI.SC is: Compliant
+The parameter: desc :  having value: style=color: expression(alert(0));" a=" is: Potentially Malicious

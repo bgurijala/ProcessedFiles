@@ -1,0 +1,5 @@
+2016-07-17T09:39:01.529-06:00
+name : Hx ' j.'
+desc : with(document.__parent__)alert(1)
+The parameter: name :  having value: Hx ' j.' is: Compliant
+The parameter: desc :  having value: with(document.__parent__)alert(1) is: Potentially Malicious

@@ -1,0 +1,5 @@
+2016-07-17T03:56:13.672-06:00
+name : 6U4 '1'
+desc : &lt;INPUT TYPE="IMAGE" SRC="javascript:alert('XSS');"&gt;
+The parameter: name :  having value: 6U4 '1' is: Compliant
+The parameter: desc :  having value: &lt;INPUT TYPE="IMAGE" SRC="javascript:alert('XSS');"&gt; is: Potentially Malicious

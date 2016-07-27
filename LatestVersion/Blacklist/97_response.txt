@@ -1,0 +1,5 @@
+2016-07-17T06:29:15.610-06:00
+name : gQ 57..4  'c 5  .'6
+desc : ');x=alert;x(( /finally through!/.source ));//
+The parameter: name :  having value: gQ 57..4  'c 5  .'6 is: Compliant
+The parameter: desc :  having value: ');x=alert;x(( /finally through!/.source ));// is: Potentially Malicious

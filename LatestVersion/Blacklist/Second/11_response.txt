@@ -1,0 +1,5 @@
+2016-07-17T09:30:44.559-06:00
+name : NB   '7''' .b C'O''
+desc : <a href="http://google">XSS</a>
+The parameter: name :  having value: NB   '7''' .b C'O'' is: Compliant
+The parameter: desc :  having value: <a href="http://google">XSS</a> is: Suspicious

@@ -1,0 +1,5 @@
+2016-07-17T09:44:42.967-06:00
+name : 55w'' 'F'v' .
+desc : ';alert(0)//\';alert(1)//";alert(2)//\";alert(3)//--&gt;"&gt;'&gt;=&amp;{}");}alert(6);function xss(){//
+The parameter: name :  having value: 55w'' 'F'v' . is: Compliant
+The parameter: desc :  having value: ';alert(0)//\';alert(1)//";alert(2)//\";alert(3)//--&gt;"&gt;'&gt;=&amp;{}");}alert(6);function xss(){// is: Potentially Malicious

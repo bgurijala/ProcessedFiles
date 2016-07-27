@@ -1,0 +1,12 @@
+2016-07-17T02:57:11.286-06:00
+name : 2X:..' '''L A .1J7 F 'dv1.
+desc : &lt;STYLE TYPE="text/javascript"&gt;alert('XSS');&lt;/STYLE&gt;
+end : 19.07.2016
+budget : 66,462
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 2X:..' '''L A .1J7 F 'dv1. is: Compliant
+The parameter: desc :  having value: &lt;STYLE TYPE="text/javascript"&gt;alert('XSS');&lt;/STYLE&gt; is: Potentially Malicious
+The parameter: end :  having value: 19.07.2016 is: Compliant
+The parameter: budget :  having value: 66,462 is: Compliant

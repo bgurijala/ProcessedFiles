@@ -1,0 +1,5 @@
+2016-07-17T01:58:01.493-06:00
+name : fE.q..'JTl.YX' e'. C.'
+desc : &lt;STYLE&gt;li {list-style-image: url("javascript:alert('XSS')");}&lt;/STYLE&gt;&lt;UL&gt;&lt;LI&gt;XSS
+The parameter: name :  having value: fE.q..'JTl.YX' e'. C.' is: Compliant
+The parameter: desc :  having value: &lt;STYLE&gt;li {list-style-image: url("javascript:alert('XSS')");}&lt;/STYLE&gt;&lt;UL&gt;&lt;LI&gt;XSS is: Potentially Malicious

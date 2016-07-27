@@ -1,0 +1,5 @@
+2016-07-17T03:37:17.943-06:00
+name : GMm7'84'. 5M 3.'w85.4' .2
+desc : &lt;BASE HREF="javascript:alert('XSS');//"&gt;
+The parameter: name :  having value: GMm7'84'. 5M 3.'w85.4' .2 is: Compliant
+The parameter: desc :  having value: &lt;BASE HREF="javascript:alert('XSS');//"&gt; is: Malicious

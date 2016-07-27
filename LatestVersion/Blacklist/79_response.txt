@@ -1,0 +1,5 @@
+2016-07-17T04:03:05.195-06:00
+name : 21o '.O.. NV.. 1
+desc : &lt;IMG SRC="livescript:[code]"&gt;
+The parameter: name :  having value: 21o '.O.. NV.. 1 is: Compliant
+The parameter: desc :  having value: &lt;IMG SRC="livescript:[code]"&gt; is: Potentially Malicious

@@ -1,0 +1,12 @@
+2016-07-17T10:36:49.790-06:00
+name : iB. r'''r.61
+desc : width: expression((window.r==document.cookie)?'':alert(r=document.cookie))
+end : 19.07.2016
+budget : 94,587
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: iB. r'''r.61 is: Compliant
+The parameter: desc :  having value: width: expression((window.r==document.cookie)?'':alert(r=document.cookie)) is: Potentially Malicious
+The parameter: end :  having value: 19.07.2016 is: Compliant
+The parameter: budget :  having value: 94,587 is: Compliant

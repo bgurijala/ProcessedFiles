@@ -1,0 +1,12 @@
+2016-07-17T04:34:26.628-06:00
+name : 44.4 4 H'
+desc : &amp;#60;XSS STYLE&amp;#61;&amp;#34;xss&amp;#58;expression&amp;#40;alert&amp;#40;&amp;#39;XSS&amp;#39;&amp;#41;&amp;#41;&amp;#34;&amp;#62;
+end : 28.06.2016
+budget : 90,187
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 44.4 4 H' is: Compliant
+The parameter: desc :  having value: &amp;#60;XSS STYLE&amp;#61;&amp;#34;xss&amp;#58;expression&amp;#40;alert&amp;#40;&amp;#39;XSS&amp;#39;&amp;#41;&amp;#41;&amp;#34;&amp;#62; is: Potentially Malicious
+The parameter: end :  having value: 28.06.2016 is: Compliant
+The parameter: budget :  having value: 90,187 is: Compliant

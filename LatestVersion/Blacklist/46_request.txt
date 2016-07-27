@@ -1,0 +1,12 @@
+2016-07-17T02:47:43.920-06:00
+name : SD'7' w0'. Q
+desc : &lt;STYLE&gt;li {list-style-image: url("javascript:alert('XSS')");}&lt;/STYLE&gt;&lt;UL&gt;&lt;LI&gt;XSS
+end : 28.07.2016
+budget : 63,285
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: SD'7' w0'. Q is: Compliant
+The parameter: desc :  having value: &lt;STYLE&gt;li {list-style-image: url("javascript:alert('XSS')");}&lt;/STYLE&gt;&lt;UL&gt;&lt;LI&gt;XSS is: Potentially Malicious
+The parameter: end :  having value: 28.07.2016 is: Compliant
+The parameter: budget :  having value: 63,285 is: Compliant

@@ -1,0 +1,5 @@
+2016-07-17T18:22:02.405-06:00
+name : 6b:.3'FY'P 9.Y '' ' kF.'Z
+desc : width: expression((window.r==document.cookie)?'':alert(r=document.cookie))
+The parameter: name :  having value: 6b:.3'FY'P 9.Y '' ' kF.'Z is: Compliant
+The parameter: desc :  having value: width: expression((window.r==document.cookie)?'':alert(r=document.cookie)) is: Potentially Malicious

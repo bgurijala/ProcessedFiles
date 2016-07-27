@@ -1,0 +1,5 @@
+2016-07-17T03:51:26.423-06:00
+name : 6KTVT.'''    ''6DC. .T.
+desc : &lt;BODY ONLOAD=alert('XSS')&gt;
+The parameter: name :  having value: 6KTVT.'''    ''6DC. .T. is: Compliant
+The parameter: desc :  having value: &lt;BODY ONLOAD=alert('XSS')&gt; is: Potentially Malicious

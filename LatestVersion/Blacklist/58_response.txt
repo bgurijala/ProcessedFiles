@@ -1,0 +1,5 @@
+2016-07-17T03:06:56.474-06:00
+name : 6GS8 'se
+desc : STYLE=xss:expression(alert('XSS'))&gt;
+The parameter: name :  having value: 6GS8 'se is: Compliant
+The parameter: desc :  having value: STYLE=xss:expression(alert('XSS'))&gt; is: Potentially Malicious

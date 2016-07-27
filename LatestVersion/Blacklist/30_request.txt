@@ -1,0 +1,12 @@
+2016-07-17T02:25:13.071-06:00
+name : aJ '3' ..''.Q 6 .H.4
+desc : ';alert(0)//\';alert(1)//";alert(2)//\";alert(3)//--&gt;&lt;/SCRIPT&gt;"&gt;'&gt;&lt;/title&gt;&lt;SCRIPT&gt;alert(4)&lt;/SCRIPT&gt;=&amp;{&lt;/title&gt;&lt;script&gt;alert(5)&lt;/script&gt;}");}
+end : 28.06.2016
+budget : 1,148
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: aJ '3' ..''.Q 6 .H.4 is: Compliant
+The parameter: desc :  having value: ';alert(0)//\';alert(1)//";alert(2)//\";alert(3)//--&gt;&lt;/SCRIPT&gt;"&gt;'&gt;&lt;/title&gt;&lt;SCRIPT&gt;alert(4)&lt;/SCRIPT&gt;=&amp;{&lt;/title&gt;&lt;script&gt;alert(5)&lt;/script&gt;}");} is: Potentially Malicious
+The parameter: end :  having value: 28.06.2016 is: Compliant
+The parameter: budget :  having value: 1,148 is: Compliant

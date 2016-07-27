@@ -1,0 +1,12 @@
+2016-07-17T02:33:17.364-06:00
+name : lYN....
+desc : &lt;IMG """&gt;&lt;SCRIPT&gt;alert("XSS")&lt;/SCRIPT&gt;"&gt;",
+end : 30.06.2016
+budget : 314,300
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: lYN.... is: Compliant
+The parameter: desc :  having value: &lt;IMG """&gt;&lt;SCRIPT&gt;alert("XSS")&lt;/SCRIPT&gt;"&gt;", is: Potentially Malicious
+The parameter: end :  having value: 30.06.2016 is: Compliant
+The parameter: budget :  having value: 314,300 is: Compliant

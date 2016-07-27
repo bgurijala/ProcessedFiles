@@ -1,0 +1,5 @@
+2016-07-17T01:40:54.958-06:00
+name : Q1h:.3w28N'.5
+desc : XSS-STYLE=xss:e/**/xpression(alert('XSS'))&gt;
+The parameter: name :  having value: Q1h:.3w28N'.5 is: Compliant
+The parameter: desc :  having value: XSS-STYLE=xss:e/**/xpression(alert('XSS'))&gt; is: Potentially Malicious

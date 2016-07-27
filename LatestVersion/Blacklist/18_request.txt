@@ -1,0 +1,12 @@
+2016-07-17T02:09:07.693-06:00
+name : S6.BAR'K'3'.u': '. 3B'0PK.'
+desc : '&gt; &lt;script&gt;alert(3)&lt;/script&gt;
+end : 28.07.2016
+budget : 4,471
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: S6.BAR'K'3'.u': '. 3B'0PK.' is: Compliant
+The parameter: desc :  having value: '&gt; &lt;script&gt;alert(3)&lt;/script&gt; is: Potentially Malicious
+The parameter: end :  having value: 28.07.2016 is: Compliant
+The parameter: budget :  having value: 4,471 is: Compliant

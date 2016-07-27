@@ -1,0 +1,5 @@
+2016-07-17T09:15:50.394-06:00
+name : WpGT...' .0.8
+desc : 
+The parameter: name :  having value: WpGT...' .0.8 is: Compliant
+The parameter: desc :  having value:  is: Compliant

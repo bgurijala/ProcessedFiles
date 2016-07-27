@@ -1,0 +1,12 @@
+2016-07-17T04:01:19.721-06:00
+name : WB''''7  85..S ''9.
+desc : &amp;#60;LAYER SRC&amp;#61;&amp;#34;http&amp;#58;&amp;#47;&amp;#47;testsite.com&amp;#47;scriptlet.html&amp;#34;&amp;#62;&amp;#60;&amp;#47;LAYER&amp;#62;
+end : 28.07.2016
+budget : 36,121
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: WB''''7  85..S ''9. is: Compliant
+The parameter: desc :  having value: &amp;#60;LAYER SRC&amp;#61;&amp;#34;http&amp;#58;&amp;#47;&amp;#47;testsite.com&amp;#47;scriptlet.html&amp;#34;&amp;#62;&amp;#60;&amp;#47;LAYER&amp;#62; is: Suspicious
+The parameter: end :  having value: 28.07.2016 is: Compliant
+The parameter: budget :  having value: 36,121 is: Compliant

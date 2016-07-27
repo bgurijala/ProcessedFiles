@@ -1,0 +1,5 @@
+2016-07-17T03:54:38.290-06:00
+name : xR.'c qG35.9 ' s..
+desc : &lt;IFRAME SRC="javascript:alert('XSS');"&gt;&lt;/IFRAME&gt;
+The parameter: name :  having value: xR.'c qG35.9 ' s.. is: Compliant
+The parameter: desc :  having value: &lt;IFRAME SRC="javascript:alert('XSS');"&gt;&lt;/IFRAME&gt; is: Potentially Malicious

@@ -1,0 +1,5 @@
+2016-07-17T02:01:45.595-06:00
+name : 1M88.:O  . .n M :.
+desc : &lt;META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:alert('XSS');"&gt;
+The parameter: name :  having value: 1M88.:O  . .n M :. is: Compliant
+The parameter: desc :  having value: &lt;META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:alert('XSS');"&gt; is: Malicious

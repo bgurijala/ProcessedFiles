@@ -1,0 +1,12 @@
+2016-07-17T04:44:48.268-06:00
+name : wv . e1
+desc : &lt;script&gt;alert('xss')&lt;/script&gt;
+end : 28.06.2016
+budget : 7,357
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: wv . e1 is: Compliant
+The parameter: desc :  having value: &lt;script&gt;alert('xss')&lt;/script&gt; is: Potentially Malicious
+The parameter: end :  having value: 28.06.2016 is: Compliant
+The parameter: budget :  having value: 7,357 is: Compliant

@@ -1,0 +1,5 @@
+2016-07-17T03:52:47.218-06:00
+name : Sf:T'G8S'
+desc : &lt;DIV STYLE="width: expression(alert('XSS'));"&gt;
+The parameter: name :  having value: Sf:T'G8S' is: Compliant
+The parameter: desc :  having value: &lt;DIV STYLE="width: expression(alert('XSS'));"&gt; is: Potentially Malicious

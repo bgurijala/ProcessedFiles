@@ -1,0 +1,12 @@
+2016-07-17T03:31:17.364-06:00
+name : hWg4y'QM'.b.i'dMr
+desc : &lt;body/????$/onload=x={doc:parent[document]};x.doc.writeln(1)
+end : 30.06.2016
+budget : 6,950
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: hWg4y'QM'.b.i'dMr is: Compliant
+The parameter: desc :  having value: &lt;body/????$/onload=x={doc:parent[document]};x.doc.writeln(1) is: Potentially Malicious
+The parameter: end :  having value: 30.06.2016 is: Compliant
+The parameter: budget :  having value: 6,950 is: Compliant

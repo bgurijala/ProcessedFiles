@@ -1,0 +1,5 @@
+2016-07-17T04:35:01.202-06:00
+name : 44.4 4 H'
+desc : &lt;XSS STYLE="xss:expression(alert('XSS'))"&gt;
+The parameter: name :  having value: 44.4 4 H' is: Compliant
+The parameter: desc :  having value: &lt;XSS STYLE="xss:expression(alert('XSS'))"&gt; is: Potentially Malicious

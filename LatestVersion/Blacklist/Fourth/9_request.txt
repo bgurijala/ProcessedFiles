@@ -1,0 +1,12 @@
+2016-07-17T18:21:45.432-06:00
+name : 6b:.3'FY'P 9.Y '' ' kF.'Z
+desc : width: expression((window.r==document.cookie)?'':alert(r=document.cookie))
+end : 24.06.2016
+budget : 709,712
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 6b:.3'FY'P 9.Y '' ' kF.'Z is: Compliant
+The parameter: desc :  having value: width: expression((window.r==document.cookie)?'':alert(r=document.cookie)) is: Potentially Malicious
+The parameter: end :  having value: 24.06.2016 is: Compliant
+The parameter: budget :  having value: 709,712 is: Compliant

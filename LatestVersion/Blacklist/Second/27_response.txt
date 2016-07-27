@@ -1,0 +1,5 @@
+2016-07-17T10:35:45.255-06:00
+name : CH.9p.3.QP.B2V16 2.'
+desc : vbscript:Execute(MsgBox(chr(88)&amp;chr(83)&amp;chr(83)))
+The parameter: name :  having value: CH.9p.3.QP.B2V16 2.' is: Compliant
+The parameter: desc :  having value: vbscript:Execute(MsgBox(chr(88)&amp;chr(83)&amp;chr(83))) is: Potentially Malicious

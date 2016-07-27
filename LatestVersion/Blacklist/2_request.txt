@@ -1,0 +1,12 @@
+2016-07-17T01:44:44.248-06:00
+name : 7U''..k
+desc : "&gt;&lt;script&gt;alert('XSS')&lt;/script&gt;
+end : 25.06.2016
+budget : 538,141
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 7U''..k is: Compliant
+The parameter: desc :  having value: "&gt;&lt;script&gt;alert('XSS')&lt;/script&gt; is: Potentially Malicious
+The parameter: end :  having value: 25.06.2016 is: Compliant
+The parameter: budget :  having value: 538,141 is: Compliant

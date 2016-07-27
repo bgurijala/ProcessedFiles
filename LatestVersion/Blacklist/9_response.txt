@@ -1,0 +1,5 @@
+2016-07-17T01:56:41.387-06:00
+name : MkT...A
+desc : &lt;IMG LOWSRC="javascript:alert('XSS');"&gt;
+The parameter: name :  having value: MkT...A is: Compliant
+The parameter: desc :  having value: &lt;IMG LOWSRC="javascript:alert('XSS');"&gt; is: Potentially Malicious

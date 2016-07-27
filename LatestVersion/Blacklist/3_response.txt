@@ -1,0 +1,5 @@
+2016-07-17T01:46:44.070-06:00
+name : QX1.' '' K''.10k4'3 ' 'D'F.I
+desc : &lt;BGSOUND SRC="javascript:alert('XSS');"&gt;
+The parameter: name :  having value: QX1.' '' K''.10k4'3 ' 'D'F.I is: Compliant
+The parameter: desc :  having value: &lt;BGSOUND SRC="javascript:alert('XSS');"&gt; is: Potentially Malicious

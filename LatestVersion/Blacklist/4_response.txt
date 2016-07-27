@@ -1,0 +1,5 @@
+2016-07-17T01:48:11.068-06:00
+name : 53'F7196'm'.''B.7yb:'3'
+desc : &lt;DIV STYLE="background-image: url(javascript:alert('XSS'))"&gt;
+The parameter: name :  having value: 53'F7196'm'.''B.7yb:'3' is: Compliant
+The parameter: desc :  having value: &lt;DIV STYLE="background-image: url(javascript:alert('XSS'))"&gt; is: Potentially Malicious

@@ -1,0 +1,5 @@
+2016-07-17T02:36:29.985-06:00
+name : 5JK..z8v  '..31''.SRW
+desc : <img src="jav%20ascript%3Aalert(" alt="jav ascript:alert(&lt;WBR&gt;'XSS');" />
+The parameter: name :  having value: 5JK..z8v  '..31''.SRW is: Compliant
+The parameter: desc :  having value: <img src="jav%20ascript%3Aalert(" alt="jav ascript:alert(&lt;WBR&gt;'XSS');" /> is: Potentially Malicious

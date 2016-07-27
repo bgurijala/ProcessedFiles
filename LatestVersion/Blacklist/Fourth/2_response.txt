@@ -1,0 +1,5 @@
+2016-07-17T18:13:19.234-06:00
+name : f85'R .5 T7'd.U88
+desc : 1};a=eval;b=alert;a(b(14));//
+The parameter: name :  having value: f85'R .5 T7'd.U88 is: Compliant
+The parameter: desc :  having value: 1};a=eval;b=alert;a(b(14));// is: Potentially Malicious

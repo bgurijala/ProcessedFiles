@@ -1,0 +1,5 @@
+2016-07-17T03:34:29.930-06:00
+name : wO .W2   .W  C .5..
+desc : &lt;SCRIPT SRC=http://testsite.com/xss.js&gt;&lt;/SCRIPT&gt;
+The parameter: name :  having value: wO .W2   .W  C .5.. is: Compliant
+The parameter: desc :  having value: &lt;SCRIPT SRC=http://testsite.com/xss.js&gt;&lt;/SCRIPT&gt; is: Malicious

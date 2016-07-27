@@ -1,0 +1,12 @@
+2016-07-17T03:06:36.266-06:00
+name : 6GS8 'se 
+desc : &lt;/XSS STYLE=xss:expression(alert('XSS'))&gt;
+end : 28.07.2016
+budget : 3,161
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: 6GS8 'se is: Compliant
+The parameter: desc :  having value: &lt;/XSS STYLE=xss:expression(alert('XSS'))&gt; is: Potentially Malicious
+The parameter: end :  having value: 28.07.2016 is: Compliant
+The parameter: budget :  having value: 3,161 is: Compliant

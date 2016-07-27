@@ -1,0 +1,5 @@
+2016-07-17T06:26:15.022-06:00
+name : Bl..3.'.C
+desc : */a=eval;b=alert;a(b(/e/.source));/*
+The parameter: name :  having value: Bl..3.'.C is: Compliant
+The parameter: desc :  having value: */a=eval;b=alert;a(b(/e/.source));/* is: Potentially Malicious

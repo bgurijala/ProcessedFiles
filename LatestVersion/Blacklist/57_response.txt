@@ -1,0 +1,5 @@
+2016-07-17T03:05:36.556-06:00
+name : FiP 7aK.'.'F
+desc : &lt;?xml version="1.0"?&gt;
+The parameter: name :  having value: FiP 7aK.'.'F is: Compliant
+The parameter: desc :  having value: &lt;?xml version="1.0"?&gt; is: Compliant

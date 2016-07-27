@@ -1,0 +1,5 @@
+2016-07-17T03:09:39.188-06:00
+name : WP '''i bb 'WoD
+desc : XSS/*-*/STYLE=xss:e/**/xpression(alert('XSS'))&gt;
+The parameter: name :  having value: WP '''i bb 'WoD is: Compliant
+The parameter: desc :  having value: XSS/*-*/STYLE=xss:e/**/xpression(alert('XSS'))&gt; is: Potentially Malicious

@@ -1,0 +1,5 @@
+2016-07-17T18:17:04.431-06:00
+name : WJD: .25
+desc : 1;a=eval;b=alert;a(b(/c/.source));
+The parameter: name :  having value: WJD: .25 is: Compliant
+The parameter: desc :  having value: 1;a=eval;b=alert;a(b(/c/.source)); is: Potentially Malicious

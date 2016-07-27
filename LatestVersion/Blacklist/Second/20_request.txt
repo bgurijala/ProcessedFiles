@@ -1,0 +1,12 @@
+2016-07-17T09:48:21.245-06:00
+name : Jx5:etB7 
+desc : '';!--"&lt;XSS&gt;=&amp;{()}
+end : 01.07.2016
+budget : 8,086
+company : -1
+assignto[] : 1
+assignme : 1
+The parameter: name :  having value: Jx5:etB7 is: Compliant
+The parameter: desc :  having value: '';!--"&lt;XSS&gt;=&amp;{()} is: Compliant
+The parameter: end :  having value: 01.07.2016 is: Compliant
+The parameter: budget :  having value: 8,086 is: Compliant

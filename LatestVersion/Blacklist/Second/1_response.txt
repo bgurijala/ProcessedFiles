@@ -1,0 +1,5 @@
+2016-07-17T09:14:16.512-06:00
+name : fhN:C '   1GC'4
+desc : <div style="background-image:url(&quot;http://ha.ckers.org/xss.js&quot;);">Div Body
+The parameter: name :  having value: fhN:C '   1GC'4 is: Compliant
+The parameter: desc :  having value: <div style="background-image:url(&quot;http://ha.ckers.org/xss.js&quot;);">Div Body is: Suspicious
